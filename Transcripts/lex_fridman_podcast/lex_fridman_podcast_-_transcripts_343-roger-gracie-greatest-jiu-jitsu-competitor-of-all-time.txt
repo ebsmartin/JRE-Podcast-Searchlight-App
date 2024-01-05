@@ -1,0 +1,1386 @@
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present.
+You can click the timestamp to jump to that time.
+Lex Fridman (00:00):
+The following is a conversation with Roger Gracie, widely considered to be the greatest jiu-jitsu competitor of all time. And now, a quick few second mention of each sponsor. Check them out in the description. It’s the best way to support this podcast. We got Bambi for HR services, Mizanamane for style, Blinkist for non-fiction, and Athletic Greens for nutrition, delicious nutrition. Choose wisely, my friends. And now, onto the full ad reads. As always, no ads in the middle. I try to make this interesting, but if you skip them, if you must, sinfully, with a regret in your heart, skip them.
+(00:41):
+You don’t have to have regret in your heart. Let go of regret. Live without regret, my friends. Please still check out the sponsors. I enjoy their stuff. Maybe you will, too. This show is brought to you by Bambi, spelled B-A-M-B-E-E. It’s an outsourced and automated human resources solution for businesses. It was built to give businesses a dedicated yet cost-effective human resource option at just 99 bucks per month. There’s so many things involved in running a business, only some of which I deeply enjoy.
+(01:14):
+Doing the innovation, the engineering, the details engineering, whether that’s software, hardware, mechanical, materials, all of it. I love the engineering. I love the early design stages when you’re coming up with ideas. I even love the product design, so coming up with a short-term and long-term vision of how to design things, how to bring joy to the world by building cool stuff, and then doing that at scale, doing mass manufacturing. Even that is super interesting, but to make all of that work, you have to do all of the glue, and the cohesive chemistry that makes a business run, and a big part of that is managing the people. It’s after all the people that do all the magic in a business, and managing the people is what’s in English called human resources, so you gotta use good tools for the job, great tools for the job, and hopefully affordable, cost-effective tools for that job, which is exactly what Bambi is. You can schedule your free conversation today. Go to bambi.com and type Lex on the podcast when signing up. That’s spelled B-A-M-B-E-E.
+(02:25):
+This show is also brought to you by Meson & Main, the maker of comfortable, stylish dress shirts and other menswear that I’m currently wearing, and I just popped my collar, like just because I’m feeling pretty good about this. I’m feeling stylish. I’m feeling sexy. This feels like an SNL skit. What was it? When the guy’s looking in the mirror and doing positive affirmations? I don’t think I’ve ever looked in the mirror and said, boy, you’re looking sexy today. The moment I am, I think I’m on a slippery slope to a place I don’t wanna be, but anyway, so I’m obviously doing it just for jokes. It feels comfortable. I just like the way it feels. I like the way it looks.
+(03:10):
+My favorite thing to wear is a suit and tie for more formal or for when I’m doing more serious kinds of engagements like podcasts or presentations, or just something I wanna take super seriously, and then the most relaxed thing is just a T-shirt, but in between that is a dress shirt, and for dress shirts, comfortable, sexy dress shirts, I go to Meson & Main. I highly recommend them. I obviously wear a black dress shirt. Right now, you can get a special discount. Just go to Meson & Main and use promo code LEX.
+(03:39):
+This show is also brought to you by Blinkist, my favorite app for learning new things. Blinkist takes key ideas from thousands of nonfiction books and condenses them down into 15 minutes that you can read or listen to. I’m not exactly sure why the pace of this segment of the program is being delivered at an increasingly fast pace. I wish I was able to talk this quickly during regular conversation. I think people criticize me for speaking too quickly. Oh, sorry.
+(04:10):
+Well, that’s a Freudian slip. Well, not a Freudian slip, but a misstatement. I think nobody’s ever criticized me for speaking too quickly. Too much, maybe, yes. Too slowly, yes. Boring and monotone, yes. Check, check, check, but not too quickly. I think because I’m really thinking on the spot a lot and I like the silence. I think the silence between words, at least for me, helps me think.
+(04:40):
+It also helps calm down the pace of the conversation where the other person can think. Oftentimes, the reason I’m talking is not necessarily to express an idea, like I really, really want to express an idea, but it’s really to express an idea in the service of the conversation, in the service of inspiring the other person to build on top of that idea. I really don’t just want to sound smart or say something that I believe needs to be said. Most of the time, I’m trying to dance. I’m trying to be a good dance partner. So anyway, all that said, the fuel, the catalyst for being a good dance partner in conversation is wisdom. And I gain some of my wisdom, to the small degree that I have it, from reading books. And you can read them in full or you can read them in part, and that’s where Blinkist comes in. Really the greatest of all time summaries in nonfiction books you can find anywhere. It’s just incredible. I recommend it very highly. You can claim a special offer for savings if you go to blinkist.com slash Lex.
+(05:47):
+This show is also brought to you by Athletic Greens and it’s AG1 Drink, which is an all-in-one daily drink to support better health and peak performance. All-in-one, all-in-one daily drink that I drink twice a day. So it’s all-in-one, but twice a day. But I think most people drink it once a day, but I have double the fun and double the deliciousness.
+(06:12):
+Anyway, it’s the way I guarantee to have a nutritional basis on which I can do, on top of which I can do all kinds of crazy stuff. All the nutritional diet stuff I do, whether it’s eat once a day or fast or doing long runs, like 12, 15 miles, doing long stretches of mental work, just all the crazy stuff I do. Or when I do carnivore, it just ensures that I’m getting the basic nutrients into my body. It’s like a amazing multivitamin, but it does just a lot more than that. And they’ll give you one month’s supply official, another thing that’s essential thing that I take every day, when you sign up at athleticgreens.com slash Lex.
+(06:55):
+Take care of your body and mind, friends. It’s the only one of each that you got. This is the Lex Friedman Podcast. To support it, please check out our sponsors in the description. And now, dear friends, here’s Roger Gracie. Let’s start with possibly the greatest match in Jiu-Jitsu history, your second match against Buchecha. Let’s go through the details. Let’s go through the whole thing. So the walk leading up to it. You always do this walk, this epic walk. You post that on Instagram. Hanzo posted on Instagram this calm walk towards the mat. Well, let’s go to that match in particular. What was going through your mind? You’ve been away from competition, facing probably one of the greatest, and at that time, many people considered the greatest Jiu-Jitsu competitor of all time in Buchecha. Here’s the old man, the old timer, getting back out there. What were you thinking?
+Roger Gracie (08:05):
+Yeah, I think that’s the first time since probably I got my black belt that I wasn’t the favorite to walk into a fight, I have to say. Like a lot of people thought, consider him the favorite. I mean, understandable. You know, I was out of competition for a while. He was just winning everything. You know, saying about the walk, like for me, you know, the fight starts way before the referee say go. You know, it’s all the focus and concentration that I think is very important for me to start before. Like, you know, I almost walk blind to the mat. Many times I pass like great friends and I couldn’t see anyone. You know, they’re trying to talk to you and I’m like, I’m a hundred percent focused on my opponent already, even though that I cannot even see him in front of me. So I think that’s for me was always very important to try to clear my mind out from everything.
+Lex Fridman (09:01):
+Are you visualizing the opponent or are you just clearing?
+Roger Gracie (09:02):
+Not at that time.
+Lex Fridman (09:05):
+Right, is there, what’s in your head? Is it like a calm river with birds chirping?
+Roger Gracie (09:09):
+It’s blank, just blank. Blank, darkness. Yeah, darkness.
+Lex Fridman (09:14):
+Okay, and that’s what we see in that calmness. It’s just blankness. How hard is it to achieve that blankness?
+Roger Gracie (09:19):
+It’s difficult to say because I think I don’t remember when I’ll say, probably as a black belt, I try to focus like that, not to think, because it’s probably something you learn, is the more you think, the more nervous you get. And there’s nothing that you’re going to gain by thinking of the fight or the possibilities, what you can do, what can go wrong, what can go right, because it’s unpredictable. You have absolutely no idea. It’s impossible to predict the fight. And you discover that if you just let
+Lex Fridman (09:50):
+those nervous feelings go and empty your mind, it actually is pretty effective. It is. It makes you feel better.
+Roger Gracie (09:57):
+It’s, you know, you kind of control your emotion, control the adrenaline on your body up to a level. So it absolutely helps you, you know, focus in the fight. I’ve learned that in jiu-jitsu and in general in life,
+Lex Fridman (10:08):
+I’ve learned that in jiu-jitsu and in general in life, that whenever something feels really shitty, you can just like take that thought and not think about it. Like I do that like on long runs or like a fast run, or yeah, in jiu-jitsu, especially when I’m getting older, out of shape, like that feeling of exhaustion, well, you can always get to the feeling of exhaustion. You can just not think about it, not think about being exhausted. Just, and that somehow relaxes you. I think maybe in the face of exhaustion, all the fears start to creep in. Maybe your muscles tighten up. I don’t know. This is for the amateur jiu-jitsu person.
+(10:47):
+It’s kind of funny how you can just take that thought and let go of it. So you get, as a black belt competitor, you get used to, you get good at letting go of any thoughts.
+Roger Gracie (10:56):
+Yeah. When you mentioned to exhaustion is, I mean, that’s another good example of it. It’s, you know, there’s a lot of times in the fight, you’re getting tired and you’re getting pretty tired. So it’s like the last thing you want to think of it is how tired you are. It doesn’t matter because it doesn’t. What are you going to do, quit? I mean, it doesn’t matter. It’s how tired you are. It’s…
+Lex Fridman (11:19):
+Yeah, there’s no value thinking about it. There’s no value. You just have to go through it. So when you’re like, you know, many minutes into the match and you’re slowly moving, as you sometimes do, tying your belt, catching your breath, you’re not thinking about anything. You’re trying to let go of thinking.
+Roger Gracie (11:35):
+I’m trying to, like, to save everything to the fight. Like, nothing goes to waste. It’s, you know, every move unnecessary, it’s just going to make you more tired or it’s going to take something out of you. Like, you know, I try to calculate every single move I make, save as much energy as I can, so I can fully, you know, be focused 100% in the fight, with no waste, especially energy-wise.
+Lex Fridman (12:02):
+And that’s instinctual. Like, minimizing the amount of moves. You’re not, like, explicitly thinking, should I do this or not? It’s just, don’t move unless it’s absolutely required.
+Roger Gracie (12:15):
+Yeah, because fight, you cannot really, there’s not really time to think much. You know, it’s like, your instincts are playing. It’s like, it’s, you know, you already have your weapons, let’s say, you know, the things that you do. It’s just, wait for the perfect moment. The beauty of it is, you know, there’s the right moment to everything. If you feel one second too late, doesn’t work. No, you get messy. So it’s, you know, you’re trying to catch that moment. That is, you know, and for that, you have to be fully focused in what you’re doing, because one second, you’re out. It won’t work.
+Lex Fridman (12:50):
+But you’re not exactly known as somebody that moves super quickly. So the moment, it’s not about how quickly you move. It’s about the right moment.
+Roger Gracie (13:03):
+So you make sure you move slowly. The right moment, yeah, yeah. It’s not like, it’s speed. It’s not like you have to move at the speed of light. It’s the move itself at that precise moment. It doesn’t have to be super fast, because your opponent’s not moving super fast, you know? So it’s a combination of moving between you and him.
+Lex Fridman (13:22):
+I mean, the same thing happens in judo, and the movement can be really small. Yeah.
+Roger Gracie (13:27):
+It’s just- I think judo is a bit more explosive, you know? It’s just the moves are slightly faster, so it does require a bit more explosiveness in judo.
+Lex Fridman (13:37):
+But even just the right timing for an off-balance. Yeah.
+Roger Gracie (13:42):
+It’s a little tough. Yeah, yeah. It’s not that, you know, moving, the speed is not gonna count that much. Yeah. It’s the timing that you initiate that move.
+Lex Fridman (13:50):
+You see that with foot sweeps. There’s nothing more beautiful than like an Olympic-level athlete going at it in the Olympics and a perfect foot sweep. And it’s just, and you see one man’s life flash before his eyes and realize, like, I’m supposed to be the top three person in the world, that I just find, and they have this look on their face, like, I don’t know what just happened. It’s beautiful to see. You don’t see that, I guess you see that in boxing, knockouts and stuff like that. You don’t know what the hell just happened.
+Roger Gracie (14:19):
+Yeah. It’s that precise moment of movement that you get caught. Like, it’s that one split second, that’s it.
+Lex Fridman (14:29):
+Do you get that in jiu-jitsu at all? Because judo has, because of the explosiveness, because of the point scoring system that incentivizes these giant throws, has these moments where everything just turns in a single moment.
+Roger Gracie (14:43):
+Do you have that in jiu-jitsu, too? Not really, because then it’s points. Yes, you get, like, two points. So it’s, because I think regarding the submission, it’s not just one precise movement that changes everything. I think judo is the takedown that counts as a submission, like Ippon, fight over. Jiu-jitsu don’t have that. So you will score points, but I think in terms of submission, you need to get to a dominant position first, and then the submission will come slowly. It’s a process.
+Lex Fridman (15:17):
+Yeah. Okay, let’s go back to that guy with his mind. So actually, in the weeks leading up to it, in the days, in the hours, in the minutes, is there some fear in you leading up to this?
+Roger Gracie (15:32):
+I mean, I’m not gonna say that I’m fearless, because everybody fears something, you know? The fear is there, but it’s like, how much will that control you? I think I was a lot more confident than fearful, for sure, walking into that fight. Like, I was pretty confident that, yeah, I could beat him. Where’s the source of that confidence? My beliefs, you know, and only this.
+Lex Fridman (15:56):
+Okay, I can take the world. That’s, you can take anyone in the world, but is there a specific strategic, like, you know, talking to Donahair, like, he believes that there’s no such thing as confidence, or rather, the way you get confidence is through data, like, that you have proven yourself effective in previous situations, but with Buchecha, you don’t have much data. It was a very, the first time you faced him was a very tough, that was also one of the greatest matches of all time, it was very tough. So, doesn’t that creep in, like, that doubt, because you don’t have enough data to be confident based on?
+Roger Gracie (16:44):
+Yeah, I mean, okay, if I never have fought before, you know, suddenly walk into a fight with someone like that, then would I be that confident? I mean, probably no. You know, so that history of what, you know, what we’ve been doing, what we’ve been achieving does gives you confidence. If that was my first fight ever, I wouldn’t, probably I wouldn’t be that confident. But the time off? It doesn’t matter. Doesn’t matter. Doesn’t matter, doesn’t matter.
+Lex Fridman (17:09):
+You don’t have the fear, or the actual physical experience, the psychological experience of being rusty, of being out of the competition. That will come out on training. So you, okay, so you simulate some aspects of that.
+Roger Gracie (17:20):
+Yeah, yeah, yeah, I mean, it’s, the training will tell you how you are.
+Lex Fridman (17:23):
+Okay. Did you increase the intensity of the training leading up to this?
+Roger Gracie (17:28):
+Yeah, I mean, I trained normal. Let’s say compared to the first fight, the second was a lot more confidence because, you know, like I say on training, that training for the first fight, it was terrible.
+Lex Fridman (17:41):
+What do you mean?
+Roger Gracie (17:43):
+I think I was focusing on MMA for a while, for a couple of months, and I wasn’t really focusing the gi, and, you know, by the time I accept the fight and start training, like all my responses on training were off. Like all my training partners that I used to train with that I destroyed. I mean, now they’re like, they’re beating me. You know, it’s like I cannot beat them the way I was used to. But, you know, so I knew something was not right for the first fight. But then it’s, you know, no points. It’s submission or draw.
+Lex Fridman (18:16):
+Yeah, for people who don’t know, it was the Mud and Mores, which is a 20-minute match, submission only. So there’s no, the winner’s determined only by submission. Otherwise, it’s a draw.
+Roger Gracie (18:24):
+So physically, I wasn’t myself on that fight. I was tired. My body wasn’t responding. Anyway, so the confidence was different from the first, the second. I think I was confident enough that I wouldn’t get tapped out on the first, that I was still gonna fight because he has to tap me out to beat me. And I trust on my defense. I’m confident enough on my defense that he will not tap me out. But in terms of winning, you know, walking to the second fight, I was a lot more confident.
+Lex Fridman (18:56):
+What can you say about that feeling when something’s not right?
+Roger Gracie (19:00):
+Isn’t that a thing that breaks people? It breaks, it’s weird. Like, people crack, they give up. You know, it’s a big test because it’s like being really tired. It’s the same thing. It’s like a lot of people crack because they just feel they cannot give in more. They have nothing more to give. So they just, like, give up. It’s too hard.
+Lex Fridman (19:21):
+So what do you do? Just, again, take the thoughts out? There’s no giving up.
+Roger Gracie (19:26):
+I mean, I don’t mind, I don’t care. Like, just giving up is not an option. It’s not.
+Lex Fridman (19:33):
+That’s always the way you thought? Yeah. About jiu-jitsu?
+Roger Gracie (19:36):
+Yeah, I never give up. I mean, I tapped. It’s, you know, not giving up is not tapping. That’s just stupid. Especially, you know, doing training. Like, I get caught, I tap. I’ve never, ever hurt myself by not tapping. I get, you get angry, you know, it’s train hard, you know, improve, make yourself better. You got caught. Accept that you made a mistake, give up, tap, then try harder.
+(20:04):
+So, you know, the not tapping, it’s, you’re sacrificing your body and, you know, you will never be the same. Like, if you let your elbow popped, the elbow will never, ever be the same, ever. You let yourself go to sleep, your resistance drops. So, it’s, everybody has a limit of resistance until they, you know, to resist a choke before you pass out. The moment that you go to sleep, that resistance will dropped. According to.
+Lex Fridman (20:32):
+I’ve never heard anyone say, yeah, that’s awesome. So, people. That’s true, so tap. So, that’s the reason, because people usually say,
+Roger Gracie (20:38):
+it’s, you can. No, it’s the same way you’re getting knocked out. You get knocked out the first time, your resistance dropped. Your jaw gets weaker. So.
+Lex Fridman (20:46):
+Just for the record, I’ve never gone to sleep again. Which means my resistance is high, right? I don’t know.
+Roger Gracie (20:52):
+Must be. Oh, your defense is pretty good.
+Lex Fridman (20:54):
+I don’t know about that. Because it doesn’t make sense to me. Or maybe. In my case, I think my understanding of when I’m screwed is pretty good. Yeah. Like, there’s no. You’re not in trouble. Yeah. One of the things I regret the most about my jiu-jitsu journey is not having given enough time to being in really bad positions. Like, the better I got, I think the less I started being in bad positions.
+Roger Gracie (21:26):
+Which is terrible. You spar. That’s like, that is how you train. Yeah. Because you used to just spar. When you spar, like, it’s difficult to be in bad positions a lot. You train with better people, but. I mean, let’s say five, six men in rows. How long you gonna be in a really bad position? Not long, right? So you don’t really have time to develop. That’s why people, they don’t, you know, they don’t train being bad positions. Because you have to start there over and over again to be used to it.
+Lex Fridman (21:58):
+Yeah, or put yourself there. I just didn’t have that mindset, I think. I think you start, I mean, part of the fun of jiu-jitsu is as you get better and better, you have certain people you go with, you have these puzzles that you’ve figured out that you’re playing, very specific details you’re working out, you’re trying to improve your main, like, techniques and so on. But yeah, just the percentage of time you spend being submitted or being, or even going against lower ranks, trying to escape basic submissions is low. I don’t know if that’s true for most people. Probably is, right?
+Roger Gracie (22:29):
+Most people have very bad defense. Yeah. Because they don’t allow themselves to be there because, I mean, who wants to get tapped? Because you will. Until you work on your defense, of course you’re gonna get tapped. Or, you know, you’re not gonna escape, you’re gonna struggle to escape. So people, they don’t want to be there.
+Lex Fridman (22:50):
+I regret it most because of the effect it clearly had on how I competed. It was clear that my competition was constantly driven by conservative thinking. Like, don’t take risks. I think because of a weak defense, honestly. And I think a lot of the, any of the fear, like, for example, exhaustion was accompanied by fear because of weak defense, I think. If I were to psychoanalyze myself, and I regret it, I regret it a lot. But speaking of which, I don’t think anyone’s ever submitted you in competition. So you’re…
+Roger Gracie (23:33):
+Well, I was a juvenile, yes.
+Lex Fridman (23:35):
+Yes, so when you were a young person. Yeah, 60. Does it still haunt you?
+Roger Gracie (23:40):
+I don’t know. First, I was winning that fight by a large, I mean, I think by six points or four, something like that. But I was like, I was done with it. You still remember it, though, huh? By the details. Yeah. Yeah. Yeah. Yeah.
+Lex Fridman (23:55):
+Yeah. Yeah. Yeah. Yeah. Yeah.
+Roger Gracie (23:58):
+Yeah. Yeah. Yeah. You ever beat him again? He never competed again. Yeah. Yeah.
+Lex Fridman (24:03):
+Yeah. Yeah. Yeah. Whoever you are, please, let’s do a podcast.
+Roger Gracie (24:08):
+I guess we’ll talk shit about Roger the whole time.
+Lex Fridman (24:11):
+No, but what do you attribute to that, too? You’re saying you’re confident, you’re confident that the top of the world, the number one buchesha would not submit you. So where is that confidence grounded, and what do you attribute the fact that nobody was able to submit you?
+Roger Gracie (24:29):
+First, it comes from training. I train a lot bad position. Like, my defense is good because I practice over and over again, as much as I practice all my offensive position. So it’s, you have to train both equally, not just be in a good position. You have to be in bad. So I think that’s a very strong part of my game. You know, to be a complete fighter, you know, a complete martial artist, you have to be good in every single position, every single one. Those that you’re not, you have a weakness. So it’s, you know, to be complete, you should have no weakness. So that was always my, you know, I was always very particular on that, like, it’s where my weakness, where I don’t feel good at it. If you put me in a position where I struggle, how do I escape? How do I get out? Everything, any submission locked, penny position, you know, back mount, everything. It doesn’t matter which position I’m at. I practice over and over again. So that when I, if I get there in a fighting situation, I will know how to get out. At least I’ll have a direction. You know, I will know this is my way out.
+Lex Fridman (25:44):
+Do you practice both escaping the bad position and the transition into the bad position, avoiding it? Because that’s how it happens. You know, jiu-jitsu, you start in a neutral position.
+Roger Gracie (25:58):
+No, the transition then becomes the fight itself. It’s being there is most important. It’s when you’re there, then you have to know how to get out. That’s your weakness. Stopping the person getting there is something different. They’re two different things. It’s either you practice one or the other.
+Lex Fridman (26:18):
+So, but both are important, I guess. But the stopping the person is easier to practice because that comes naturally in training. What was the actual process? Like, what was your biggest weakness throughout your, like, just remembering, what was annoying to you to figure out?
+Roger Gracie (26:34):
+I mean, side control is always- Bottom of side control. Bottom. Regardless how much you practice, it’s not ever easy. You’ll never be easy. But- It’s so annoying. It makes no sense. Yeah, someone pins you down. He doesn’t want to move much. He’s a big and strong guy. Regardless of who, it’s not gonna be easy to escape. So, some situations are just hard.
+Lex Fridman (26:55):
+That must be the, sorry to interrupt. I’m interrupting Haja Grace as he discusses jiu-jitsu. But you just made me realize, if you’re really good, if you’re going against, like, the perfect jiu-jitsu competitor, probably side control might be one of the hardest positions to, is it the hardest position to escape?
+Roger Gracie (27:16):
+It’s one of them. If the person doesn’t want to progress, he’s just concerned about- So, if they’re stalling.
+Lex Fridman (27:20):
+Yeah. Like, the best pinners in the world, I mean, partially because I’ve just seen judo people that know how to pin. Yeah.
+Roger Gracie (27:26):
+They- To escape their side control is a nightmare. It’s a nightmare. Doesn’t matter how much you practice. Yeah.
+Lex Fridman (27:35):
+It’s a nightmare. And it’s also just frustrating. Yeah. I think, I guess it is also frustrating because a lot of people in that position will be about maintaining control, not progressing. Yeah. And usually people, when they’re in mount and in back control, are usually trying to progress towards the submission, which opens up opportunities for escape. Yeah. So, what’s the actual process of just time and time again putting yourself in bottom side control?
+Roger Gracie (28:02):
+Yeah. Over and over again. Starting there, escape, get back, escape, get back. If you mount, you get back. Any situation outside that, stop, start again, stop, start again. And it has to be, I’ll say, five minutes because it’s the repetition that will teach you. You know, if you train like three minutes on top, you have time to, you know, one thing. And then time out. It’s the repetition, though, over and over again. You know, when you try the same move over and over again, then you’ll see what can go wrong.
+Lex Fridman (28:33):
+And is it understanding the details of the movement or actually doing the movement and feeling it?
+Roger Gracie (28:38):
+It’s both. First you have to understand the movement and then practice. But most important thing is defense. Escape coming second because, you know, he’s attacking you.
+(28:53):
+The one thing is if he’s not trying to submit you, but the other one, if it is, let’s say if it’s a person that’s very good, has a very good attack, the first thing is defense, not just escape and expose yourself to an even worse position because that is very risky. When you’re trying to escape, you’ll always expose yourself to a worse position. So avoiding that, it’s, you know, first is defense, not getting caught. And then when you’re escaping, don’t be in a worse position than you are.
+Lex Fridman (29:21):
+So defense in jiu-jitsu, when you’re wearing a gi, what does defense entail? Is it mostly grips? Is it mostly the positioning of your hips and legs?
+Roger Gracie (29:30):
+It’s everything together because it’s a whole body movement. It’s constantly moving your arms, legs, body. They have to, everything works together.
+Lex Fridman (29:42):
+Going back to the mind of that guy, so confident, no fear at this point. Is there a bit of ego in there too?
+Roger Gracie (29:54):
+Yes, like I said, I’m not gonna say I’m fearless. Of course, there’s concerns. That fight, I would have to say, was probably the fight that I got nervous the most walking in because I knew what that meant, that fight. I mean, everything for me, all my legacy was on the line because if I lost that fight, forever I would be number two, forever. And I mean, Bushishe is a great, great guy, great competitor, jiu-jitsu is very good.
+(30:31):
+I’m better than him, I knew that. But he’s competing nonstop at that point. No, no, he’s a great competitor, taking nothing out of him. He’s super tough, very tough, very good. He’s probably the best competitor in jiu-jitsu. He won 13 times the world championship. I won 10.
+(30:49):
+So as a competitor, you know, he has more titles than I do. So, but in terms of analyzing the game, I consider technically better than him. So knowing all that, everything that I build, all my legacy, it’s if I lose. Riding in this match. If I lose this fight, I’m forever number two.
+Lex Fridman (31:15):
+And none of that is going through your mind.
+Roger Gracie (31:16):
+No, I knew, I mean, it’s not at that moment. I already knew that. I remember just before, you know, the curtains open, I’m standing in before they call my name. And I mean, my legs were like, I feel the adrenaline kicking on my legs. And I’m like, you know, I’m hitting the legs. I’m like, wake up, you know, get off, get the adrenaline off me, you know. So it was intense. It was intense. And this was in Rio. That was in Rio. So. My hometown.
+Lex Fridman (31:49):
+So this is, I mean, and you know, Rio is not exactly known for its calmness in its fans. So this is like, wow, wherever they hosted the Olympics the year before. So this is like, I mean, this, like the whole basically martial arts community is watching this. Watching the fight. Yeah. I mean, is there some, was Henzo there? Yeah. Yeah, he was there. So people are just, I mean, there’s a tension. It’s also, I mean, I don’t know if you felt that in part, but you’re also fighting for the Gracie name. Yeah.
+Roger Gracie (32:28):
+In our hometown. The greatest. Where the Gracie really stands.
+Lex Fridman (32:33):
+Gracie competitor of all time, arguably in the hometown. Yeah. I mean, okay.
+Roger Gracie (32:40):
+All my family, my best friends, my friends, everybody watching, everybody there. There was a lot of pressure.
+Lex Fridman (32:46):
+A lot. And then were you thinking that you would be able to submit him?
+Roger Gracie (32:53):
+No, it’s at that point, like I don’t predict how the fight will go. That I never did because it isn’t predictable. It’s, I never try to set any strategy for any fight. I think, oh, okay. That I did, but that was the only time that I set any strategy into a fight. There was a 15 minutes fight then.
+(33:15):
+And for, I said, first five minutes, I’m going to play defense. He’s bigger, stronger, younger. I don’t want to play his game. And I know he comes in very fast. Every single fight he had, you know, he comes very aggressive. So my strategy walk into the fight, I say five minutes, I’m going to play defense. I’m not going to try to attack. I’m not going to try to match his pace.
+(33:37):
+I already expected, you know, maybe I’m going to start losing the fight because, you know, if he comes in, there’s a risk of me maybe getting takedown or, you know, something happen. I’m like, I’m going to stick to the game plan. Five minutes, I’m going to start picking up the pace because then it’s 10 minutes to go, which 10 minutes is a long fight. So I don’t need to start fast, but I’m going to start being more aggressive. And then, you know, try to take him down or pull guard. You know, by then I’m like, that’s as far as the strategy goes.
+Lex Fridman (34:06):
+So no specific stay on the feet. Were you comfortable being both bottom and top in this?
+Roger Gracie (34:11):
+Yeah, I’m always comfortable being bottom or top. I prefer to be on top because being in the bottom, the person on top dictates the pace of the fight because he’s on top over you. So I always prefer to be on top because I can dictate the pace. I can implement my own pace. And being the bottom, they can slow me down. So it’s harder. So if I can choose, I will always be on top. But I think by then I was like, it’s, you know, five minutes, hit it. I’m like, he’s pretty big and strong. I’m going to spend a lot of energy taking him down. I pull guard.
+Lex Fridman (34:48):
+How did it, how did it feel? So here you’re stepping in, by the way, Puzzle Maths, this is old school, as old school as it gets. So calm and relaxed here. For people just listening, we’re watching the early minutes of the match. So just feeling it out. He seems pretty calm too. He must be nervous too. I wonder how, do you ever talk to him? You guys are friends. Yeah, yeah, we’re friends. Did he ever say how nervous he was?
+Roger Gracie (35:12):
+No, we never spoke about that fight. No?
+Lex Fridman (35:18):
+No. He probably lays late at night thinking about it. Maybe, I don’t know. That SOB.
+Roger Gracie (35:25):
+Yeah, I mean, so you see the first five minutes, you know, he kept, I knew what he was going to do in my study his game. His stand up is most basic, is basic in takedowns, leg attacks, double leg. So he goes single, double, and he charges in. That is pretty much his stand up game. So you would try, you get a grip. Yeah, but we got penalized.
+Lex Fridman (35:53):
+So do you like to use the, do you like to post with your left? You have a right foot forward usually?
+Roger Gracie (35:59):
+You’re a righty, right? I’m a righty, but I know he wants my leg. So I’m playing my stance just because of his game. All my grips, the first five minutes was to kind of try to neutralize his attacks. So he wants to get your left.
+Lex Fridman (36:17):
+Yeah, right there. Yeah. So how hard is that to stop that?
+Roger Gracie (36:21):
+I mean, he felt pretty strong coming in. So I’m pushing the head down trying to play with his balance.
+Lex Fridman (36:29):
+Yeah.
+Roger Gracie (36:29):
+Wow. If you see it, there was a pause. Go back there. He charged in. There’s a pause, me standing in front of him. Yeah. I did that on purpose. What do you mean? Just in front of him, because he tried. And I’m like, you fail. I’m here.
+Lex Fridman (36:51):
+There’s a, okay. So you could feel the frustration.
+Roger Gracie (36:56):
+I could feel his frustration not be able to take me down.
+Lex Fridman (37:01):
+Okay. So now, and this is just psychological battles.
+Roger Gracie (37:05):
+So basically- And you see me walking straight into the middle of the mat and he’s circling out. Yeah. See, I’m going very slow, recovering. And he’s computing like shit. Yeah. Because he just made an effort, tried to take me down. He needs to recover. And I mean, you need to recover. The other guy’s there waiting for you.
+Lex Fridman (37:24):
+And do I go for another takedown? Because this one failed. Yeah.
+Roger Gracie (37:31):
+Do I need to recalculate the strategy? Yeah, and he kept trying over and over again and keep failing. I think that frustrated him a lot on that fight. I felt him kind of slowing down suddenly because he was getting nowhere.
+Lex Fridman (37:48):
+Yeah. So we’re five minutes in. Yeah, he keeps… So you never got that takedown in the early? No. Let’s see. So at this point, do you pull guard? Yeah, okay.
+Roger Gracie (38:04):
+So that’s when I felt like he’s… Mentally, he’s worried now. Did you try to pull close guard here? No, I knew he was gonna bring Danny in.
+Lex Fridman (38:17):
+Okay. Because that’s the defense against pulling close guard? Yeah. But I like that.
+Roger Gracie (38:23):
+I like people bringing Danny between my legs because, see, I’m gonna close my guard even with his leg in.
+Lex Fridman (38:31):
+Okay, he’s stopping the… Well, this is awkward, but…
+Roger Gracie (38:36):
+Because I was holding his arm, that’s why he felt he had no hand to post. Got it.
+Lex Fridman (38:41):
+But still, it puts a leg in, but you’re able to close your guard.
+Roger Gracie (38:46):
+So you’re okay with that? I do that really well. I sweep people from that position a lot. What’s the sweep? I guess it’s just pushed. Okay.
+Lex Fridman (38:54):
+It’s just a… Like to your left side? Yeah. Okay. Because he has no… Oh, it’s almost like you’re basically around his back a little bit.
+Roger Gracie (39:02):
+And he knew that I swept a lot of people with that sweep, so you see he kept leaning to his left, to my right. So I wanna push them to my left, so you see him leaning over to my right a lot.
+Lex Fridman (39:16):
+What’s the right answer for him, to roll or something?
+Roger Gracie (39:18):
+No, I mean, he’s stuck. He’s stuck there. But the one thing he did, he kept off me completely. See that he’s leaning, like he’s too afraid of my attack now. Because he should lean on me. You should bring the fight to me. So when I fell him, I knew he was like, he’s too worried about my attacks now.
+Lex Fridman (39:42):
+Oh yeah, that’s right. So he can’t…
+Roger Gracie (39:44):
+Yeah. If he comes back to the center, he has no… So he’s not engaging now, at that time, he’s 100% just defending. So I felt that, I’m like, he doesn’t wanna engage. And he’s looking, I knew at that point, he wants my foot. Because our first fight, I had the exact same position, I wasn’t holding his arm, and he went to attack my foot. Which he did, you know, he got into attack. Like a toehold or what? Okay. Yeah. So I knew he’s looking at my foot. Which foot? Sorry, your right foot? Yeah, my right foot. Okay. And so how you defend? But I’m holding his arm. You’re hiding it?
+Lex Fridman (40:20):
+I’m holding his arm. And now you’re going to the back as an arm drag type of thing.
+Roger Gracie (40:22):
+So the moment that I came off, now I’m holding his arm so he cannot come up. So you know, I’m holding his left arm, so he cannot post a hand on the floor and come up.
+Lex Fridman (40:33):
+And he’s holding your right to try to get you… Yeah. Basically to prevent you from attacking. Yeah. Oh, that’s interesting. And he rolls.
+Roger Gracie (40:43):
+Yeah, he tried to get me off balance. So see, now I’m switching, I switch the grip on his arm so I can free my left arm.
+Lex Fridman (40:53):
+Can I ask you a question? Yeah. Was there a chance he sweeps you here?
+Roger Gracie (40:58):
+I mean, there’s always a chance, but very hard. Like that? But see, my left arm is free. Oh, so you can post.
+Lex Fridman (41:05):
+Yeah. Why was your left arm free? Oh, because you were using it, you got it. I got it.
+Roger Gracie (41:10):
+So I tried the hook. Now you will see. Still got your arm. Yeah, but when I knew, he’s panicking because he did a move that he completely opened himself up. Like I’m holding his left arm. So by holding the arm, that prevents him from defending the hook on that side because his arm is being held across. So the arm cannot block the hook.
+(41:37):
+And I mean, that- The hook with your left leg? Yeah. So you’ll see when he come up. But I would say, I mean, that’s my guess, but Bouchiche, he’s a big guy. You know, he’s like 110 kilos, 112, something like that. Which is? 245. Yeah. All right. So what were you at the time? Less? 220, yeah. 220.
+Lex Fridman (42:01):
+A nice slim 100 kilo.
+Roger Gracie (42:04):
+Okay. So his defense are not amazing. He’s good, but you know, he’s not known to have amazing defense. So by being the big guy in the room when you train, you used to get out of situation because of your size. You shake people off. You know, it’s because of your size, you shake them off, you get off some bad positions. You can, I mean, I could feel on the first fight, I’m side control, you know, suddenly he explode out. So, you know, I’ve seen him doing that a few of his fights.
+(42:38):
+Not in the most technical way, just I’m getting out. And he did because of his size. So, and he did the same thing, like he tried to stood up when I’m on his back. He completely opened up the hooks. You will see the next move, his head gonna come up and he gonna try to get off the floor.
+Lex Fridman (42:56):
+So basically, he come up, shake you off.
+Roger Gracie (42:58):
+And there was no defense for the hooks. I put both hooks in straight away. Oh, his arm is. Yeah, I’m off balance. Yeah, see, I didn’t bring him up, he came up. Yeah. And now, I’m attacking his neck and he’s worried about the hooks. That’s fatal mistake. That’s like defense always come first. Remember what I just said now? Yeah. Defense first, escape second. So he’s not worried more about the points than his neck.
+(43:30):
+So it was like a progression of mistakes. That’s why I think he got frustrated when he couldn’t take me down. Yeah. And then when I pull guard, he was frustrated that the fight wasn’t going his way. You know, he’s very good about taking down. He try over and over again for five minutes.
+Lex Fridman (43:46):
+And here he was frustrated about the hooks. So he’s like, it’s almost like the frustration, things like, no, no, no, these hooks shouldn’t be here.
+Roger Gracie (43:53):
+Like I pull guard on the grips that I want. He’s not comfortable inside my guard. He’s not in a position that he wants to be. He’s over leaning to his left. You know, he’s not engaging or trying to pass. He’s trying to get the foot, but his arm is trapped. He’s going to get nowhere. And then when I swept him, some of his words start collapsing. You know, he couldn’t take me down. I pull guard, I’m swept in. He tried to roll me over. No, he didn’t get me anywhere. The first movement that he tried to escape, I’m on his back. Now he’s lost.
+Lex Fridman (44:27):
+And that, if you just go back to him standing up.
+Roger Gracie (44:33):
+See, both hook goes in no defense. Like there was nothing on the way of those hooks.
+Lex Fridman (44:40):
+Because he tried to come up. As he’s coming up, you’re high enough on him to where the weight was just probably immense. It just felt too heavy. I mean, you’re already going for the choke. Yeah, of course.
+Roger Gracie (44:56):
+There’s no time to lose.
+Lex Fridman (44:59):
+Look at that. Yeah. So you’re not like worried I’m going to get shaken off. You’re going for the choke.
+Roger Gracie (45:03):
+No, I’m on his back. You got your right hand on his lapel. He’s not shaking me off. I’m on your back now.
+Lex Fridman (45:06):
+We’re in this together. And your right hand is opening up the lapel.
+Roger Gracie (45:12):
+My right hand is holding his arm.
+Lex Fridman (45:14):
+I’m still holding the sleeve. Oh, sorry.
+Roger Gracie (45:17):
+You’re holding the sleeve, but. Holding the sleeve and I’m already going for the neck. Because it’s timing.
+Lex Fridman (45:22):
+At which point do you let go of the sleeve and open up, help with the lapel,
+Roger Gracie (45:27):
+or do you not need it? No, I did that, but first I want to try to make a grip. Like then I need to establish control before I let go of his arm. Got it. So I kept holding that a bit longer. And then when I fell, okay, I have a good control over the back, then I let go.
+Lex Fridman (45:46):
+Do you, okay, so you have like a light grip on his lapel, but you’re thinking you need to. No, I need to adjust that. You need to adjust that. Yeah. You’re like holding it there and you’re thinking, okay, at some point I need to adjust this.
+Roger Gracie (45:57):
+All I need, all I want is to get under his chin. Then I know it’s, I mean, now I can go for it. Because if it’s over, there’s no choke, right? The wrist needs to be under. Can you choke Buchecha over the? No, I can’t. That’s just not right. Okay. It’s not right or it doesn’t work? Both. It’s not right and it doesn’t work. I mean, would you tap to choke on your chin? No, it’s just pressure. You hurt, but it’s not gonna choke you out.
+Lex Fridman (46:22):
+I don’t know. I don’t know. I’m not, let me argue this. I love this. Arguing with Roger Grayson about chokes. This is great. Okay. Like clock choke, it was always interesting to me because in Judo, it’s illegal to have the gear on the face. And so it was kind of liberating for me to be allowed to have a gear on the face. No, it’s just. Liberating. No, you don’t have to worry about it. Of course, it’s more effective to go under the chin, but I’m surprised just because the amount of pressure.
+Roger Gracie (46:51):
+It’s all about how much you can take it. You can take a lot. But it feels like. No, it doesn’t feel comfortable. I mean, sometimes on your mouth, it cuts your mouth. Now you’re bleeding. It feels horrible.
+Lex Fridman (46:60):
+No, but that’s not the feeling. The feeling, it might not be a choke, but the feeling like it’s a pressure that everything’s just closing in.
+Roger Gracie (47:07):
+But it doesn’t take you anywhere. Like, you’re not gonna go to sleep. You might not go to sleep. So it’s just pressure. Yes. So pressure, it hurts, it’s uncomfortable, but it’s not gonna break your face and it’s not gonna put you to sleep. So if I don’t get the neck, I don’t go for the kill. I’m holding his collar. My wrist is almost under. I’m trying to kind of dig in. If I can’t dig in, then I would adjust the collar, but first I need to dig in.
+Lex Fridman (47:40):
+A dig in first, then adjust. Can you do all that with one hand or no? I did. So you can tighten the choke with just one hand?
+Roger Gracie (47:49):
+No, I need the second one to open the lapel. To open the lapel. But you’re like digging in with one hand. I’m digging in under the chin. Under the chin. Now I need to go deeper.
+Lex Fridman (47:58):
+But that, the going deeper requires the second hand. It does. Okay. It does. And, but that requires you letting go of the other hand. Yeah, I have to let go eventually.
+Roger Gracie (48:07):
+Yeah, see? All right. Well, that’s over. Yeah, because I’m already under his, like the first hand got under the chin.
+Lex Fridman (48:18):
+Do you need the hand on the second lapel? Of course, otherwise he turns and he’s out. That’s the control of the turning versus the tightening of the choke.
+Roger Gracie (48:24):
+Yeah, it does both. It helps tight the collar and stop the person rolling out.
+Lex Fridman (48:38):
+Were you feeling pretty good about this position? Yes.
+Roger Gracie (48:43):
+I just felt it’s getting tighter, tighter, tighter, tighter because it wasn’t super tight from the beginning. It wasn’t like the perfect choke. So we’re still, I mean, I knew it was like it’s very close to the end, but you know, I still need to adjust. There was still the risk of maybe escaping. Is it possible for his head to slip out? It’s possible, yes. But I’m closing that gap.
+Lex Fridman (49:08):
+Yeah. Right here. What did that feel like? Relief? Relief. Awesome. It’s amazing. Somebody on Reddit asked, ask him about the cross grip he used to sweep followed with a genius grip switch when Buchester was inverted. Did you use a cross grip when you sweeped? Did you sweep?
+Roger Gracie (49:30):
+That’s the cross grip in the arm.
+Lex Fridman (49:32):
+Oh, that’s the cross grip. Okay. What’s the genius behind that? Or was that just the, do you like that kind of grip?
+Roger Gracie (49:41):
+Yeah, because I always like close guard. And no one wants to be in anyone’s close guard, right? It’s open guard, it’s the step to pass. So everybody, when you try to close the guard, they bring their knee in the middle. Like if you’re not standing, if you’re lower on the ground and they’re open guard, if you’re close to me, you need that knee between. So it’s a must. That’s when I start developing the attack. You know, I managed to have long legs to close my legs around people even with that. And then I just developed that sweep. When did you start developing that? I don’t remember when, but I would say before black belt.
+Lex Fridman (50:20):
+Okay, so your answer to that is not to figure out how to prevent them from putting the knee in. Is there an answer to that?
+Roger Gracie (50:30):
+No. But good guys will always try to get the knee in. No, you can’t remove their leg out of the way. That’s not possible. Well, maybe off balance them enough to where it’s not. No. Okay. You can try, but like it’s hard. If you’ve gone off balance, you’ll sweep them.
+Lex Fridman (50:43):
+Right. So that knee’s gonna see.
+Roger Gracie (50:45):
+You’re gonna have to stop that. That’s a full sweep, yeah. Because that’s, it’s extremely common to have that. I mean, if I’m on your guard, open guard, you know, if you have your legs, if I’m between both of your legs in the open guard, my knee will be between your legs. Because it’s a must. My knee cannot be on the floor.
+(51:04):
+Since Hanzo was there, what did he tell you before? I think just motivate you. I think that’s, Hanzo always did that fantastically well, to motivate me. Like before in fight or match, I think that, you know, the confidence, you know, his, you know, his energy being around you. It’s, I think that’s the, it’s the great thing to have Hanzo in your corner. It is the motivation that he gives you.
+Lex Fridman (51:29):
+What did you learn about jiu-jitsu in life from Hanzo Gracie? We got to hang out with him in Vegas a little bit. He’s a character. He’s one of the historic coaches and jiu-jitsu competitors, but also personalities in the martial arts world, in the world in general. There’s very few like him.
+Roger Gracie (51:46):
+Hanzo is a fantastic person. It’s, you know, what I’ve learned most from him is like it’s, you know, you can take any challenge. It’s, you know, it doesn’t matter when, where, what, you know, who. It’s, you know, you have to be ready. And, you know, with that warrior spirit that he has, he, you know, he always took any challenge, ready or not ready.
+Lex Fridman (52:13):
+Was it you that said it, or he said it, where not until you go in, you know, to do something difficult do you discover the strength that you have? So like, if you really think about it, you might think that you don’t, you’re not good enough. You don’t have the strength to take on something difficult.
+Roger Gracie (52:34):
+I fully agree. I think we are measured not when we’re on the strongest, but when we are on the weakest. That’s when we truly measure ourselves or character, who we are, not when we’re in a position of power or when we’re in a position of weakness.
+Lex Fridman (52:48):
+Have you surprised yourself? Like how damn good you are? Like, is this really how good I am in this situation? Where in retrospect you might think how the hell was I able to accomplish this?
+Roger Gracie (53:00):
+Not how good I am, because otherwise I wouldn’t be there. So, you know, being there in the first place, it’s already not a great thing. But I say, you know, every single time I found myself there, I was super proud that I’ve never cracked. Like I’ve never gave up, ever, any second, any fight, never.
+Lex Fridman (53:26):
+Never been broken in competition, never.
+Roger Gracie (53:28):
+Even, it’s not about winning or losing, it’s about you giving up. I’ve never doubted myself. I always fought to the very end, always. That I’m most proud of. Because there was moments, you know, it’s in a terrible position, you know, mainly like there was moments that I was super tired, but like exhaustive tired, when it was easy to give up. Like I had nothing more to give, but I pushed. I took energy out of my soul, I would have to say, because when my body hadn’t zero, my spirit, my soul, pulled it out.
+Lex Fridman (54:07):
+Is that in part just not allowing yourself to have, to have, to ever, ever quit? I have one other thing I regret. I remember like a blue belt match. I remember, I’m not gonna say who it was against, but I remember just being extremely exhausted and just constantly fighting. A guy was really good mount, really good guard passing. And I just remember him passing my guard eventually. So it was just like a finals of one of the IBJJF tournaments. And then right away going to mount and just, I don’t know, the level of frustration. I mean, I quit at that point.
+(54:57):
+So I remember that still. It’s not about losing, winning or losing, but I just remember I was like teary-eyed, frustrated. And then I knew there was a lot of fight still left in there somewhere, and I quit. And I regret that to this day. Because I think the reason I regret that is because it gave me an option to now quit. In every other aspect of life, this is an option.
+Roger Gracie (55:22):
+Yeah, it is. It sucks. Hmm. Yeah, it teaches you, you know? It makes us stronger. I think it made you stronger.
+Lex Fridman (55:33):
+Yeah, it makes you stronger that you did that to learn that don’t do that again. But still, like you said, just going to sleep and training, I do think it made me weaker. It did make me weaker in the rest of my life too. Those, you know, I’ve quit a few times in my life on small things, and you realize, okay, it’s not that big of a deal. It’s fine. Like, who cares? But what you learn over time is that voice always comes there, like, obviously, maybe it does for you too, even at the highest level, of like, it’s not that big of a deal. Like, it’s okay to quit here. Like, it makes sense. Everybody would understand.
+(56:13):
+You know, in some sense, like, you’re, you know, many people would say you’re past your prime in this match with the progesterone. Like, it makes sense, you’ve been focusing on MMA. It makes sense. It makes sense to lose. Yeah, I don’t know, that’s a weird voice. And in some sense, it’s that voice and a voice that says, like, why are you doing this? Like, this is silly, this doesn’t make any sense. Just stop, just stop, just stop.
+(56:43):
+And shutting that voice down and never allowing yourself to quit, that’s a really powerful thing. Like, everybody I’ve met, everybody that’s successful, yeah, down to the, even engineers, CEOs, Elon Musk, just never quitting. Like, when everybody around you says quit, never quitting. It’s weird, I don’t know what that is. Might be genetic. It might be, like, using the stubbornness to just never allow yourself to develop that. Develop that, it’s basically developing a callouses to that voice that tries to tell you to quit. You never quit, huh? What would you attribute that to?
+Roger Gracie (57:23):
+It’s like how much you want to get to the destination you chose. Like, you know, it’s how badly you wanna get there. It’s, if you quit, you’re never gonna get there. And you always wanted to. I always wanted to.
+Lex Fridman (57:39):
+Yeah. Is there some thing you remember from that match? Some things that happened before and after that stand out to you? Just since in Rio.
+Roger Gracie (57:46):
+Yeah, there was an interview, you know, like, prior to the fight, you know, there was a big fight. We were doing, like, media every day before. We were meeting, you know, me and him, we were meeting for media. And, like, five days before, you know, five, six days before, I’m quite chatty. It’s, you know, the closer we get to the fight, the more focused I get. The less I talk, I stop, joke around, playing, you know, with people. But I remember, I think it was maybe three or four days before, we were doing an interview together. I think my cousin, Kira, was there. She was doing one of the interviews with us.
+(58:24):
+And I don’t remember exactly what we were talking about, but I just remember, we were talking about the fight, of course, and then it was, you know, we were standing beside each other. And I’m like, and then I, you know, suddenly I jump in and grab him by the neck. I say, well, I’m going to tap you by the neck. And then he’s like, you know, very shy. And then I let go. I say, no, I’m going to grab, tap you by the arm. And I could feel he was like, he wasn’t comfortable, you know, with being there. You know, me saying that I’m going to tap him out, there was, like, I was so relaxed, joking about it. But I’m joking that I’m going to tap him out in a fight that we’re going to have in four days’ time. And yeah, I felt he was like, not comfortable at all.
+Lex Fridman (59:03):
+Do you think you got in his head a little bit? Yeah, I did, I think. Did it give you a little bit of confidence? Yeah. You’ve said that jiu-jitsu is a reflection of your personality. So both your jiu-jitsu and your personality, there’s a calmness. What is that? Why are you so calm? Is there, like, an ocean underneath that’s boiling? Is this developed, or is this your personality? Are you basically leveraging who you are already to develop a game around the jiu-jitsu, or did jiu-jitsu make you calm?
+Roger Gracie (59:30):
+I think both. I was always very calm since I was a kid, you know, since very young. I was never a very, you know, fiery person. So that is a reflection, you know, it reflected on my jiu-jitsu, my life, on my fights, the way I fight. So it’s a direct influence of my personality. And I think it’s also in the day, you know, you develop, the more you practice, you know, the more you fight, it’s, like, you know, you don’t want to get nervous, you don’t want the adrenaline in, so you just learn how to shut that off from your mind. So the less I thought about it, you know, it’s like how many times I fought. You know, let’s say the week before the fight, that’s when you start, when you’re concerned the most, because now it’s getting very close. Before, it was just far away. You know, it’s normal to think of the tournament, you get a bit nervous, but it goes away quick. But the fight, you know, the week before, now you’re constantly thinking of that day.
+(01:00:28):
+And every time you think, adrenaline pumps in, your heart accelerate, you know, it doesn’t, you know, it makes it, it’s like, why am I feeling this? What difference will it make? So you’re kind of, you’re shutting that thought out of your mind, because you don’t want to feel the adrenaline, your heart accelerating. It’s not gonna add you anything. So it’s, you know, it’s the practice also that I think I, it helped me to shut that off my mind. Has that helped you in regular life? Yeah, of course. It’s, you know, it’s suddenly when you go into any, any situation that might be stressful, you know, like an important meeting, you know, super, whatever it is, it’s like, how much would you worry about that before? Worry that it’s not gonna help you anyway. It’s the opposite. Just gonna make you more nervous, your heart will accelerate, your ability to think clearly is gonna be damaged by that. So it’s like, the more calm, the more relaxed you are, the better you can think of.
+Lex Fridman (01:01:25):
+Do you ever get angry? Yeah. Like in traffic? Do you ever get like, not calm, just like you’re screaming? Not in a screaming, no. But just angry? Yeah. What does angry look like? Is it still calm?
+Roger Gracie (01:01:40):
+Yeah, like, you know, a few seconds of complaining, but then it goes away. Have you ever like,
+Lex Fridman (01:01:44):
+thrown a cell phone at a wall or something like that? No.
+Roger Gracie (01:01:48):
+No, I never get that angry. Cause that’s just silly. It’s like, it’s, if I would have done that, I would not be able to control my emotions prior to a fight.
+Lex Fridman (01:01:60):
+That would be a reflection. Letting yourself lose. Yeah.
+Roger Gracie (01:02:04):
+Losing control that will reflect other times.
+Lex Fridman (01:02:09):
+Do you think it has make, in part made you more emotionally closed off from the world? Like you’re, it’s harder for you to be vulnerable to others?
+Roger Gracie (01:02:19):
+Probably. Yeah, but I heard that a few times. I’m emotionally closed. It’s, yeah, maybe. I think that influence it. Yeah. Have you ever cried in a movie? Yeah. For not for many years before that, I think maybe I’m getting older. Do you remember the movie? Something, no. That’s a silly movie. I mean, it’s, no, I mean. Is it the notebook? No, I mean, I would say the last few years, I’ve been crying more than before for some reason. I don’t know why. Like silly movies, like nothing suddenly brings tears to my eyes.
+Lex Fridman (01:02:53):
+Yeah. Well, I’ve already, I already just having met you and interacted with you, I can see that you’re kind of opening your heart and mind to the world. You could, you could see like, here’s this historically great athlete. Now, like the wars have been fought and you’re now like waking up to the world. This is cool to see.
+Roger Gracie (01:03:13):
+Probably I’m bringing my guard down now. I don’t have to keep it up all the time.
+Lex Fridman (01:03:16):
+You don’t have to keep it up all the time. You don’t have to fight. You can even do some podcasts. You said you watched like movies beforehand sometimes. Mentioned Braveheart. What were you doing? Did you watch something beforehand? Like the day before?
+Roger Gracie (01:03:29):
+I used to, yeah. I, there was like, I think Braveheart and, yeah. Gladiator. I mean, there’s a few others that I’ve always watched the day before. Cause the day before I used to do nothing. I just want to be at home, in bed, watching TV, like saving, you know, energy. Stretching by myself. So it’s like, it’s just want to save energy. I don’t want to waste my energy going out, going around. So, you know, those are the movies that I always like to watch. Kind of trying to bring some, you know, hyper excitement, like, you know, I’m getting ready to war tomorrow. So I’m like, let me watch some movies that like brought that, you know, some, that war spirit into me.
+Lex Fridman (01:04:10):
+Yeah, what is that about human nature? Braveheart I love even more. Should you put your life on the line for a thing that matters, or run away just so you can live? It’s like, running you may live, but like years from now, when you look back at this moment, would you trade all the days just to come back to this moment? And tell the English. You could take our lives, but you can’t take our freedom. I mean, oh man. What is that about human nature?
+(01:04:46):
+Is there some aspect of like the glory you were able to achieve being more important than anything else? There’s some aspect of that, that that’s greatness, you know?
+Roger Gracie (01:04:57):
+Yeah, I never pursued glory. So it just came, you know, it came with it, but that was never my goal. I never cared for glory.
+Lex Fridman (01:05:07):
+Were you able to experience like, like I’m at the height of this thing? Whatever humanity is able to achieve in various things, holy shit, I’m flying.
+Roger Gracie (01:05:20):
+I felt like no one can touch me. I can destroy people, yeah.
+Lex Fridman (01:05:27):
+Prolonged periods of time, or just momentarily?
+Roger Gracie (01:05:33):
+I always knew, you know, from before I got to a black belt, that like, you know, I can be great because my, you know, I used to train with the best in the world. I used to, you know, for many years, and I used to see my progression with everybody else. So I knew I was getting somewhere. I knew I could be the best. And that was always my goal since very, very young. And I always believed that I could be. And that, over the years, that kept telling me over and over again, because I’m getting better and better, faster than everybody else. So I just need to carry on with what I’m doing.
+Lex Fridman (01:06:15):
+But I think you’ve said that you wanted to, and maybe you thought you could be the greatest of all time, like at the very beginning, like when you sucked. Yeah.
+Roger Gracie (01:06:27):
+Yeah, not the greatest of all time, because I never really thought about that. But I thought I’m gonna be the best in the world when I sucked, when I sucked.
+Lex Fridman (01:06:37):
+Okay, so what is that, what is that, like that self-belief? Is there a component to that self-belief being a prerequisite?
+Roger Gracie (01:06:47):
+It’s difficult to say, because that was a decision, I think. Like, why did I believe that I could be? I can’t tell you that, because I don’t know. But you think you decided to be. I decided to be. I decided to be, and I believed I could.
+Lex Fridman (01:07:02):
+I think there was like a day somewhere when you were young where you were like, huh, you’re sitting on a couch eating Cheetos.
+Roger Gracie (01:07:08):
+I don’t think it was a day, like a moment, because for many years, I wasn’t really training much as a child. I’ve done a bit of, I used to train, and then stop, done a bit of judo. Never stay away from it much. But until, you know, like from 10 to 14, I barely trained jiu-jitsu much. I used to, there was no greasy school near where I used to live. And I was doing, there was a jiu-jitsu, a judo school I used to go twice a week. I went to a jiu-jitsu tournament. I lost in five seconds, left crying. The guy, he pwned me in five seconds. Anyway, so when I was 14, I went to the south of Brazil to see my uncle Helium to spend summer holidays. I was there for like four weeks, I think.
+(01:08:01):
+And when I got there, my cousin Hollis was living with him. Hollis, like, bigger than me. He was, I think he’s four years, four years older. So I was 14, he was already 18, 17, 18. Purple belt competitor. And I think that was the first time in my life that I felt what it mean, what it meant to be a greasy in terms of having a school, teaching, training, you know, living that, you know, jiu-jitsu lifestyle, what a greasy mean to be. And I’ve just, I’ve loved it. I was out of shape.
+(01:08:35):
+My uncle was like, you know, incentivizing me to lose weight, to train, but you’re not training, why? And I was like, you’ve got a shape, you need to diet. So I used to run every day. I was eating super well. I start, you know, I start that when I start changing. So when I go back to Rio, I was super motivated to follow up, carry on. And he, you know, he invited me to go back there to live with him, but I couldn’t, it was too soon to change schools and everything. My mom say, no, but maybe next year, if you want to go, you can. So I kept that in my mind.
+(01:09:10):
+Next year, I moved to the South to live with him. I was 15. And it was him, my uncle Helion, and my uncle Carlin. They both used to live very close to each other. They used to have their own schools close to each other. So I was with both. And I stayed there for almost a year. I mean, I was the youngest in the academy. There was some, you know, blue, purple belts, normal guy, but already competing. Training ahead of me. And I just joined the group of training. I didn’t compete while I was there because there was no competition back then. And I wasn’t really ready, but it’s not about competing, it’s more about the training.
+(01:09:45):
+And I start training every day, start improving. And a year after that, when I came back to Rio, I was already on a mission. I was like, I love this. I’m just carry on training every day with my uncle Carlos, Carlos Gracie Jr., Gracie Barra. And then when I got there, I was training a little bit there before, but I was just 14, 15. But when I got there, there was a, you know, there was one of, that was one of the most competitive, one of the biggest Jiu-Jitsu schools at the time.
+(01:10:13):
+There was so many high-level world champions, competitors in every single belt. And so I’ve kind of joined in with that. And I’ve carried on, I don’t remember when, but I remember, you know, looking and saying, I’m gonna be the best in the world. But I used to be, I was at the bottom of the stairs, you know, no one really believed me. I didn’t shout, you know, to the skies, but, you know, I told a few people, I’m like, I’m gonna be the best. And that’s, I think, I was just losing, but I’ve never, ever doubt, I’ve never diverged from that mission, I would say.
+Lex Fridman (01:10:51):
+Did anyone believe you when you said you’re gonna be great? Nobody. Did it matter?
+Roger Gracie (01:10:56):
+Didn’t matter. I don’t care, I don’t need. Even people that, like, love you? Everybody, my mom, my dad, I mean, no one thought, no one in my family thought I was gonna be here today. Nobody. Because I just started late, you know, I’ve never had any start that people, oh, that kid’s gonna be really good. You know, I was a chubby kid that didn’t barely train. I mean, people used to look at me, here’s just another grace, there’s, you know, what more?
+Lex Fridman (01:11:24):
+What do you learn from that? Do you think most people lose that self-belief? They quit when everyone around them doesn’t believe?
+Roger Gracie (01:11:33):
+Yeah. I think if those that need approval, yes. I see you shouldn’t have approval. I never need approval from anyone. I don’t care if you believe me or not, if you’re not my problem.
+Lex Fridman (01:11:47):
+It’s tough, it’s tough. I don’t need approval, but you’re surrounded by people older, wiser, better than you, and they’re kind of directly or indirectly saying, you stop being silly, kid.
+Roger Gracie (01:12:03):
+No, no one ever told me that, because that was not something that I used to say all the time. I maybe say it just very, very few time.
+Lex Fridman (01:12:12):
+I just thought, you know, maybe that’s the secret.
+Roger Gracie (01:12:13):
+Of course, I mean, if you start shouting, then you’re just being silly. Then it’s not what you really want. Then you’re saying that for another reasons, if you say it over and over again, because you shouldn’t. I mean, why?
+Lex Fridman (01:12:26):
+Well, to push back, one of the reasons you might want to say it
+Roger Gracie (01:12:30):
+is to find the right people that believe in you. Yeah, but no, if you say it over and over again, then it’s just, then you’re just bragging. Sure. Because one thing is to say it, but the other one is to do it. So it’s, you know, you say it once or very few times, but now you have to do it, saying it’s not helping you getting there.
+Lex Fridman (01:12:51):
+Was there sacrifices you had to make? Everything.
+Roger Gracie (01:12:55):
+Everything. That was my priority in life. Everything was secondary.
+Lex Fridman (01:13:02):
+Like social life, career paths? Yeah, everything. And is it from 14, 15, 16, as you get better and better and better and better, it was just becoming sharper, the focus on this thing?
+Roger Gracie (01:13:14):
+Yeah, it’s just over and over again, over and over again. It’s, you know, it’s just training, training, training. I mean, how many times I lost, I have no clue. So on the mat, you were getting beat up. I’m getting smashed by everybody.
+(01:13:31):
+People my age, I was chubby, I was physically weak. I mean, I’m tall, but physically, I’m not physically strong. I’m normally strong for my size, but physically, if you want to measure strength, I’m weak. Because, you know, we can measure strength lifting weights. I’m weak. I don’t lift. I lift weight same as people much lighter than me. Everybody, my weight, lifts heavy weights.
+Lex Fridman (01:13:59):
+And then people that train with you often talk about how
+Roger Gracie (01:14:01):
+they’re strong, super strong. Yeah. Because I generate a lot of strength. I can create, I put myself in the right angles so that I can be strong. I’m not strong. And the only person who I listen to saying that is Compreto, one guy that I fought, Rodrigo Medeiros. I fought him a few times. And he’s the only one that I heard saying about me that’s like, no, Roger’s not strong. He’s not. He’s technical, and he can create strength, but he’s not strong.
+Lex Fridman (01:14:34):
+He meant that as a compliment?
+Roger Gracie (01:14:36):
+Yeah, I think so. No, I think he was honest, because I think he’s the only one who could see that. Yes. So I think that’s a compliment.
+Lex Fridman (01:14:44):
+So he’s technically really strong. So you had an incredible match with him. Yeah. Is there insight you have about how you went from a person who was not very good, but had a dream, a confident dream, a vision to somebody that was actually good? Was there something to the practice sessions? Were you getting reps on the specific techniques?
+Roger Gracie (01:15:15):
+I’d never done anything special, because I’m in a gym training equally with everybody else. So I’ve never did anything on the side different than anybody else. So I was in the school training the exact same way as everybody else. Wow.
+Lex Fridman (01:15:29):
+In terms of schedule, yes, but what was, can you reverse engineer what was going through your mind? Because there’s so many different ways to actually mentally approach the same exact training session. I’m gonna try to beat you. Okay, so in some part it’s competitive. Yeah. At the core of it is I want to be better than these particular people.
+Roger Gracie (01:15:50):
+You’re gonna keep beating me, I’m gonna keep coming back at you.
+Lex Fridman (01:15:54):
+And to do that, I have to solve problems.
+Roger Gracie (01:15:55):
+So I have to figure out how to do stuff well. You catch me once, I’m gonna keep on coming, trying to not get caught.
+Lex Fridman (01:16:03):
+At which point did you develop a game that was basically the famous white belt game of the very basics, the very fundamentals of jiu-jitsu? Like saying, I’m going to beat you.
+Roger Gracie (01:16:17):
+Never, there was never a conscious decision to try to have a basic jiu-jitsu. First, I think there’s a big misconception there. Okay, what’s the misconception? My jiu-jitsu is not basic. Mr. Roger Gracie, it’s not, you’re right. It’s not basic, it’s not old school. I think people, they just don’t see that. It’s extremely complex in a way that people, they cannot copy. I teach people, you know, I can teach you the cross-collar choke. But the one thing that people, they don’t realize is not the move, is you need to practice the move until you learn.
+(01:16:57):
+It’s the practice over and over again. Like it took me years. When I say years, I’m like years after I was a black belt, I was able to choke people out with a cross-collar choke in the mouth, effectively. Years after I got my black belt. So that’s something that you learn first day, first week. So I can teach you, it makes no difference. You know the theory, but until you apply it, you will help you. Of course, the more details you learn, the more tools you have to practice, but it’s still very complex because it’s not about the move itself. It’s about how can you control the movement of the other person. He’s resisting, you’re blocking. You cannot predict what he will do, and he’s doing a whole bunch of moves to block you every single move you do a step of the way because it’s a progression of move from beginning to end till I apply the choke. It’s a progression of move, and there’s not one way to get that. There’s many ways because how many ways can you block?
+(01:17:60):
+You can put your arm in every single angle. We have both arms, you can bridge. So it’s dealing with all that. That is the complexity of the position, but that goes for everything, like every single move.
+(01:18:15):
+My strong moves, I would say, it took me years developing them, years. So it’s, and you’re gonna tell me that’s basic, so go try and do it. What the other person is defending, that’s the thing because most of the things that I do, I’ve been doing them for years, and they know that I’m gonna do, and I can still get it most of the times. That’s the hardest. It’s when they know what’s coming and you can still do it.
+Lex Fridman (01:18:43):
+And you said that the way you’re able to do that, you just have to do it right. Yeah. What do you learn by doing all the steps along the way? And just for people who don’t know, cross-collar choke from the mount.
+(01:18:60):
+So, Jiu-Jitsu starts in a neutral place. There’s people on their feet, and then you either, then you get to the ground somehow, and then there’s the person on top and on bottom, and then there’s a guard with the legs between the two people, and then you can get past the guard. As you get past the guard and into side control and so on, you get more and more and more dominant positions. And so mount is considered to be one of the most dominant positions. It’s when you’re past their legs, sitting on top of their stomach, putting pressure on them. And cross-collar choke is using their jacket to, how would you explain that?
+Roger Gracie (01:19:37):
+To choke them with their jacket. So, you have the collars. I put my both hands on your collars, and when I squeeze, you press your neck, so it blocks the vein, you go to sleep. So, you choke people with your hands in the wrist. You put them, you grab their collars, you get their wrists around people’s neck, and you squeeze.
+Lex Fridman (01:19:54):
+Yeah, the discovery of that is fascinating. I mean, it’s interesting. It’s like, you know, you can imagine there’s all kinds of ways to choke a human being. What animals do it with their, like, mouth, right? They put, like, their jaws around the, and the fact that you can kind of discover this methodology of the right kind of positioning, and then it becomes an art form, like, of why this, why not this, right? Or why not this, or something. Like, to figure all that out. We practice, that will come easy. Over time, you figure out what works and what not, and then more, further and further details and subtleties start to emerge. Anyway, on that process of beating, of being able to beat some of the best people in the world, and the thing they know is coming, what is, what’s the difference between the White Belt doing that and Roger Gracie doing that, the thing that’s so hard to explain? What do you think you’re picking up? Is it some tiny, tiny details of muscle movements? It is.
+Roger Gracie (01:20:55):
+It’s many tiny details, because it’s the whole movement itself, it’s the perception from beginning to end. Like, every step of that movement, it’s important and precise. So it’s, you know, you miss one detail on the way, you collapse.
+(01:21:13):
+So when I say that with the Black Belt, the Black Belt has no control over the whole movement. He’s thinking beginning and end. So he goes straight to your, you know, straight to your neck, regardless, he cannot read the other person. If it’s, you know, if it’s time to let go, if it’s the time to go for a neck, should I be pushing here before I get my hand in? You know, is this the right time to go deep, or should I deal with this first before the second hand? That’s at the beginning.
+Lex Fridman (01:21:39):
+So it’s at the White Belt. Yeah. At the very beginning of the journey. Yeah, the White Belt, you just think, finish.
+Roger Gracie (01:21:44):
+Yeah.
+Lex Fridman (01:21:48):
+And then as you get progressed, you see that there’s like this giant tree of possibilities that you’re almost feeling your way down. I mean, would you be able to teach? Do you even know what you’re doing? By the details. Okay. But it’s hard to convert into words, probably.
+Roger Gracie (01:22:09):
+No. That’s possible. Then you don’t know what you’re doing. Okay.
+Lex Fridman (01:22:13):
+So what is the most important details that you could say, maybe positioning of the hand, the gripping, is it the positioning of your body, the posture, is there some interesting like insight?
+Roger Gracie (01:22:28):
+It’s a combination, because first you have to put your body in a very strong position that you don’t require your hands to hold them out. So the choke is the test first, because I cannot use my hands on the floor to stop you escaping. Yeah. So if I have to, my body has to handle that. The way I position myself, I have to do it in a way that don’t require my hands for balance.
+Lex Fridman (01:22:53):
+Okay. Why is the mouth such a dominant position? Doesn’t make any sense, right? Like you’re just sitting on top of the stomach of a person.
+Roger Gracie (01:23:00):
+Makes all sense. If you think, forget fighting, forget jiu-jitsu. Like you’ve never trained. What’s the one position, the most dominant position you can get over another human being? One, the most. For you, which one it is? Like the most dominant position that you can get over another human being.
+Lex Fridman (01:23:24):
+So if we were just, because the way I think about it is putting myself in like a six, seven, eight-year-old self without knowing any martial arts, and I had an older brother who’d beat the shit out of me. Yeah, it probably was mouth. But, well, yes. Okay, so we both didn’t know. But if we knew something, it’d probably be back control.
+Roger Gracie (01:23:47):
+If in the back control, you’re under the other person, do you think being under is the most dominant position you can be over another person?
+Lex Fridman (01:23:55):
+You mean like a back control? If I’m on your back.
+Roger Gracie (01:23:58):
+Oh, like that, yeah. You can move, you can roll. I cannot stop you rolling. Yeah. Maybe you can even stand up. How dominant is that?
+Lex Fridman (01:24:05):
+Yeah, but if we’re the same size, both untrained.
+Roger Gracie (01:24:08):
+Doesn’t matter.
+Lex Fridman (01:24:10):
+Have you seen kids, they do that, okay. Mouth looks and feels like dominance when you’re two eight-year-olds fighting. Okay, I don’t know why it feels that way. It could be some animalistic thing. Maybe it is actual dominance. I don’t know, but it feels like if you’re untrained, you can just buck your way out of it. It feels unstable. It feels unstable to hold mouth unless you know what you’re doing.
+Roger Gracie (01:24:33):
+Right, no? If you’re mouth, you put both of your hands on the floor. Yeah. Just your hands. Do you think it’s easy to take somebody off? Yeah, maybe not. Do you think it’s easy to remove the hand and bring them out? The hands on the floor, arms straight. I’m leaning in. Yeah, you’re right. It’s hard. I mean, you don’t need to know fighting to hold yourself there.
+Lex Fridman (01:24:55):
+But you’re right. When you take the arms off and balancing, then it gets tricky. Because when you’re trying to… I think what happens, I’m thinking back to eight-year-old. My brother’s five years older than me, and he would do the usual stop hitting yourself thing. I think he would be in mouth, like hitting me with my own hands. Out of place of love, of course. I love him deeply. It was a very formative and positive experience for me. Okay, I think, yeah, the weakness is when he takes… When the person who has you in mouth takes their arms off to do something. But even if you keep your hands up in the air,
+Roger Gracie (01:25:33):
+when I’m falling…
+Lex Fridman (01:25:37):
+Yeah, you can. When I’m falling, so… I’m speaking about untrained people. I feel like they get greedy. They try to do stuff.
+Roger Gracie (01:25:44):
+The other day, I watched my nine-year-old daughter. Yeah. We’re in a friend’s house. There’s a whole bunch of kids there, they’re playing. And when I looked, she’s mounting a boy, her age, her size. He cannot escape. Wow, she probably has seen some footage.
+Lex Fridman (01:25:59):
+No, she trains. She’s been training for, I’ll say, a year and a half.
+Roger Gracie (01:26:00):
+Okay. She’s not much. I mean, she’s a nine-year-old daughter, a girl over a boy. Has she seen footage of you? Maybe she picked up from that. No, but she’s been training for a year and a half, so she has an idea what mouth is. But, I mean, in terms about skills, I don’t never taught her the mouth. She has, you know, she had lessons at the academy, like any other kid. Did she make him cry or? No, but he couldn’t escape. Which other position would she be able to hold the boy?
+(01:26:29):
+In the back, he would roll it out. That’s true. He couldn’t come out from underneath her. They’re kids. There is no other most dominant position that you can pin the other person. Couldn’t you argue, from that perspective, side control?
+Lex Fridman (01:26:45):
+No. No? Because side control, you have to hold the other person,
+Roger Gracie (01:26:48):
+and you’re not free. You cannot release them. But in side control, your hips are not on top of theirs,
+Lex Fridman (01:26:57):
+so they can’t move. They’re on top of theirs, so they can’t buck you off, right? If you’re holding them a little bit, and you can hit them with one hand.
+Roger Gracie (01:27:11):
+His head is here. You’re gonna hurt him here. By the time you’re doing that, but then he has his arms free, and if you turn towards your legs, then he’s away from your arms. He not even has the perfect angle. I mean, it is a good position. You can hit, you can dominate, but it’s not the best position to be over the other person. He can knee you in the head. At the same time you punch him, then there’s a knee coming to your head.
+Lex Fridman (01:27:39):
+I love playing devil’s advocate with Roger Gracie about two eight-year-olds fighting.
+Roger Gracie (01:27:43):
+Your head is closer to his head. Maybe he can throw you a punch. Would you choose to be in side control over mount?
+Lex Fridman (01:27:54):
+In the head? Well, for a person who in competition prefers knee on belly over mount, but that’s my weakness. That’s my failure as a human being. Holding mount can be tricky.
+Roger Gracie (01:28:06):
+It’s very hard. Of course it’s hard. But what is easy?
+Lex Fridman (01:28:10):
+Side control and knee on belly is easier. Knee on belly is easy? Easier. I’m not saying black belt level. I’m saying, well, maybe even black belt level. Easier for what? To hold somebody? To make them squirm and hurt, to create openings.
+Roger Gracie (01:28:27):
+You can never go to there with a big guy.
+Lex Fridman (01:28:29):
+Yeah, you can’t.
+Roger Gracie (01:28:30):
+You can’t. Yeah. He’s going to push you back and come up. In the mount, he can’t sit up. Not when you’re mounted him.
+Lex Fridman (01:28:37):
+The thing is also about mount is people on the bottom of mount panic more. So they fight harder.
+Roger Gracie (01:28:43):
+Of course they panic. They’re exposed. It’s the most exposure you have. Because the person’s arms are free. You cannot touch him. His head is too high. There’s nothing he can do. His legs won’t get you anywhere. He might touch your lower back. It’s like nothing. You’re most exposed being in the mount. I read you holding side control a thousand times the amount of me having to look up for your fist come down on me. Yeah. Side control, I hug you. You cannot hurt me. Okay, you hold me, but I’m hugging you. If I hug you tight, what can you do against me?
+Lex Fridman (01:29:23):
+Hold. It seems maybe it’s just from, and again, I’m arguing just for the fun of it, but it seems like a more difficult skill to learn to apply a huge amount of pressure and weight from mount.
+Roger Gracie (01:29:40):
+You don’t have to apply pressure and weight from mount? Not apply pressure, but be heavy. You don’t necessarily need to be heavy. You don’t.
+Lex Fridman (01:29:50):
+Why do you, as people say, you feel extremely heavy?
+Roger Gracie (01:29:54):
+If I’m being heavy, I cannot attack. I have to choose. I can be heavy just to pin them, take the energy out to make them suffer, but the moment that I decide to attack, I can only be heavy if I’m sitting up straight. That’s when all my weight drops down. If I’m high, then I’m sitting on your chest and on your solar plexus. That’s the worst position to be seated on the person because that’s where he breathes. In a high mount, sitting up straight, that’s when I can be very heavy. I can make people feel my weight and be very uncomfortable, but I’m not in a position to attack. The moment that I want to attack, my body has to lean forward. I have to approach the neck or the arms. The moment that I do that, my weight comes off my hips. It goes to my knees. The weight is off you. But at that point, if you have… Now I’m attacking. I’m no longer heavy on you.
+Lex Fridman (01:30:53):
+But you want to be at that point to remove any of the defenses they have or some of the defenses by getting…
+Roger Gracie (01:30:59):
+Now I’m like either trying to get your call or bringing your elbow across to attack the arm.
+Lex Fridman (01:31:04):
+So what are some interesting details along the way that are tough to get to figure out? What were the big leaps for you from white belt to the best in the world?
+Roger Gracie (01:31:15):
+You’re trying to attack the neck. You’re not putting one hand in the collar. You’re priving yourself that hand to place it on the floor. So now you’re vulnerable to get bridged, to get rolled over because if your hands are free trying to roll you over, you’re stopped. The moment that you put your hand in the person’s collar, now you have to be very careful with your body positioning. Very careful. The distribution of the weight. Yeah, and how high you sit, how tall your upper body goes.
+(01:31:42):
+Then the biggest challenge comes as you’re trying the second hand. For the choke, that’s the biggest challenge, the second hand because you already don’t have one hand. Now you are trying the second hand and if one of my hand is in, you are defending yourself. You have two hands.
+(01:32:06):
+One hand is already on one side. This side is getting attack. You have two hands blocking that. I have one hand. There’s no help for that hand. I cannot remove anything. That’s the biggest challenge. One hand getting past you and not getting rolled over.
+Lex Fridman (01:32:25):
+But I also have two hands on bottom. I have two hands and I can also turn and do all kinds of stuff. Yeah. And my whole mind and everything is focused on that second hand.
+Roger Gracie (01:32:36):
+Yeah. It’s a big challenge. It’s hard, very hard.
+Lex Fridman (01:32:39):
+Is there an art to getting the first hand into a place where you…
+Roger Gracie (01:32:44):
+It’s less of an art because it’s easier. I’ll say most times I get my first hand in is when you’re trying some move. You’re trying to escape, you’re pushing. I get the first hand in as an opportunity. And it’s going to sit there for a while. Yeah. And I go as deep as I can. So the first hand, because the second hand is the hardest, I have to compensate the first hand to be as deep as I can. If I cannot get the first hand in deep, I won’t try the second. I need that first hand deep, then I go for the second.
+Lex Fridman (01:33:17):
+And it’s deep and everything is super tight?
+Roger Gracie (01:33:20):
+Super tight. The first hand has to be super tight. Otherwise, the chance of failing is very big.
+Lex Fridman (01:33:26):
+Does the opponent usually feel like they’re screwed at that point also?
+Roger Gracie (01:33:29):
+Not as you’re putting the first hand in. The moment that I position myself just prior to attempt the second hand, I think my body is positioned the way I’m collapsing with my weight and they feel like this is terrible.
+Lex Fridman (01:33:47):
+How long did it take you to figure out how to reposition your weight once the first hand is in?
+Roger Gracie (01:33:52):
+Very quickly. Because they will get breached out. Okay. So there’s a good feedback loop there. Yeah, because one mistake, you’re out. One off positioning, you’re out.
+Lex Fridman (01:34:03):
+But you still have to do that against the best people in the world. Yeah. Where’s the way out for most people? Like if you were in Mao against Buzesha, what are some of the best defenses in the world?
+Roger Gracie (01:34:14):
+The way out is obviously to defend themselves and prevent the first hand to get deep. I’ll say the best thing that they could do is try to change my positioning on the mount in a way that push me to a very low mount. Try to change the way I’m dominating you to get me off the high mount, pretty much.
+Lex Fridman (01:34:42):
+Are you always, is it a slow, is it a fast thing to go from low to fast mount?
+Roger Gracie (01:34:45):
+Slow, slow, slow, slow. A high mount. Slow, very slow. Because I need to beat your arms because you’re holding me down. Yeah, and the arms need to come out.
+Lex Fridman (01:34:53):
+It’s a slow process. Okay, and you just, is there like a…
+Roger Gracie (01:34:58):
+Yeah, so I use my legs against your arms. So it’s my legs pushing your arms.
+Lex Fridman (01:35:04):
+But how do you get your legs into the elbows?
+Roger Gracie (01:35:08):
+As long as it has to come under the tip of your elbow because now the legs will start forcing your arms up. So your legs aren’t spread out. No. Your elbow cannot get inside my leg. Right. Because that means I’m in a very low mount. And then I cannot attack because I cannot ignore that. Because the moment that I attack, that will, you will start pushing my leg to push me up.
+Lex Fridman (01:35:33):
+What’s the secret to getting the second hand in?
+Roger Gracie (01:35:37):
+There’s two ways. Either you go four fingers inside, which is the hardest because the moment that your two hands are defending, you’ll be blocking the way. And I cannot clear and attack two hands against one. So I go thumb in, I go behind the ear. So my grip goes, because for you to defend, you need to get there. And when you get there, you elevate your elbow, you expose the arm lock. So it’s hard.
+Lex Fridman (01:36:07):
+So you put the thumb in, and then there’s the dreaded, like the other person just waits for you to loop the arm over.
+Roger Gracie (01:36:17):
+Yeah. But that, this over.
+Lex Fridman (01:36:19):
+Once you get the thumb in, it’s over.
+Roger Gracie (01:36:23):
+No, but when I’m there, it’s, if I get the, because they’re bridging, you know, they’re trying. I’m not using their hand to pose. Now your head is. My head is very close to the floor. When I’ve tried to bridge, you know, my forehead would touch the floor. That would be used as a hand. But it’s not on the floor. Not necessarily. Because if it’s on the floor, my body’s collapse over you. Yeah. So there’s no place for my hand, for me to work on your neck. So I need some space between us. So I don’t completely. Maybe you can bob up and down. Yeah, but I try to keep a gap between us.
+Lex Fridman (01:36:57):
+Okay. So that pursuit that takes many, many, many, many years. I don’t know if you’ve seen Jiro Dreams of Sushi. I did. Doing the simple thing that’s not so simple, but it kind of looks simple. Over and over and over and over and over, and presumably getting much better. It becomes very simple. It becomes very simple. But you’re picking up details probably along the way. There’s wisdom along the way. Yeah. What is that? There’s like lessons that you just kind of accumulate over time. Like one training session you’ll see maybe like the positioning of the thumb, like this detailed positioning of the thumb or something like this. And then you’re like, okay. You like load that in.
+Roger Gracie (01:37:44):
+That would be very basic because there is not that many different ways. Maybe one, two. I just do one. Any other is not as strong because it’s about getting a strong grip on your collar. I mean the thumb goes inside. Is it the thumb in or four fingers in? But it’s getting a strong grip on the collar as long as it’s just holding and feeling strong.
+Lex Fridman (01:38:10):
+So that’s just two options. So it’s the dynamic stuff along the way. Yeah. And then some of that is timing too. It’s timing. Are you also like making people like faking them out, making them think about something else?
+Roger Gracie (01:38:23):
+No. Not at that point. Because I cannot fake anything else at that point. Because I would have to change my positioning maybe to fake an arm lock. Then I have to move out from that. So then I will lose the control I have.
+Lex Fridman (01:38:38):
+So what’s the process towards mastery? If you were to convert that to something that generalizes beyond jiu-jitsu, how can you get that good at a simple thing? Practice. That simple. The same exact thing over and over.
+Roger Gracie (01:38:54):
+It’s just a matter of how long it would take you.
+Lex Fridman (01:38:58):
+So all – that’s true.
+Roger Gracie (01:39:01):
+That’s true. I mean like I said, look how long it took me. People give up along the way.
+Lex Fridman (01:39:07):
+There is intricacies to that journey towards perfection. There’s a lot of people that do jiu-jitsu for decades and don’t get better.
+Roger Gracie (01:39:18):
+No, because they don’t train the way they should. They don’t train to get better. They train to get tough. That’s a big difference. Most people, they train to get tough, so they are tough. Like we were talking before, they don’t practice the weakness. If you want to be good at – you want to be really good at jiu-jitsu, you have to practice your weakness, not your strength. You have to practice everything, but you have to be equally strong in every position. They’re all exactly the same. Your guard, top, bottom. Side control, top, bottom. Turtle, half guard, mount, back. I mean you pick. Take down.
+(01:39:59):
+And then you get into details of escaping triangle, applying triangle, escaping arm lock, different scenarios of – the one thing is defending the arm lock when you have your arms very close to your body. The other thing is to defend the arms when your arm is almost getting – and then when you got your arms. So many things to practice that you need to repeat them over and over again until you’re confident enough that when you get there, you have a chance.
+Lex Fridman (01:40:27):
+And you can do the same kind of thing for even the final stages of a cross choke from mount.
+Roger Gracie (01:40:34):
+Everything. I mean, of course, like you don’t practice escaping the arm lock with a full arm straight because, you know, that’s gone. I mean, you practice escaping the arm lock. When he takes your arm, you have a chance of trying to escape, but you don’t practice. You know, okay, take my arm. When I say go, go. I mean, you got – you pop the arm. That is like you get injured doing that.
+(01:41:01):
+Escaping the cross collar choke, it’s – I mean, escape not letting the person get there. You can escape – you can practice escaping triangles because, you know, it’s like it’s – you have a way better chance of escaping triangle than, okay, mount on me, put both hands in my neck. I mean, it’s over. You know, don’t be there. What’s the best submission in jiu-jitsu? Choke, I would say. From which position?
+Lex Fridman (01:41:30):
+If I gave you a billion dollars to start in a position, like in a submission, and you only get the billion if you get the submission, which one would you start? Cross collar choke on the mount. Cross collar choke on the mount. Not from the back.
+Roger Gracie (01:41:48):
+No. You have a better chance escaping from the back.
+Lex Fridman (01:41:52):
+Really? Yeah. Even with the hooks?
+Roger Gracie (01:41:54):
+Even with everything. Do you think some people disagree with you? I don’t care. I have a better escape – I have a better chance escaping from the back than if you mount on me, put my hands on my neck. So –
+Lex Fridman (01:42:04):
+I’ve been that many times. If you were facing yourself, and I would give you a billion dollars to escape, you would pick –
+Roger Gracie (01:42:11):
+From the back. Wow. A thousand times over. Like –
+Lex Fridman (01:42:15):
+Really? No comparison. You have like a – with hooks, with like a triangle –
+Roger Gracie (01:42:18):
+Doesn’t matter. You can do whatever you want.
+Lex Fridman (01:42:20):
+Like a body triangle? Okay.
+Roger Gracie (01:42:24):
+Really? Like a thousand times over.
+Lex Fridman (01:42:25):
+Like no question. So to you, the mount is a super controlling position. It’s not just –
+Roger Gracie (01:42:30):
+Because cross collar choke in the mount, the moment that you put both hands on my neck, you know, you have to – your arms need to be very close to your body to attack. So that means there’s very little space between us. So that means there’s very little space for you to work on your escape. And the moment that you cannot bridge – Let’s suppose I have – you know, the person has a good mount, so you cannot bridge him off. What else? You don’t have space to try to work on your defense. Being in the back, I have all the space around me to work on my defense. So my arms, I have the mobility to bring them anywhere. So I – because of that, it gives you and me a much better chance.
+(01:43:14):
+And you cannot – I can move my body. If you’re on my back, you cannot pin me. I cannot take you off my back. First I need to defend the choke. But you have no control over my body. So that means there’s still a lot of movement that I can try to use to escape. In the mount, there’s no movement. I’m pinned down. I cannot move. And I have no space between us to escape.
+Lex Fridman (01:43:41):
+Well, the argument against that – this is great – is that on the bottom of mount, I do have my hands between – so you’re saying they’re pinned. There’s nothing. Between where? I mean, you could get them in theory. You could somehow – you could –
+Roger Gracie (01:43:57):
+But there’s no – you can, but then there’s no space. They’ll be squeezed between our bodies.
+Lex Fridman (01:44:02):
+If it’s an incredible mount.
+Roger Gracie (01:44:04):
+No, it does not mount. Like how – standing, if I put both hands on your neck, if I’m going to go for the cross-collar choke, after I get my hands in, the next step is to pull you close to me. So it’s this – my arms need to be close to me.
+Lex Fridman (01:44:17):
+But I can put – there’s the hands that could do something.
+Roger Gracie (01:44:21):
+They can come in, but there’s very limited space between us.
+Lex Fridman (01:44:25):
+Yes, yes. No, I mean to push your body away, to decrease the power of the choke.
+Roger Gracie (01:44:28):
+Only if we’re standing, not if your back is against the floor.
+Lex Fridman (01:44:30):
+Sure. Okay, the argument against the mount is – or the argument for back controls being the most dominant position is even though I have hands, I can’t really use them effectively.
+Roger Gracie (01:44:42):
+Not in the mount. There’s no space. In the mount, there’s no space. There’s no space. You can try. I mean, you can squeeze your hand in. I mean, there’s still things that you could do, but they’re so limited.
+Lex Fridman (01:44:57):
+So if you polled the 100 best competitors of all time, what do you think they would answer to that? Do you think most would agree with you?
+Roger Gracie (01:45:06):
+I don’t care. It will show me their skills, their ability to see. Okay, so the perfect mount versus the perfect back control.
+Lex Fridman (01:45:16):
+There’s no question.
+Roger Gracie (01:45:19):
+There’s no question. For me, I mean, argue with me, like show me. Because I’m not being stubborn because I’m being – Scientific. Exactly. So explain it to me why the back, it would be harder, it would be better to your position to finish than mount. If you can explain it to me why, I might change my mind.
+Lex Fridman (01:45:42):
+I’m trying to, but I don’t have the cred. I’m like a middle school science student trying to talk to Einstein here. Okay. Besides you, who do you think is the greatest jiu-jitsu competitor of all time? Can you make the case for some of them? Marcelo, Buchecha?
+Roger Gracie (01:46:07):
+I’ll have to go with Buchecha because look at how many titles he has. I mean, he has by far more than Marcelo. Marcelo stopped quite early. Leandro has eight, but Buchecha is better than him.
+Lex Fridman (01:46:22):
+What do you think makes Buchecha so good?
+Roger Gracie (01:46:24):
+He’s a heavyweight that moves like a lightweight. He moves very fast. He’s very agile for his size.
+Lex Fridman (01:46:33):
+So, the agility combined with aggression.
+Roger Gracie (01:46:36):
+Yeah. So, it’s very hard to control him because he moves fast, and he’s 112 kilos, 115 sometimes, or 110. I’m not sure, but he’s about around that. So, 240 in pounds. So, when you’re agile, 240 pounds, that makes it very hard to control you.
+Lex Fridman (01:46:58):
+What about making the case for some others? What about the little guys? What about Marcelo if you were to make the case for him being the strongest? What makes Marcelo so good?
+Roger Gracie (01:47:06):
+Marcelo Garcia is extremely technical. I mean, I think he’s one of my favorite jiu-jitsu fighters because in a technical way, I think he’s probably one of the best.
+Lex Fridman (01:47:19):
+Because raw technique and a bunch of different positions for submissions.
+Roger Gracie (01:47:25):
+He’s not very powerful. Physically, he’s not very strong, but he can make himself very strong, and his technique is very, very high level.
+Lex Fridman (01:47:33):
+Have you ever trained with him? No, I fought him twice.
+Roger Gracie (01:47:36):
+Yeah. But he’s much smaller than me. What happened in those matches? First fight, I topped him, I think, five minutes. In which submission? Choke from the back. Collar choke from the back. And the second time, I beat him by points, but a very large, I think 12-2.
+Lex Fridman (01:47:57):
+Actually, just to continue, I wonder if John Donahoe would agree with you about mountain back. I can’t wait to hear it. This is a bear versus lion conversation. I’m looking, there’s statistics about. I’m not letting this go. There’s statistics about. Oh, look at that, Roger. What do you know? Looking at Roger Gracie’s statistics for most successful submissions. Choke from the back is the most.
+Roger Gracie (01:48:29):
+How do you explain that, Mr. Scientist? Because people panic when I’m out. They turn their back. I choked them out. That’s one explanation.
+Lex Fridman (01:48:37):
+But for people, it is interesting that, of course, this doesn’t capture, but this captures a lot of your major matches. And we should say that you’ve submitted most of your opponents, so you rarely win on points. You usually win submissions. Choke from back is most of them. Then cross choke from mount. Arm bar is a lot, too. So 18 from choke from back, 12 cross choke, 10 arm bar, five RNC rear naked is for no gi. Okay.
+Roger Gracie (01:49:06):
+So Ezekiel. Ezekiel is very powerful. It’s a strong weapon. Yeah, also from mount. Also from mount.
+Lex Fridman (01:49:14):
+Oh, that’s when you can’t get the one hand in.
+Roger Gracie (01:49:17):
+No, because the Ezekiel most times I use against people is the attack that as soon as I get to the mount when they’re trying to escape the open up and I get them. It has to be at that initial timing.
+Lex Fridman (01:49:33):
+So it’s not a thing you use to, like, bother them in order to?
+Roger Gracie (01:49:36):
+Either I get it right away or I don’t bother trying much. Got it. Because you need to keep one hand behind the head. You’re naturally on that position as soon as you mount most of the times. And the moment that you mount someone, no one accepts that. They go mount and they’re going to explode to get out. So holding the head, it gives you a better way to dominate them initially, you know, to deal with that explosiveness on the beginning. But then you have to let go to try it. You’re very limited holding the head.
+Lex Fridman (01:50:12):
+In terms of goats, Shanji, I feel like he doesn’t get enough credit that he deserves. He had an extremely dominant performance in competition. What about Salo and Shanji Hebero? What are your thoughts about what makes them so good? He had a bunch of tough matches with Shanji and Salo.
+Roger Gracie (01:50:32):
+Yeah, I fought eight times Shanji. I fought Salo once.
+Lex Fridman (01:50:38):
+I think I’m bringing up a sore point. Oh, did Shanji tap? Or did the time run out? When was the last time you guys faced each other? Yeah, 2008. That was incredible to watch. Also, I think you pulled guard with one minute left, working towards attacking. I mean, it’s probably very tough to get anything. For people who don’t know, time ran out. You had something that looked like an arm block, and Shanji looked like he may be tapping, but it looked like he might be just celebrating.
+Roger Gracie (01:51:19):
+I’m not sure. I’m not sure. Because I think his arm was just straight, his arm time finish. So I’m not sure if he was tapping to let go. Time’s up. Or because of the outside, most likely the time was up.
+Lex Fridman (01:51:42):
+Yeah, and also there’s a thing where you start, you realize there’s only three, two seconds left. So you just kind of start celebrating. You realize that Hadji’s not going to be able to finish this arm bar. And the time left, so you start celebrating.
+Roger Gracie (01:51:55):
+No, I think he tapped to say the time was up.
+Lex Fridman (01:51:59):
+Yeah, the time was up. Anyway, what do you think, like the longevity especially is impressive with Shanji, how long.
+Roger Gracie (01:52:05):
+I think he doesn’t get credit as much as he deserves because he pushed his career very far. And the last few years, he was on his best. So if he would have stopped before, people would remember him on his highest, but he kind of pushed more than his peak, let’s say.
+Lex Fridman (01:52:35):
+How hard is it for you to walk away? We’ll talk about the journey into MMA as well, but you basically, especially with the second match against Bucheshi, basically walked away on top, beating arguably the greatest competitor of all time and just walking away.
+Roger Gracie (01:52:55):
+It wasn’t that hard to be honest because that was something that I was considering for a while because the last few years of my career, let’s say, it was fighting MMA at the same time as fighting Jiu-Jitsu and it’s very challenging to do both. There’s not another person who ever did that because the training is a confliction with the way you train. Everybody who start doing MMA, start focusing MMA, their Jiu-Jitsu gets worse because they stop training with the gi.
+(01:53:30):
+Everybody, no exception. Was your Jiu-Jitsu also getting worse? No, because I made sure I kept training with the gi and I kept fighting at least the world championship once a year. That was my goal. I’m like, I’m going to go for MMA, but I love Jiu-Jitsu and I still want to fight the highest level. So I kept fighting once a year for a few years. It was a challenge, especially because the two or three times when I competed at the world’s, it was right after MMA fight I had.
+(01:54:05):
+And no gi, you don’t have the grips. So my grips, it made a big difference on my grips. So I was weaker grip-wise. So I felt that. So I knew it was like, it’s unnecessary risk because if I cannot be a hundred percent, so why am I doing this? But I’m stubborn, I love Jiu-Jitsu. I love fighting Jiu-Jitsu. I never loved MMA. I’ve liked it, but I think if all grace, I wouldn’t have done it.
+Lex Fridman (01:54:36):
+So the thing you felt the most is the grips. Yeah. Because you win a gi world championship without gripping. No. Like just pretending it’s no gi match, they get to grip you, but you don’t.
+Roger Gracie (01:54:53):
+No. So grips are essential. Of course. I mean, how can you choke someone? Like it’s, if your grips are weak, your forearms will fatigue, and then you will have no power, and then you cannot do anything.
+Lex Fridman (01:55:07):
+You could still arm lock. So I meant more not for the submission, but for the control, the game of it. But you need to grip to get there.
+Roger Gracie (01:55:15):
+To get there. And if your grips are weak,
+Lex Fridman (01:55:18):
+But you also have grips in no gi. Can’t you use those grips? No. It’s a thought experiment. So like I’m trying to understand how essential.
+Roger Gracie (01:55:27):
+Like get a no gi guy go for the gi, they panic.
+Lex Fridman (01:55:31):
+Panic? Of course. Everyone panics. A bear panics when they’re in the water with a shark, but that doesn’t mean the bear can’t still win when it stops panicking and relaxes. It’s not possible. That’s another discussion. Can a bear beat a shark in the water? Actually, I need to. Maybe a polar bear, because they’re pretty good at swimming.
+Roger Gracie (01:55:51):
+Okay. I say not possible for the no gi guy to win. The bears is a further discussion.
+Lex Fridman (01:55:56):
+What was to you the biggest difference between mixed martial arts and jiu-jitsu? What are some interesting differences, some interesting insights, even just about the grappling within both sports?
+Roger Gracie (01:56:09):
+So the biggest difference for me between MMA and jiu-jitsu is first is the speed. Like jiu-jitsu, like a 10-minute match, I can take my time. There’s no danger that forces me to move fast.
+(01:56:26):
+MMA, you have to be 100% sharp and fast from the first second of the fight. Because punches are coming, you can get knocked out any time. One mistake, you’re out. Jiu-jitsu, you don’t have that. I don’t have to worry about quick submission because it’s all about the way my body’s positioned, my grips. It’s easy to avoid. It’s easier to see it coming.
+(01:56:51):
+It’s like a quick submission, a surprise. It only works if you make a mistake. If you’re not correct position. Otherwise, it’s impossible. It’s extremely difficult. MMA is not. I mean, one split-second mistake, and when the person comes, you have to respond. You have to match his pace. I mean, you can slow down, but it’s like you’re forced to respond. So it’s not much fast. It’s a lot more physical, a lot more. And you need to be physically much better conditioned and faster. It’s explosiveness. It’s much harder.
+Lex Fridman (01:57:33):
+Is it possible in MMA to calm things down?
+Roger Gracie (01:57:36):
+If they change the rules, yeah. Five-minute rules, no.
+Lex Fridman (01:57:42):
+Ah, I see. So like, I just meant actually technically speaking, is there ways to take an opponent that’s being exceptionally aggressive?
+Roger Gracie (01:57:51):
+You can. Clinch. Clinch. But then he takes you down. He keeps moving. It’s hard to control that pace. You can. If you play defense, you save more energy than if you try to be the aggressor
+Lex Fridman (01:58:07):
+and respond.
+Roger Gracie (01:58:07):
+And even getting to the clinch is very difficult. Yeah. You have no way to hold yourself there. So that was the biggest challenge for me in MMA, is the speed. Because I’m a very slow start fighter. If you look at my matches, I start very slow. Because if I go hard, you know, I fatigue faster. So for me, that was the hardest part, is to start fast.
+Lex Fridman (01:58:30):
+What about on the ground? Is there something different, more challenging on the ground?
+Roger Gracie (01:58:36):
+Being in the bottom, yes. The punches.
+Lex Fridman (01:58:39):
+How fundamentally different is Jiu-Jitsu with punches on the ground? It changes everything.
+Roger Gracie (01:58:43):
+Everything. Which parts? The distance that you allow your opponent to be on you, the techniques that you choose to apply. You know, you have to, your body has to be aware of the punches and you are a lot more limited on your attacks.
+Lex Fridman (01:59:02):
+So you’re known for your close guards. How does your close guard have to adjust? How does the positioning of your hands have to adjust when you’re on the bottom of close guard?
+Roger Gracie (01:59:10):
+So in the guard, especially in the close guard, you have to either keep the person very close to you or you have to kick him away. In the guard, it’s either I’m hugging you or get away from me. In Jiu-Jitsu, you’re allowed to have a middle. Yeah, in Jiu-Jitsu, there’s a lot. You can’t allow the person to be.
+Lex Fridman (01:59:30):
+What about getting arm lock or triangle submissions from the guard? Is that fundamentally different because you don’t have the middle game?
+Roger Gracie (01:59:42):
+It’s much harder. There’s barely no open guard in MMA. Very little. Because the open guard, there’s a distance between you and him. There’s a distance you cannot control. It’s much harder to control that punch coming. And I have to position myself a way to block that and it limited my attacks, my options of attacks.
+Lex Fridman (02:00:05):
+Is there a reason, correct me if I’m wrong, but I don’t think you do open guard much in Jiu-Jitsu and No Gi. Is there a reason for that?
+Roger Gracie (02:00:15):
+It’s harder with the explosive person because when they’re moving fast, then you have to try to slow them down.
+Lex Fridman (02:00:26):
+So you like guards that allow you to control the person? Yeah. And closed guard is the ultimate control?
+Roger Gracie (02:00:32):
+Yeah. It’s not ultimate control, but closed guard puts you in a position that I’m attacking and you’re defending. You cannot attack me from my closed guard. We can argue that there might be one or two attacks, but it’s very, very, very limited and depends who you’re fighting against.
+Lex Fridman (02:00:51):
+I hate the closed guard. Being on top against a good closed guard is very horrible.
+Roger Gracie (02:00:56):
+No one likes, it’s terrible. It’s horrible. It’s one-sided. So you’re in the guard and it’s one-sided. The person above has the advantage. I can be completely relaxed in my closed guard and I cannot be completely relaxed.
+Lex Fridman (02:01:08):
+You know what the most annoying thing is? It’s somebody who is both good and extremely confident with a closed guard because they have that smug energy about them. They know how much unpleasant, how much work it takes to pass this. Anyway, especially people with longer legs. Is there something you wish you did differently in how you started training at MMA in that trajectory in figuring out how to train, how to get good? What have you learned about getting good at MMA from having done it? If you were to start now, for example.
+Roger Gracie (02:01:45):
+I think I would have to dedicate more.
+Lex Fridman (02:01:48):
+I didn’t dedicate enough. Both literally time, number of training sessions,
+Roger Gracie (02:01:52):
+but also mental. Training-wise, physical. I think a lot more the physical part of it. The strikes, everything? The strike from the beginning. Because I love Jiu-Jitsu. I truly love all the aspects of it. Fighting, training, the practice, the competition. I don’t have that for MMA. So it’s hard to give your heart to it, something that you don’t have the passion to it. Like Jiu-Jitsu, I gave my heart to it. I did everything that I had to. MMA, I didn’t do that. So that’s why it was…
+(02:02:32):
+I won’t say it was wrong for me to do it, because I don’t regret doing it. Because looking back as a kid when I decided to take Jiu-Jitsu for life, I already knew that at some point I would have to do MMA. It’s almost like that’s the path of a Gracie. When you’re ready, you go do MMA.
+Lex Fridman (02:02:58):
+So there was a duty versus a love.
+Roger Gracie (02:03:00):
+Yeah. That was not a choice. That was like, I have to. It’s just that the life I took, it would lead that way.
+Lex Fridman (02:03:09):
+Are you proud of that step? You know, go against the natural love and towards more duty.
+Roger Gracie (02:03:16):
+I think I don’t regret it, because if I hadn’t done it, I would feel there was something missing. Yeah. So I don’t regret doing it. I regret not doing it.
+Lex Fridman (02:03:30):
+The tricky thing is, the choice to go to MMA could have compromised your ability to win against Buchecha. And it didn’t. It’s a fascinating case study. It still doesn’t make sense to me. After all those years, you’re able to come back and go against the best person in the world and beat him.
+Roger Gracie (02:03:52):
+Yeah. And I had to, because the first fight we had, I had something stuck in my throat for a long time. So you think about that. Oh, yeah. I’m like, as soon as that first fight finished, I had something that got stuck in my throat that I already, at that point, I knew I’m going to have to fight him again. I knew. I always knew. Because there’s no choice.
+Lex Fridman (02:04:22):
+I have to. Oh, man. All right. Well, in terms of no-gi, who do you think is the best no-gi competitor of all time?
+Roger Gracie (02:04:30):
+There’s no question. It’s Gordon. I don’t think it’s right to say the best competitor of all time, because he’s still very young. I think that’s something that it can be in the end of when the person… You don’t want him to get lazy. You know what I’m saying? No, no. I mean, you cannot praise someone in the middle of his career. You know? So you cannot call him the best ever.
+(02:04:53):
+He’s 26 or 27. I mean, he’s great. He’s very good. He’s ahead of all of other competitors, I think. And, I mean, he’s having an amazing career. You know, he’s doing amazingly well. So, I mean, when he finishes, when he finally retires, then you can argue, like…
+Lex Fridman (02:05:16):
+You know what? There’s wisdom in that. It matters how you finish, right? Of course. It’s very interesting.
+Roger Gracie (02:05:25):
+I think the no-gi is relatively new, the no-gi scene. There wasn’t a scene before. I think it started now on his generation, you know, his time. Because before, like, when I was competing, no-gi was just ADCC. There was nothing else.
+(02:05:44):
+Every two years. First was only in the Emirates. You know, you had to go there to compete. So there was not even a scene. There was, like, this one tournament that gives a lot of money to, you know, to competitors, to fighters, and brings fighters from other modalities. You know, Marker, Van Narsdale, you know, some wrestlers, Greco Roman, you know, that can compete against each other. And, you know, they create that set of rules, try not to favor anyone. So that was it. So you cannot be called the greatest no-gi of all time if you only have one tournament every two years.
+(02:06:25):
+Only in the Emirates do you have to be invited to. But I think now, you know, it grew a lot. Now we have so many different tournaments. Now we have a scene. You have people that only train no-gi. They’re fully dedicated to no-gi. And you have super fights, different tournaments. So now it’s, you know, now it’s professionally. You can do just no-gi now, which before was unheard of, because you have one or two tournaments. You cannot be called a no-gi fighter fighting once every two years, twice every two years.
+Lex Fridman (02:06:59):
+Yeah, now there’s entire systems that are optimized for no-gi that could be fundamentally different. Like, what do you think about the body lock? Like, this passing with the body lock, I don’t know if you get an understanding of it, but I think it’s okay. It’s a popular way to, what is it, maybe to apply… To stay tight.
+Roger Gracie (02:07:27):
+Stay tight. Very close to your opponent so he can’t push great distance. He can push away.
+Lex Fridman (02:07:34):
+But somehow it shuts down the hips as well. Yeah.
+Roger Gracie (02:07:38):
+Makes it more difficult to defend. Kind of trap your legs. Your back gets stuck against the floor.
+Lex Fridman (02:07:44):
+Are you, like, scientifically curious about these new developments? Do you think, do you have answers in your head to them? So body lock is one interesting one. Obviously foot locks is another. And I don’t mean just the foot locks, but the whole, like, control aspect of foot locks. That’s interesting. And there’s other interesting stuff. John is really into the wrestling aspect.
+(02:08:13):
+But not wrestling-wrestling, but wrestling everywhere. Jiu-jitsu at all levels of the plane. That’s very interesting, because obviously jiu-jitsu has not really been, unlike freestyle wrestling and so on, has not been like a systematic, scientific, rigorous exploration of wrestling. It’s like you’re on your feet and you’re on the ground.
+Roger Gracie (02:08:39):
+There’s a lot of interesting stuff. John is academic. He tried to, you know, numbers, mathematics, everything.
+Lex Fridman (02:08:46):
+But you kind of are too.
+Roger Gracie (02:08:47):
+Yeah. No, I mean, I am. Because you have to understand what you’re doing. There’s everything, there’s a step-by-step, like logistic, like details. Every single move, there’s a reason for it. You know, there’s things around that happens. The more you know, the better you are, right? The more knowledgeable, compared to whatever. So I think with the foot locks, with the nogi, like if you look back, you know, if you think of, it used to be seen as a really bad thing, to attack the foot. It wasn’t seen as a good option of attack. Mainly…
+Lex Fridman (02:09:31):
+What is that? Respectable gentlemen don’t attack the leg or what?
+Roger Gracie (02:09:34):
+No, because if you look back, you know, the tournaments when they were created, all the rules and everything else was to simulate a real fight with no punches, when I was having nogi. I mean, if you ask, what is jiu-jitsu? Like, what are you trying? What’s the main goal of jiu-jitsu? To dominate your opponent. What’s the main goal of fighting? If we’re fighting, it’s, of course, submission is the ultimate goal. But before that, the main goal is to dominate you. Like, we’re fighting, I have to dominate you. And then the submission comes.
+(02:10:09):
+And foot locks, I don’t require any domination on you. I don’t need to be in a dominant position to attack your foot. And if I attack your foot, you’re still free to knock me out. If your body goes down to my foot, I can still come close to you, I’ll stand up and I’ll punch you. So it’s not a good position to be in a real fight, to attack in the foot. I mean, how many times you’ve seen that going bad? That going bad in an MMA fight? I mean, of course, you had some sort of success with the hu-huku. It’s no questions. But how many times went wrong? People were knocked out attacking the foot.
+(02:10:49):
+So you can’t say it’s the best position to be. It’s okay to go, but it’s a very high-risk position to go. So that’s why it’s not in a real situation, it’s not seen as a good thing. So when you translate that to jiu-jitsu, when attacking the foot, it’s not seen as a good thing, because when you reflect that to a real situation, it’s not going to go down well. So it was always seen as an easy cut. You’re trying to do the easy path. You can’t pass my guard, you can’t dominate me, and then you’re trying to attack my foot. That’s why it was always seen as not as the best, but it’s a mission, a way to win.
+Lex Fridman (02:11:27):
+But the sad side effect of that is it was completely underdeveloped because of that.
+Roger Gracie (02:11:32):
+Exactly. Of course. So people never really developed that. But now, the tournaments, the fighting, it got completely, not completely, but it got some, it’s no longer seen as a simulation of the real thing. Now it’s a sport. It’s only seen as a sport. So now it doesn’t matter if you attack my foot, you cannot punch me. So why is it bad now to attack the foot? So it’s not seen as a bad thing anymore, and now it got really developed.
+Lex Fridman (02:12:05):
+I don’t know. That’s another bear versus shark question. But there is, in a street self-defense situation, it’s possible to imagine where foot locks would be effective for Haile. But I guess if you invest 10,000 hours, it’s better to invest it in chokes.
+Roger Gracie (02:12:24):
+Yeah, to dominate. If we’re fighting, it’s way better for me to be on your side control, on the mount, where I can pin you, be completely safe, than to stay inside your legs trying to attack your foot.
+Lex Fridman (02:12:38):
+I would argue that there’s a lot of very dominant controlling positions in the whole foot lock game.
+Roger Gracie (02:12:44):
+It is, but it can go bad very quickly. There’s some great ways to control someone that he cannot escape, but it can go bad very quickly. That’s the thing.
+Lex Fridman (02:12:58):
+Well, even back control can go bad very quickly on the street. So mount, I don’t know.
+Roger Gracie (02:13:03):
+Is mount a really good position? No, but then there’s no good position then. There’s no good position. Every position there’s a risk. Attacking the foot is a way higher risk than side control, mount, back. As I’m saying, the back is not the best way to pin someone unless you’re underneath me. Because if you try to rotate, I can sacrifice the back and just let you be in the mount.
+Lex Fridman (02:13:34):
+Okay, there you go. Would you prefer mount or back mount where they’re flattened?
+Roger Gracie (02:13:42):
+Still mount.
+Lex Fridman (02:13:45):
+Thought I’d get you. Going back to Gordon, what do you think makes that guy so good? We were just at ADCC, you get to see him historically dominant performance.
+Roger Gracie (02:13:57):
+His dedication, the way he trains, and how much he trains. And of course you have to add his mind, his belief, to really try to be good, the best. So I don’t know what his goals are, but I know he tries to be better than his opponents. So his beliefs are very strong. His dedication, he probably trains more than everybody else. I mean, I haven’t seen firsthand it, but from what I hear interviews with him and everybody else training, the way everybody trains.
+(02:14:31):
+Yeah. Trying to, for my little knowledge I have, I’ll bet he trains more than everybody else. And most important, how he trains. When I, I kind of already knew, but when I heard John podcast with you the other day, John was explaining the preparation, the training for the ADCC, and that kind of gave me a very strong idea how they’ve been training all these years. So when we said, you have to work on your weakness, so you have no weakness, he trains a lot on his weakness.
+(02:15:10):
+Not everyone does that. If you look all the, I’m not going to name, but all the main schools, like very strong competitors, great competitors, super tough people, but super tough, not great. Because they train, they spar very hard. That makes them tough. If you want to be good, you have to work on your weakness. Because when you spar, like we’re saying, how many times you’re going to practice escaping a bad position, like a submission hold or a pinning position, side control mount, it’s very little the amount of time you get to spend on those positions if you don’t start there. So that, he’s very smart the way he trains.
+Lex Fridman (02:15:56):
+And part of that is also cerebral. It’s not just putting yourself in those positions, but talking through different ideas. Like they talk, they like experiment. It’s very like, at first glance, it’s like philosophical almost. You’re trying to create systems constantly, you’re trying to understand how this fits into this big picture.
+Roger Gracie (02:16:20):
+And then he goes back to what is fighting. He’s fighting for dominance. He’s fighting for the ultimate dominance positions, which is backhand mount. There’s no others. And from that, you finish. So if you look back at his, over the years of his past fights, before he used to mainly focus on legs, and over the past few years, now he’s mainly focusing on finishing from the mountain back. That’s when he became really good.
+Lex Fridman (02:16:52):
+So part of that is Mr. John Donahart. What do you think? You’ve known John for a long time. What makes that guy interesting, special, and good? What have you learned about jiu-jitsu and life from John Donahart?
+Roger Gracie (02:17:07):
+He’s super smart. I mean, eccentric. And he lives through jiu-jitsu. He’s 24-7 thinking better ways to teach, how to make his competitors better.
+(02:17:21):
+And that as a coach, when you have that dedication as a coach, that it makes the most difference of your athletes. Like, which other big team you have that coach with that motivation? All the other schools, it’s either someone that competes that push the training, like Andre Galval. He’s one of the competitors, so he brings the hype in everyone else. But he doesn’t have the time. He doesn’t spend the time working individually. I mean, I’m sure he does, but it’s limited because he’s also a competitor. And looking most of the other big schools, you don’t have that. All the leaders, the main coaches for the other big schools, they have other things in their lives. They don’t fully dedicate it to the athletes. John does. Look at the interview. He spends hours and hours a day studying how can a way, a system, to make his athletes better. Look at the results.
+Lex Fridman (02:18:22):
+I enjoy just sending back and forth. You can actually just get him. You control him, essentially, by sending interesting videos, and you can just see his mind. He’s going to do research on that. I kept sending him videos of bears because he claimed that a lion would beat a bear because I’d love to get your take on this. Okay, so the bear is much bigger, much stronger.
+(02:18:49):
+But his take is that the bears don’t have experience of fighting to the death. That’s not part of the culture. They’re more scared. In fact, he keeps sending me footage of even a small mountain lion scaring a bear away because they don’t want to fight. So his idea is that it really matters your life experience, how much you fight. It’s not necessarily the skill, like the dimensions, the characteristics you have. But then I send him… Here, I’ll show you.
+(02:19:24):
+People should Google this. It’s bears fighting of any kind. It’s pretty much the most epic thing ever. Here, I’ll show you. Look at these guys. The cardio, though, is interesting.
+Roger Gracie (02:19:38):
+You know, it’s funny. I was going to mention that because I was flipping through internet. I came around that video.
+Lex Fridman (02:19:47):
+Look how big these guys are.
+Roger Gracie (02:19:48):
+No, they’re huge, but you see, they don’t bite each other. You think it’s just play? No, intimidating because they don’t want to get hurt. So they try to size each other up. You see, the whole fighting is sizing each other up. There’s a lot of pushing, and the fur is so thick, so the claw doesn’t really damage much.
+Lex Fridman (02:20:09):
+They’re using the tree, so maybe they…
+Roger Gracie (02:20:13):
+I mean, there is bites, but see, there’s very little. So the whole time, they’re trying to intimidate the other one, like winning the fight by their size.
+Lex Fridman (02:20:28):
+And mostly about, like, the way drunk college kids fight, which is like some kind of display of dominance versus actual…
+Roger Gracie (02:20:36):
+Yeah, they’re not fighting to kill. And bear or tiger, they fight to finish, unless the other one runs away, one will die.
+Lex Fridman (02:20:47):
+Yeah, lions and tigers. But look at the cardio. Look how bad their cardio is. I wonder how… My favorite part is when one of them just stands behind a tree and says, all right… He’s holding…
+Roger Gracie (02:21:05):
+Let me catch my breath.
+Lex Fridman (02:21:07):
+He sits down. He’s like, all right, you can’t, it’s over. It’s like it’s the equivalent in the forest, like tapping out, all right, all right, you got me. Let me just catch my breath. Look, they’re both just shot. But see, the thing that I was trying to make an argument for is that we get this rare footage. It’s not rare, I mean, it’s like hundreds of videos, but it’s not millions of videos, because there’s a huge number of bears. And I was trying to say that there’s some bad-ass bear we don’t know about, because he just goes in there and just does work. And we just don’t know about it because he’s… See, the thing is, if you kill a lot of other animals, you probably have a territory that nobody’s going to mess with you, and it’s very hard to catch the…
+(02:22:01):
+like the Hodge and Gracie of bears, you know? He’s just going to be sitting there doing nothing. So I don’t know. I don’t know. I feel like, of course, when you corner him, John will say that if you put a bear and a lion in a cage, the bear will win if they’re forced to be to the death.
+(02:22:21):
+But I don’t know. Oh, let me ask you another ridiculous thing before I ask you serious questions. So Joe Rogan thinks that a tie is an effective way to attack somebody. I can’t believe I haven’t… In the time in Vegas, I didn’t talk to you about this. I think it’s not. Have you ever explored this? As the best choker in the world, have you ever explored the use… Because, like, Jiu-Jitsu has the jacket, but the tie, to me, is a pretty shitty way to choke somebody. Like, intuitively, it thinks like it’s a good way, but it can slide around.
+(02:22:59):
+It feels like there’s no way to really pin. You would need to. Right, so you use it the way you use a belt, essentially. I would guess so. Yeah. I don’t think it’s… I think if it gives you… It actually has the reverse effect, which it gives you the false sense of confidence that you can use it, and instead it’ll just distract you.
+Roger Gracie (02:23:26):
+So he thinks it’s a stronger way than the collar?
+Lex Fridman (02:23:29):
+Or just a strong way? Yeah. Stronger than the collar?
+Roger Gracie (02:23:31):
+Collar, yeah, yeah. I don’t see how. Maybe…
+Lex Fridman (02:23:34):
+Well, in a street fight scenario, right?
+Roger Gracie (02:23:37):
+By the time you grab the tie, the guy goes, punch your nose.
+Lex Fridman (02:23:40):
+Yeah. What George St. Pierre thinks is the best use of the tie is to actually, like, what do you call that? So basically to off-balance them. Which is an interesting point, to push that down. That can be used, too, yeah. You could use the jacket for the same kind of thing. Yeah, I don’t know. I haven’t really fully tested it.
+Roger Gracie (02:24:02):
+I’ll say jacket or tie, for that perspective of off-balancing the person, it can be, yeah. Because you have control of the person’s neck. The collar, the jacket moves. So for the purpose of off-balancing the person, I would agree with George.
+Lex Fridman (02:24:17):
+See, the thing is, that’s the thing about martial arts, is you can say all kinds of bullshit, but until you really test it, in over a period of years, the competition, you won’t really know. I think, like, that’s where my gut says, just how easily the tie moves, my gut says the collar.
+(02:24:37):
+There is something really powerful about the jacket. There’s, like, the way it sits. I mean, the fact that the arms trap it from rotating. Yeah. Like, it’s a weird piece of clothing. It’s a really dangerous piece of clothing that we put on ourselves. Yeah. Like, and it’s kind of cool that we’ve developed this whole martial arts system that allows you to use that to do a lot of damage. It’s very interesting.
+Roger Gracie (02:25:01):
+So when we’re saying something that you develop over the years or practice over and over again, going back to the efficiency of the amount of back, by experience of attacking people, people always had a much higher chance of escaping from the back than from my mount. So it’s, I feel, if I mount and you get both my hands on your neck, you cannot escape. If my hands are deep, it’s over. Like, I don’t remember anyone escaping, but I do remember if my hands are deep on your collar or even a real naked choke, it’s still a hassle.
+Lex Fridman (02:25:41):
+It’s not clean. You have some data on this. Is there some aspect to how your body is, the characteristics of your body, that fits a particular set of techniques? So if we just look at jiu-jitsu broadly, do you see most techniques being able to work for most people? Like, what you’re saying about mount versus back control, is it possible for a different body type, the mount is not as effective?
+Roger Gracie (02:26:07):
+Yeah, of course. I’ll say very big people, they should mount. You don’t think of yourself as big? Not big, I mean fat. Oh. They should stay off the mount. Why is that? That’s a connotation. Because of the mobility, it’s like, I think you don’t see any, there was a few ways, like 160 kilo, like in pounds, I don’t know, 270 pounds of a lot of fat. It’s, you need a bit of mobility, and that would, it would play against you.
+Lex Fridman (02:26:41):
+Even back. A great mount requires mobility. Yeah. Okay, so even though it doesn’t look like you’re moving very much when you’re doing mount, that requires mobility? Yeah. Because you have to reposition and weight redistribution. Constantly adjusting your body. All right. The legend goes, you got very good by training mostly with lower ranks. What was your training like in that environment?
+Roger Gracie (02:27:05):
+So when I first moved to London, I was 20 years old. I opened my school there. And I had nobody to train with. I had one guy that was teaching with me, a black belt, middleweight. He was good. And that’s it. Brawley was, he moved to the same, he moved to England the same time as I did. But he was in Birmingham. So we did got together, you know, maybe twice a week, close to, you know, when we were preparing for something. If not, then not very often. As often as we could, but let’s say not that often.
+(02:27:44):
+And I had just color belt students. There was no one high level. There was no one world champion in any belt to train. Then you need to create a scenario that simulates, that can simulate, you know, like a realistic. So I think on that aspect, you know, when people said, you know, people ask why do I have such a basic game? I think that also influenced me, sharpen up all my skills when I moved there.
+(02:28:18):
+Because, you know, if you practice with people, you know, lower level than you, you cannot, there’s nothing to learn from them. Or, you know, you can learn things and practice with them. But I would say very complex things on them, it is not the best. So I sharpen up all my skills. So, you know, that when I really improved everything that I already knew to a higher level.
+Lex Fridman (02:28:43):
+But how can you sharpen something if the resistance is much lower level than…
+Roger Gracie (02:28:47):
+A purple belt can make it very hard for you to skip side control. Doesn’t have to be a world champion black belt. It’s, you know, if it’s one is holding you, it can be very hard.
+Lex Fridman (02:28:58):
+What about on the attack? How do you become literally by far the best person at the cross choke from mount by training with purple belts?
+Roger Gracie (02:29:07):
+It’s sometimes purple belts defense way better than black belts.
+Lex Fridman (02:29:11):
+Okay. See, a lot of people listening to that would be like, that makes no sense. Roger Gracie. How does that make any sense?
+Roger Gracie (02:29:18):
+Because, like a lot of the black belts, even world champion, they get to the black belt, they’re really good in what they do. Let’s say in the guard, you know, on top or in the bottom position, but their defense are not. Like very, very few people, high level, have a very good defense because they don’t practice. Then that goes back to how you train. You know, you can be very tough. Very tough will make you terrible defense because you’re not going to practice your weakness. So your weakness still going to be terrible. You’re going to have the best guard in the world. Impossible to pass.
+(02:29:52):
+The day people pass your guard, you’re nothing. Like, your guard is the highest level, but your side control defense are not. Your mount defense are not. So some purple belts, they practice the mount way more than the black belt did. So naturally, their defense is better.
+Lex Fridman (02:30:12):
+So they get to experience the defensive position much, much, much more. And especially training with you, they get really good at defending.
+Roger Gracie (02:30:20):
+And then over and over again, you attack them with the same thing over and over again. They know what’s coming. They will block. They will develop a defense over that. Way better than most other high level black belts.
+Lex Fridman (02:30:32):
+So both put yourself into really bad positions with low ranks and just keep attacking the same way over and over and over. Yeah. Yeah, and with that, you were able to be at the top of the world, at the world championships. Yeah. I mean, can you give some, what was the preparation like to a world championship with lower ranks? I mean…
+Roger Gracie (02:30:55):
+I did a lot of boxing, a lot of conditioning. Conditioning is a big part of it. Conditioning, yeah, but the one thing that helped me extremely living in England, in London, was training judo at the Budokai in London. That helped me massively because it gave me the motivation to learn something new. Because by then at the Budokai, the stand up was, I’m sure today it is too, but by then was even higher than it is today. Like there was some very high level judo guys training there.
+(02:31:30):
+And the first time I went there, my stand up was terrible compared to theirs. I mean, it was bad, but compared to them, it was terrible. So I was getting thrown like a child. And that motivate me to keep coming back and get better. So that made my jiu-jitsu much stronger. I became, my base got better, my top game improved, my pressure game improved.
+Lex Fridman (02:31:58):
+Does Neil Adams train?
+Roger Gracie (02:31:59):
+Ray Stevens, no. I’ve never met Neil Adams.
+Lex Fridman (02:32:03):
+Have you met Neil Adams? He’s the voice of judo, I don’t know.
+Roger Gracie (02:32:06):
+You watch the tournaments, he’s incredible. Yeah, Ray Stevens is a silver medalist in the Olympics. He won European, he won a lot.
+Lex Fridman (02:32:16):
+So you did some judo training?
+Roger Gracie (02:32:17):
+What’s your favorite throw? Like a Soto? Uchimata, I would say.
+Lex Fridman (02:32:20):
+If I would pick one. So that made you better at jiu-jitsu as well? Yeah, yeah.
+Roger Gracie (02:32:25):
+And back then, like for the first, I would say maybe three years, maybe four, I went to Brazil for like two months before every major tournament. So I say, you know, I moved away from the school and I really focused, so I was really well prepared with my judo and everything else, sharpening up my skills and then going to Brazil to train with like really high level people. So that way I would manage to compete in the highest level.
+Lex Fridman (02:32:54):
+What advice would you give to, let’s start with a complete beginner. So, you know, a bunch of people come up to me, they still want to start doing jiu-jitsu. What advice would you give them?
+Roger Gracie (02:33:08):
+Try to absorb as much technique as you can and try to be as relaxed as you can. Don’t, you know, don’t desperately try to fight so hard. Like learn and move slow.
+Lex Fridman (02:33:26):
+Move slow and relax.
+Roger Gracie (02:33:27):
+That’s the hardest thing to do. The hardest.
+Lex Fridman (02:33:31):
+You know what I find with people, it seems like it’s hard to even know that you’re not relaxed. It’s like the introspection. They don’t even know what it feels like to relax.
+Roger Gracie (02:33:43):
+Not even know they tense. Yeah, right. They try to relax, they look at you and say, what, what do you mean relax? I’m relaxed. Exactly. The eyes are shaking.
+Lex Fridman (02:33:53):
+You feel it. And in terms of going slow, they’re like, yeah, I’m going slow. No, you’re not. Yeah, there’s a grace and elegance of movement that you can probably pick up from a lot of other disciplines. Like for me, I think that came from just learning piano at a young age. I think any mobility thing, to learn how to move efficiently, you have to know how to relax. It’s just the fact that you can, the body can be tense or it can be relaxed. Just knowing that fact.
+Roger Gracie (02:34:25):
+Now imagine your shoulders tense. Do you think you’ll play piano well?
+Lex Fridman (02:34:30):
+No, everything has to be relaxed. I guess some of that is mind too. But just knowing that and being self-aware. But see, even me approaching a thing, I’m not, I don’t know anything about being a beginner. You’re going to tense up. It actually takes a conscious effort to think, to relax.
+Roger Gracie (02:34:50):
+Massively. That’s why learning things as an adult is much harder than as a child. It’s very hard. And as an adult, it’s like to get to the highest level, it’s not possible. Because you will never relax the way you should.
+Lex Fridman (02:35:06):
+Yeah. Relax in the way that you become like water, but then you solidify in the right places. Yeah. Yeah. Is there advice you can give to an adult? So like somebody that has a job, like a hobbyist,
+Roger Gracie (02:35:22):
+like how to progress? I mean, train. You just need to train as much as you can. Not, you know, five, seven days a week because you’re going to get injured. I mean, two, three times a week to start is the best way to initiate your jujitsu journey. And practice the same thing over and over again. When they don’t work, it’s just because you’re not doing well. It’s because you have to learn something else.
+Lex Fridman (02:35:49):
+Do you see some value in just picking a set of techniques that seem to draw your heart in? Like, for example, I’ll give you an example. You’re going to yell at me. But I never learned close guard well. It just never connected with me. You could say it’s body mechanics, whatever. It doesn’t matter. The point is it’s just like my heart never connected with it. You know, the way I justified it to myself is I felt like when you’re bad, you’re using the close guard just like you could use the half guard to stall.
+(02:36:23):
+So I was really drawn to the butterfly guard as a beginner because I thought, or open guard in general, I have no options to stall, so I’m going to learn. My thinking was, let me do the guard that enforces me to learn. And then I fell in love with the butterfly guard and the open guard and so on. And I never really understood the close guard. And the other thinking was, do I really need to understand the close guard? Because it’s always by choice that I go there. So I can avoid.
+Roger Gracie (02:36:54):
+I mean, you can avoid anything you want. I mean, you don’t have to do anything. In this life, yes. It doesn’t make you complete.
+Lex Fridman (02:37:03):
+That means you have a weakness. If you want to be complete, this is the question. How valuable is it to be complete to get good?
+Roger Gracie (02:37:12):
+Depends how good you want to be.
+Lex Fridman (02:37:15):
+Okay, let’s go. Well, there’s several questions there. Yeah, okay. Like, to be the best in the world, do you need to be complete?
+Roger Gracie (02:37:22):
+Of course. The best in the world, of course you have to be complete. Otherwise, somebody is going to be better than you. But what about, like,
+Lex Fridman (02:37:30):
+so to understand to defend, you have to be also good at the offense in every single position?
+Roger Gracie (02:37:36):
+Of course. Otherwise, you have a weakness. And someone can capitalize on that weakness. Okay, what about to be like a hobbyist?
+Lex Fridman (02:37:43):
+Then you don’t have to. But can you…
+Roger Gracie (02:37:47):
+Or is it still bad? I mean, it’s not bad. I mean, nothing is bad. I mean, as a hobbyist, you start late. I mean, it doesn’t matter how far you’re going to get. As long as you enjoy it, just train as much as you can. If it’s twice a week, twice a week it is. You’ll be limited how good you will be training twice a week, of course. Then the guy that trains twice a day, you know, the more you train, the better you get.
+Lex Fridman (02:38:13):
+But you have to select what you train. That’s what I’m asking.
+Roger Gracie (02:38:15):
+I don’t know, yes. But, like, for how long? Like, there’s some point in your life that you might try something. See if you like it. There’s some point in your life that you might, okay, let me try close guard. You might not like it now. Maybe in two, three years from now. Still don’t like it.
+Lex Fridman (02:38:31):
+Okay, I kept trying it. Listen, because, listen, it’s very difficult to get any respect in jiu-jitsu. It’s hard to get to black belt and beyond in jiu-jitsu at a respectable place and not have a good close guard.
+Roger Gracie (02:38:48):
+Close guard is… Then don’t do it. It’s not necessary. I’m being a rebel. No, it’s not. I’ll say because it’s not a position that you want the pressure, that if you don’t, no, you’ll be in trouble. You’re not going to be in trouble not to know the close guard. You’re just going to go straight for open guard.
+Lex Fridman (02:39:06):
+I mean, the… It’s not a problem. The main limitation is if you don’t do close guard a lot, that you don’t quite… You don’t get a full, complete picture of understanding how to attack close guard when somebody puts you into a close guard when you’re on top. So it’s nice to know both sides if you just understand.
+Roger Gracie (02:39:23):
+Yeah, but you can have a pretty good understanding of how to defend from the top and not having any bottom.
+Lex Fridman (02:39:30):
+I mean, some of it is also just like the length of legs and just the geometry of your body. I’m sure Marcel Garcia has a good close guard, but… I’ve never seen it. That’s exact. That’s the point I’m trying to make. In theory, you can imagine it. But for a hobbyist, I think it’s interesting to think of that. Is it possible to… Is it possible to focus on a small set of techniques that help you to develop… Yeah, of course.
+Roger Gracie (02:40:03):
+…into a good jujitsu player… Yeah, of course….and still enjoy and still be able to be… Most people hobbies in the jujitsu world, 99%. I mean, people that compete. Yeah, even the people that compete. 1% max. And you have high-level competitors. Have no clue what close guard is.
+Lex Fridman (02:40:21):
+Okay, thank you for making me feel good. No, I think you would say that most people don’t have… Close guard is such a difficult position to understand for me. Maybe one day we’ll brainwash. Yeah, good. I felt it’s too easy to stall versus attack.
+(02:40:41):
+That was my main concern. I want to be forced in every way to always be attacking, to always be moving, to always be… And it felt like if I got really good… I’ve seen it happen with half guard too. It’s like when people get really good at half guard, it just feels stall-y. If you just look at the matches and so on, you slow things down to a thing that’s not…
+(02:41:06):
+You don’t get reps on learning. You don’t get action in interesting ways. So that was my worry, that I’ll get old and fat and just sit in close guard all day, holding on to the white belts trying to kill me. Because it’s also… I mean, that’s the other thing for hobbyists and for everyone. When you first start, I think you have to relax in the face of the fact that you’re just getting your ass kicked nonstop. That can also be really tough on the ego. I think probably the right way to see that is you’re growing as a person.
+Roger Gracie (02:41:41):
+You see that clearly when they are in a bad position, let’s say side mount or mount. Like a beginner, he will never relax on those positions. The moment that you say go, they like trying to push you out and explode. There’s no relaxation and work on the defense. It’s like, no. It’s out and go until I have zero to give. Until I’m exhausted, my arms cannot move.
+Lex Fridman (02:42:10):
+It’s kind of fun to watch, actually. What’s the role of drilling? Do you like drilling?
+Roger Gracie (02:42:16):
+I do not like drilling, but I’ll tell you why. I think fighting is mechanic. It’s very important to drill a move until you learn the mechanic. Of course, it’s important. If someone want to teach you an arm lock, you want to practice that movement until you learn the mechanic of it, but the guy is not resisting, so it’s easy to apply. You apply as many times as you have to until you know the mechanic of the moves, until you can apply the mechanics. The moment that you know how to apply, there’s no more point in drilling. Now, you have to practice.
+(02:42:58):
+Now, you have to practice with resistance. Of course, you’re not going to practice with the guy fully resisting. The guy is better than you because he’s not going to give you a chance to practice that move, but you have to practice with resistance. Where does drilling come from? Most people, they flow drill and everything. Whatever you do, you’re conditioning your body to do something. You repeat the same move over and over again. Your body is conditioning to apply that movement or that technique.
+(02:43:30):
+Drilling is not realistic because the other person is not resisting the flow movement or whatever. After you go beyond, when you already know the mechanics, the drilling with no resistance is not going to teach you anything because you will never know how to apply the movement with resistance. It’s pointless to carry on drilling after you learn the mechanics.
+Lex Fridman (02:43:53):
+But you’re making it sound easy to learn the mechanics, I would argue.
+Roger Gracie (02:43:60):
+You can drill as many times. You’re not limiting how much you drill. You drill as long as you had to. It doesn’t matter how long.
+Lex Fridman (02:44:09):
+The benefit of drilling, and I’m just playing devil’s advocate with you, the benefit of drilling is that you can more efficiently get a higher number of reps in. What are you going to gain with those reps? Understanding the mechanics of the movement. What I would like to argue is you don’t necessarily need resistance to deeply understand the mechanics of something. Now, I don’t know. There’s some moves, like I bet you, you could drill your way to an incredible amount.
+(02:44:43):
+Mahlon’s a good example of that. You don’t really need a resistance. I can imagine a world in which the resisting opponent is not essential for developing the very fine details of the mechanics.
+Roger Gracie (02:44:57):
+Which one? Because I don’t know any. What? You said mount. Yes. What are you going to achieve by drilling with no resistance after you learn the mechanics?
+Lex Fridman (02:45:08):
+In mount. What I’m trying to tell you, the learning of the mechanics isn’t a thing where you get a certificate and you’re done. You’re going to learn the fine details of the way you redistribute your weight. You’re going to learn how to move. I don’t understand.
+Roger Gracie (02:45:21):
+Against a dead body. Everything you do is a slow process in timing. You have to understand moving. If the guy’s resisting, like I’m not going to grab you and apply the movement. I need to grab you and feel when is the right time to do. That only comes with movement. If you’re not fully resistant, how would I know?
+Lex Fridman (02:45:46):
+You could infer through it. It’s like a…
+Roger Gracie (02:45:51):
+With no movement, with no resistance.
+Lex Fridman (02:45:53):
+Like arm lock. There’s some resistance. Okay, arm lock.
+Roger Gracie (02:45:55):
+The arm lock. Okay. Okay, let’s say you’ve been drilling for a week. Yeah. Five hours a day. You should be an expert with the mechanics. But now, how are you going to carry on drilling? With no resistance? No. Exactly. After that week, drilling five hours a day, the arm lock, you still have no clue how to apply the arm lock against a resisting opponent. No clue, zero. So you don’t know the movement, you know the mechanic.
+(02:46:24):
+Which is like how long you have to drill and how… That doesn’t matter. It varies of the person. You can drill for a month. After that month is over, you should understand how the mechanic works. You still have no clue how to apply the movement against a resisting opponent. You will never ever know how until you apply with a fully resisting opponent. That’s the only way to know, to really learn the movement.
+Lex Fridman (02:46:50):
+Yes. Well put. But the question is, can you have a small percentage of time when you go against a resisting opponent to get the wisdom and the insight of what it takes to perform that movement and you spend a large percentage of other time just practicing the mechanics of it? So like, do you need to, as you get better and better at technique, to basically drift away completely from drilling and more into the sparring?
+(02:47:19):
+I’d like to. I just… You like drilling? No, I don’t like drilling. Well, yes, I like drilling, I would say. But I just see, it always bothered me in the jiu-jitsu community how few people really saw the value of drilling. I see it in wrestling, especially in the Russian style of wrestling, like the value of drilling. I don’t necessarily mean that it’s like a dead body or like a dummy or something like that, but just getting the reps in, really focusing on the high amount of reps.
+Roger Gracie (02:47:48):
+I agree in wrestling and judo. I agree that drilling is very important, initial drill a thousand times each move. Yeah, judo is a really big one for that too. It is, because it’s the movement, the timing, it’s the precision of the movement, it has to be perfectly, because it’s one movement. Then you learn about the timing of the movement when you’re fighting, but during fighting you only need to know the time because your body movement is exactly the same when you drill.
+Lex Fridman (02:48:17):
+That’s really well put, yeah.
+Roger Gracie (02:48:18):
+The mechanics is much more important there. Yeah, but it’s completely different for jiu-jitsu. Because let’s say from jiu-jitsu, like the arm lock, for example, we use that as an example. Let’s say from the close guard. Even my close guard, before I go for the arm lock, I need to have a set of grips. Let’s say I have your collar and your arm, right? And then when you’re drilling, I’m going to grab your arm, I’m going to grab your collar, and I’m going to drill my body until I can apply the arm lock and finish. And I can do that a thousand times.
+(02:48:48):
+Okay, now we’re fighting, we start with the grip. The moment that I initiate the arm lock attack, you will defend, the arm lock will not work. So it’s not the one movement that will get me to attack the arm. There’s a combination of other things that I need to do. I need to feel about your weight, I need to get you close to me, there’s so many other things involved that I need to feel that only comes with a fully resistant opponent.
+Lex Fridman (02:49:15):
+Yeah, so pretty quickly it has to be live.
+Roger Gracie (02:49:19):
+Yeah. And then it comes how you practice, how you train. You’re starting on that position and just saying, let’s go. And the moment that we disengage from that position, we go back, that’s when you really learn. Because everything that you do wrong, you’re going to go back there, and you’re going to try again, try again, try again. And the repetition, it will teach you, have a feeling of timing when to go, if there’s other combinations, which it always has to go with it.
+Lex Fridman (02:49:54):
+By the way, for the internet that’s currently yelling at me for arguing with Haja Gracie about drilling, that’s called playing devil’s advocate to strengthen, to explore ideas. I’m not actually arguing. Okay. I forgot to ask you, if you had to fight against a bear, lion, gorilla, or anaconda to the death, which one would you choose? And would you be able actually to win against any of them?
+Roger Gracie (02:50:23):
+A bear, a lion, a tiger, or anaconda?
+Lex Fridman (02:50:30):
+Oh, a gorilla too, a gorilla. You can go gorilla.
+Roger Gracie (02:50:34):
+I’ll probably choose the anaconda.
+Lex Fridman (02:50:38):
+I mean, you’re not allowed to run away though, so you’re in a cage. Do you have to kill?
+Roger Gracie (02:50:48):
+Still the anaconda. So the other one? I think I have no chance against any other ones.
+Lex Fridman (02:50:54):
+Zero chance? What does John think?
+Roger Gracie (02:50:57):
+I have a tiny little against the anaconda. I just wait it out.
+Lex Fridman (02:51:02):
+You don’t think it’s possible to be, I just, it feels like technique can do something against these animals, but they have so much strength, so much aggression.
+Roger Gracie (02:51:15):
+You know, the real naked joke, translating to Portuguese, is kill the lion. So, ever since I was a kid, I always thought that maybe if I get behind a lion, the real naked joke, which in Portuguese it says mata leão, so mata leão means kill the lion. So I always thought that that’s the only way to kill a lion. You know, if you’re fighting against a lion, you go behind and put the real naked joke, I think you’ll put him to sleep. The name mata leão is like kill the lion. Somebody came up with the name. Why? Somebody must have. Maybe someone is going to fight with a lion, choked him up. There you go, John.
+Lex Fridman (02:51:60):
+There you go. I honestly, do you think, actually, yeah, you understand controlling positions. Do you think an animal like a gorilla or a lion would shake you off? If you had back full, you’re locked in.
+Roger Gracie (02:52:11):
+Well, I would say the one that will have the biggest chance of staying there because it’s the thinner body. Yeah. It’s smaller than a tiger, I guess. I think tigers are bigger. Yes. So do you think they can shake you off, though? I think I’ll have a bigger chance of staying against a lion’s back than any other animal.
+Lex Fridman (02:52:31):
+Still not answering the question. Do you think you have a chance? If I start on the back? Full locked in, full controls. Let’s say it’s a small enough lion that you can actually have a full.
+Roger Gracie (02:52:42):
+I would guess so. I mean, I would like to believe so. Okay.
+Lex Fridman (02:52:47):
+Well, just like you said, somebody must have been able to do it. Throughout your journey in jiu-jitsu, have there been low points? Has there been points where you really doubted yourself?
+Roger Gracie (02:52:57):
+No, I’ve never really doubted myself. There’s low points in defeats. Those are the low points when I lost. How did you deal with defeats? I just went back to the gym next week and said, I need to get better. Every time I lost, I’m like, I need to get better because I need to choke them out. I need to submit them because, you know, win by points. As a black belt, I have very little loss. I would say, I mean, I don’t like to sound like a crime baby, but I would say most of those losses were very, very controversial.
+Lex Fridman (02:53:36):
+Yeah, it was not a dominant, clear performance. It’s about referees and points and so on.
+Roger Gracie (02:53:41):
+Everything I was, since I was very young, I always fought against my opponent and the referee. Like it’s, if there was ever in my whole life, since I was a kid, there was ever a doubt, it always go to my opponent. Always, always. It was just something that I had to deal with in my whole life.
+Lex Fridman (02:53:59):
+What’s the motivation behind, what led to the fact that you win most of your matches by submission or in dominance? Like are you chasing?
+Roger Gracie (02:54:07):
+Because that’s the only way to prove you better. And I never fought to win tournaments. That was never my goal. That was the consequence of me trying to be the best. Like I don’t care how many titles I have. I care about, I need to beat all my opponents. And not win, because win is not enough. I have to submit them. That’s the only way to prove I’m the best. To submit them. If I win by advantage or a point, that means I was better than them that day. That does not mean I’m better than them. If they top, if I take you down, pass your guard, mount you and submit you, there’s zero questions who’s the best. Like there’s nothing you can say about it. If I foot sweep you, put your butt on the floor, I get an advantage, we carry on fighting and I win, means nothing. Not even means I’m better than you.
+Lex Fridman (02:55:08):
+If that happened, that would haunt you.
+Roger Gracie (02:55:10):
+For me, it’s not enough. I wouldn’t be happy.
+Lex Fridman (02:55:15):
+What advice would you give to young folks who look at you with able to accomplish from a place where you’re not very good to becoming the best in the world at a thing? What advice would you give them to have a journey like that? To have a journey where they could be successful in their career and their life to such a high level?
+Roger Gracie (02:55:38):
+Determination is the most important thing. You need to know where you’re going to get there. You need to have a goal. Whatever that goal is, you need to set that goal for yourself so you know where you want to go. To have the determination to get there and be sure that you will fail many times. You cannot let your failures bring you down because you will fail many times.
+Lex Fridman (02:56:10):
+Everybody does. You said you didn’t look to external sources of belief. You just believed in yourself. Is there something to that where you have to try to be your own source of belief, flame the fire within yourself? Is that something difficult to do?
+Roger Gracie (02:56:36):
+That was just very natural for me. I said you can surround yourself with great people. That is extremely important. Don’t surround yourself with failures because they’re not going to push you. They don’t know what it is, how to get there. Everybody knows. When you surround yourself with winners, you will know what it took them to get there. Use them as an example.
+Lex Fridman (02:57:08):
+There’s a certain kind of aura to people that just achieve great things and being around them. It’s hard to find people, especially at that early stage.
+Roger Gracie (02:57:18):
+Any area.
+Lex Fridman (02:57:21):
+That’s right. Greatness has a certain… I think it’s almost humbling just to see, okay, any human… At least that’s a lesson I learned. Almost any human can be great.
+Roger Gracie (02:57:32):
+I’ve used Muhammad Ali as a great example. Look at his belief. Look at how much he believed himself before he was Muhammad Ali. Look at the determination he had, the confidence he had fighting, even on his loss. It never changed him. Not when he fought Foreman, George Foreman. Not one person in the world thought he was going to win that fight by himself.
+(02:58:02):
+He never doubted himself. Everybody else did. He won over all odds against him. When you look at people like that, you don’t have to be a boxer to try to follow his example.
+Lex Fridman (02:58:20):
+But see, those are epic, giant battles. But I feel like you fight the same kind of battle when you’re young and your parents tell you that just with their whole energy, that this is silly, don’t be silly, don’t be silly to chase.
+Roger Gracie (02:58:33):
+It’s harder. It is harder. As a kid, it’s harder to deal with that because to go against adults, especially parents telling you otherwise, the amount of strength you need is gigantic. I don’t even know how much strength you need because that was not my case. So I can understand what you have to go through with the force of your parents telling you otherwise. But it’s how much you want, it will dictate how far you’re going to go, where you’re going to go. If you can break through that, you’ll get nowhere. It’s that simple.
+Lex Fridman (02:59:13):
+Actually, one of the really nice things the internet does that I would give advice to young people is you can find, even if your parents are not a source of that, your teachers, your community, you can find people on the internet who will believe in you. It’s kind of cool how the internet opens the possibility of a community of 10, 11-year-olds building shit. I see this all the time. Engineering, they’re fueled by belief.
+(02:59:44):
+They want to create the next trillion dollar company. There’s that fire in their eyes, and not for the money, obviously, but to do something really impactful. I think that fire is extinguished often by teachers and parents. Because I think the logic that parents have and teachers, they look at a kid, and they don’t, on the surface level, they don’t see greatness. They just see kind of mediocrity. To them, it’s like, no, right, the world is more complicated than that. In order to get great, you have to, they somehow kind of always try to be reasonable with you, and in so doing, extinguish the flame.
+Roger Gracie (03:00:31):
+I think most people are afraid to even try. You can call them cowards for not trying, because you are a coward for not trying, not putting yourself at risk. I would say a big part of society are cowards for never trying, never pursuing what they really want. So there is a weight, a pressure, everyone, most people, a lot of people, I’ll say around you, that because they were afraid to try, they don’t incentivize people to do so, because they want everybody to be like them. Because imagine if everybody around you suddenly are not afraid, and everyone is trying, and you look yourself in the mirror and say, I was too scared, I’ve never tried. So you feel really bad about yourself. So it’s easier to have people around you that think exactly like you than otherwise. So that reflects a lot on the kids. It’s society almost like press them down to be like everybody else, to have a normal life, normal job. It’s, you know, don’t take risks, because you can lose it all. I mean, that’s the worst thing you can tell everybody. Take all the risks, lose it all a few times.
+Lex Fridman (03:01:54):
+That’s how you’re going to build things. Especially when you’re young. Yes.
+Roger Gracie (03:01:58):
+You can recover much quicker. What’s the point of not trying? You should try. And you will lose everything. Doesn’t matter. What matters? To lose everything. It does matter. It will teach you resilience. Try harder. Go after it. Don’t live a normal life, because otherwise, what are we here for?
+Lex Fridman (03:02:23):
+Yeah. Take big risks, take a lot of them, fail and fail.
+Roger Gracie (03:02:26):
+Fail and fail. Fail a thousand times.
+Lex Fridman (03:02:28):
+Never give up.
+Roger Gracie (03:02:29):
+Until you succeed. And then you’re going to be the most proud of yourself. Then it will be priceless. Then we’ll change the world.
+Lex Fridman (03:02:39):
+It is true that most people are not necessarily cowards, but have cowardice in them.
+Roger Gracie (03:02:46):
+Most people are just afraid to try.
+Lex Fridman (03:02:49):
+A lot of it comes from a place of love. If you try and you fail, you get hurt.
+Roger Gracie (03:02:59):
+It hurts. It’s not a pleasant thing to fail. You feel terrible. To think when I lost any tournament was a good thing. To think when I was getting beat up at the gym over and over again was a good thing. When I was getting there and getting smashed by all the good guys. To think I liked it. I hate it. But it’s my resilience that makes me carry on until I succeed. I think I like to get tapped. I’m one of the most competitive persons you know. I hate to lose. But I accept. I just need to get better.
+(03:03:36):
+Every single time I lost in the championship, I hate it. I’ve never screamed. No one ever saw me screaming. Shouting that I got robbed. I should have won. The referee screwed me over. It happens. Shit happens. I need to get better. Because I don’t want to be in that position ever again. So when I fight, if I’m better, if I tapped him, there’s no question. I don’t need to wait for the referee to decide that there’s points or no points. His interpretation, that made me better.
+(03:04:15):
+Because I was even more determined to be better. In my mind, I have to tap everybody else. Winning is not enough.
+Lex Fridman (03:04:24):
+It’s just objectively speaking, what you learn the most from is really wanting to succeed and then failing. And doing that often. That’s the reality from a parent, from a teacher perspective, from anybody. From people you love. If they really want to do something, help them do that thing. If you think they’re going to fail, good. Help them do that faster so they fail faster.
+Roger Gracie (03:04:50):
+You’re going to learn. The only way to succeed is failing. There is no other way. That’s what people have to understand. Without failing, there is no success.
+Lex Fridman (03:05:02):
+Since you’ve gotten a little softer, a little more emotionally open, what’s the role of love in the human condition, Hajo Gracie?
+Roger Gracie (03:05:10):
+Probably the most important thing. That’s the basic of everything, right? Love brings the best of us. If we had more love and compassion from the other person, I think we would be a more evolved species. The world would be a much better place than it is now.
+Lex Fridman (03:05:30):
+Did friends and family help you along the way?
+Roger Gracie (03:05:32):
+Yeah, a lot. I always had a lot of love and help from many people. That’s why I succeeded. I never got here by myself. I had a lot of people who loved me, believed in me, and helped me get to be here today.
+Lex Fridman (03:05:47):
+Well, I’m glad they did. I’m glad you’re here today. I’m a huge fan. It was an honor to meet you. It was an honor to hang out with you in Vegas, to hang out with you again today. I’ve just been a huge fan for a long time. My pleasure, man. Thank you for everything you’re doing. Thank you for this conversation. It was awesome. Thank you very much. Thanks for listening to this conversation with Hajo Gracie. To support this podcast, please check out our sponsors in the description. And now, let me leave you with some words from Hajo Gracie himself. Jiu-jitsu is simple. You just have to do it right. Thank you for listening, and hope to see you next time.
+Roger Gracie is a legendary jiu jitsu competitor and MMA fighter. Please support this podcast by checking out our sponsors:
+– Bambee: https://bambee.com and use code LEX to get free HR audit
+– Mizzen+Main: https://mizzenandmain.com and use code LEX to get $35 off
+– Blinkist: https://blinkist.com/lex to get 25% off premium
+– Athletic Greens: https://athleticgreens.com/lex to get 1 month of fish oil
+EPISODE LINKS:
+Roger’s Instagram: https://instagram.com/rogergracie/
+Roger’s Website: https://rogergracie.com/
+Roger’s Online Jiu Jitsu: https://rogergracietv.com/
+Roger’s match against Marcus “Buchecha” Almeida: https://www.youtube.com/watch?v=_L-Ni7bFAHg
+Watch full matches at FloGrappling: https://flograppling.com
+PODCAST INFO:
+Podcast website: https://lexfridman.com/podcast
+Apple Podcasts: https://apple.co/2lwqZIr
+Spotify: https://spoti.fi/2nEwCF8
+RSS: https://lexfridman.com/feed/podcast/
+YouTube Full Episodes: https://youtube.com/lexfridman
+YouTube Clips: https://youtube.com/lexclips
+SUPPORT & CONNECT:
+– Check out the sponsors above, it’s the best way to support this podcast
+– Support on Patreon: https://www.patreon.com/lexfridman
+– Twitter: https://twitter.com/lexfridman
+– Instagram: https://www.instagram.com/lexfridman
+– LinkedIn: https://www.linkedin.com/in/lexfridman
+– Facebook: https://www.facebook.com/lexfridman
+– Medium: https://medium.com/@lexfridman
+OUTLINE:
+Here’s the timestamps for the episode. On some podcast players you should be able to click the timestamp to jump to that time.
+(00:00) – Introduction
+(07:26) – The moments before a match
+(15:17) – Confidence
+(29:43) – Greatest jiu jitsu match of all time
+(51:04) – Renzo Gracie
+(1:03:21) – Braveheart
+(1:04:44) – Self-belief
+(1:18:50) – Cross-collar choke
+(1:22:53) – Mount position
+(1:39:07) – How to progress in jiu jitsu
+(1:41:22) – Best submission in jiu jitsu
+(1:45:55) – The greatest competitor of all time
+(1:48:01) – Roger’s statistics
+(1:55:57) – MMA vs jiu jitsu
+(2:04:25) – Gordon Ryan
+(2:16:51) – John Danaher
+(2:19:23) – Bear fight
+(2:22:21) – Tie
+(2:32:53) – Advice for beginners
+(2:42:13) – Drilling
+(2:50:09) – Roger vs Bear, Lion, Gorilla, and Anaconda
+(2:55:14) – Advice for young people
+(3:05:02) – Love
+Podscript is a personal project to make podcast transcripts available to everyone for free. Please support this project by following us on Twitter.

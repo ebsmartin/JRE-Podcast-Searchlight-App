@@ -1,0 +1,1115 @@
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present.
+You can click the timestamp to jump to that time.
+Lex Fridman (00:00):
+The following is a conversation with Todd Howard, one of the greatest video game designers of all time. He has led the development of the Fallout series and the Elder Scrolls series, including Arena, Daggerfall, Morrowind, Oblivion, Skyrim, and the future Elder Scrolls VI, and a totally new world in an upcoming game called Starfield. Many of these have won Game of the Year awards and have been some of the most celebrated and impactful games ever made. To me, Skyrim is quite possibly the greatest game ever.
+(00:38):
+And now, a quick few second mention of each sponsor. Check them out in the description, it’s the best way to support this podcast. We got Shopify for e-commerce, Asleep for napping, Inside Tracker for biomonitoring, and Element for salty greatness. Choose wisely, my friends. And now, on to the full ad reads. Never any ads in the middle, I hate those.
+(00:59):
+I try to make these interesting, but if you skip them, please still check out the sponsors. I enjoy their stuff, maybe you will too. This show is brought to you by Shopify, a platform designed for anyone to sell anywhere, anything, whatever they enjoy making, whatever they enjoy selling. It makes it easy to reach a huge audience. The whole thing looks super sexy, it’s a great looking online store. And it allows you to take your idea, convert it into a product, and hopefully spread joy to other people who want to buy that product. And it gives you tools to do day-to-day management of that selling of the product. I’ve been asked a bunch of times to do merch.
+(01:41):
+Man, there’s so much cool stuff, because I’m a fan of merch myself. When I’m a fan, I’m a fan of a lot of podcasts, a lot of shows, a lot of people. I just like wearing things that I’m a fan of. It’s a kind of cool celebration of a beautiful thing. I just, in general, like celebrating others, and merch is one of the ways to do that. Anyway, get a free trial and full access to Shopify’s entire suite of features when you sign up at shopify.com slash lex. That’s all lower case Shopify. This episode is also brought to you by Eight Sleep and its new Pod 3 mattress. There are very few things in life I enjoy as much as a nap.
+(02:21):
+I am ultra-caffeinated at the moment, but shortly, or rather, shortly into the past, whatever the expression for that is. English is, in fact, my second language. I took a nap recently, I guess. Shortly into the past, into the recent past, I took a nap. That was about 20 minutes, I want to say. And I woke up completely refreshed. I think there’s probably really good science on that, of just napping. Is there a book, not on sleep, but specifically on napping? On mastering napping. Master Napper. If there isn’t a book, I’m going to write one. It will forever be remembered. And it’ll be a short one.
+(03:02):
+I really enjoy napping. And my favorite thing to nap on is an Eight Sleep bed because it cools it down with a warm blanket and it’s just heaven. Check it out and get special holiday savings of up to $400 when you go to 8sleep.com slash Lex. This show is also brought to you by InsideTracker, a service I use to track biological data that comes from my own body and gives me wisdom that only large-scale raw data can provide.
+(03:34):
+The signal that’s pulled off from that data using machine learning algorithms. And we’re talking about blood data, DNA data, fitness tracker data, all kinds of data. I’m actually going to a Neuralink event very shortly. And that event is about extracting data from your mind. Long-term vision of brain-computer interfaces, two-way communication between computers, maybe artificial intelligence-enhanced computers, and the human mind. That data is extremely powerful to tell you what’s going on in your mind and your body. And I think InsideTracker is at the cutting edge of what can actually lead to positive lifestyle changes using that data coming from the person, personalized to that person. All right. Get $200 off InsideTracker’s Ultimate Plan or 34% off the entire store when you go to InsideTracker.com slash Lex. This episode is also brought to you by Element Electrolyte Drink Mix, spelled L-M-N-T. I drink a lot of Element. There’s some guest that was on recently.
+(04:41):
+It might have been Grimes or Liv. I’m not sure exactly. But they said they’re a huge fan of Element. Who was it? But they said we had a debate about favorite flavors and what to drink and how much to drink. And they discovered that I drink way too much Element from their perspective. From my perspective, never enough. So it makes me feel great in terms of diet. It makes sure that I get enough hydration. It makes water taste great. For all the crazy exercise and mental and physical stuff I do, diet stuff I do, it’s just really important to make sure your electrolytes are done correctly. Get a simple pack for free with any purchase. Try it at DrinkElement.com slash Lex.
+(05:28):
+This is the Lex Friedman Podcast. To support it, please check out our sponsors in the description. And now, dear friends, here’s Todd Howard. ♪♪♪ Is it possible that we are currently living inside a video game that the future you designed…
+(05:60):
+Can you give hints as to how one would escape if this was a video game? How can a video game character escape to outside the video game? Are these things you don’t consider when you design the game?
+Todd Howard (06:13):
+Actually, we do. Because in the kind of games that we make, we want it to be as open as possible. So, you know, when you start a game, you’re always testing it. What can I do? What would the game allow me to do? And you check everything. You try to pick up the mugs. You try every door. You collide with everything. Like, hey, what are the rules of this world?
+(06:36):
+We try to do games where, you know, we say yes as much as possible. That leads to some level of chaos. But if you were stuck in a video game, you would try everything. And usually, you’re going to find a door or a space where the designers didn’t anticipate you piling all those crates up and getting over a wall that they didn’t expect.
+Lex Fridman (06:58):
+Right. So it’s not a designed doorway out. It’s an accidental, unintended doorway out. And it’s a happy bug.
+Todd Howard (07:07):
+You could, like, trim and show. Just get in the ocean and go till…
+Lex Fridman (07:10):
+Just keep going. Right. Keep going. But the more realistic the game becomes, the harder it is to find that door. The bigger the world. The bigger the open world.
+Todd Howard (07:20):
+And then as we do it, we learn they’re going to find a way. So just don’t try to pen them in. Usually, we leave, like, this developer test cell area in the game that we don’t anticipate anyone will find. And they ultimately find it. It usually has crates of all the weapons in the game
+Lex Fridman (07:44):
+and things like that. The little hints you drop now will just drive people mad, which is something I enjoy deeply. So Skyrim NPCs have, at times, hilarious dialogue. What does it take to build a good NPC dialogue?
+Todd Howard (07:59):
+The main thing is to make them reactive. A lot of times when you write characters for movies or things like that, you want to make that character interesting for themselves, right? What’s their story? And there’s some characters like that that the player definitely cares about. But the best characters are the ones that react to you. So you’ll find a lot of people love our guards.
+(08:27):
+And the guards are written almost purely to be reactive. Hey, nice tie. I like your jacket. Do this cool watch. You know, hey, what’d you do? And so that, hey, you’re the man as you walk by. That makes them interesting. Or the way they react to something that you do. Lydia in Skyrim, who everybody loves, I’m sworn to carry your burdens, that’s a generic line that all of the house carls have. And it just kind of lands when she says it.
+Lex Fridman (08:58):
+Why does it land? And did you anticipate it would land?
+Todd Howard (09:02):
+There’s a slight snarkiness in that particular read of it. And you’re asking her to do something, and she’s reacting to you.
+Lex Fridman (09:13):
+What about the tradeoff between maybe the randomness and the scripted nature of the dialogue? Like, is there any room for randomness of the dialogue?
+Todd Howard (09:26):
+Oh, absolutely. We tend to write them in stacks with, you know, it’s a very small, think of it as a small state machine that just says, OK, this is what’s happening. Here’s a random list of things I could say to that.
+(09:43):
+And then some of that plays out in ways you don’t anticipate. But we look at the things. What are the players doing that we could have the characters respond to that they don’t expect? You know, jumping on tables or stealing stuff or, you know, sneaking in in the middle of the night or those kind of things. The more of that we can do, the more reactive and interesting the characters appear.
+Lex Fridman (10:10):
+And these state machines, how big are these things? Are these individual to the individual characters? It’s just fascinating how you design state machines. Is it just a giant database?
+Todd Howard (10:22):
+I would think of the AI as one big one, yeah, for sort of everybody.
+Lex Fridman (10:29):
+So there’s an AI…
+Todd Howard (10:31):
+There’s a manager for all the people. Yeah.
+Lex Fridman (10:35):
+And one of the… It’s the people manager. Right, right. Nice.
+Todd Howard (10:38):
+One of the things that makes what we do particularly unique is, and this is a trade-off for what people are seeing because a lot of it’s not on the screen, but we’re using cycles to run this, which is we’re thinking about everybody in the whole world all the time. The ones that are further away at a much less tick rate, they go into low, but we know if they want to walk across the world. And we’re running every quest at the same time. Whereas in other open world games, you start an activity, the rest of the world’s going to shut down so that they can really make that as impactful.
+(11:16):
+We’re… I really prefer that the rest of it’s going on. It’s more of a simulation that we’re building. So when those things collide, that’s where it gets the most interesting. And so we’re running all of those people and understanding where they want to go and their cycles and what they want to do. And the ones that are closer to you, we just update a lot more. It’s one way to think about it.
+Lex Fridman (11:40):
+I mean, that’s really fascinating. That’s something that people had… They were wondering about to what degree it’s possible to run the world without you. So there is a feeling to role-playing games that you’re the central, you’re at the center of the world and the whole world rotates around you.
+(11:58):
+As it does in normal life, like when we walk around, there’s a… when you forget yourself, you start to take yourself very seriously, like you are the center of the world. You forget that there’s 8 billion people on earth and you forget that they have lives. That’s actually a sobering realization that they all have really interesting life stories and they have their worries, they suffer in different, complicated ways. And yet, when you play a role-playing game, there’s a… I mean, both computationally and from a storytelling perspective, you wonder if the world goes on without you. Like, if you come back, if you take a break and you come back, is there still a bustling town that now has a history since you have last visited? So to what degree can you create a world that goes on without you or goes on at the same time as you do your thing, whatever the heck you’re doing?
+Todd Howard (12:52):
+We don’t prioritize the stuff you can’t see, so it’s more like an amusement park. If you study, like, the design, our level designers did this, how do they build Disney World in these places? So it still exists for you, the player. So it is fairly, you know, when you’re going to come in, this is what you’re going to see, the shops are in the front, you’re going to do this. It’s just for us to make it far more believable and get some more emergent behavior that not just make it sort of the verisimilitude of what you’re in for that moment, but you buy it all. I always say, like, you know, we got to do the little things so that you buy the reality of the virtual world you’re in so we want to do something crazy, you know, when a dragon lands or a death log comes out of the wasteland or those kind of things that you, it has the impact to you as the viewer that it would to the people in the world.
+Lex Fridman (13:49):
+Okay, but still you’re simulating stuff that’s close to you. It is a bit of a simulation going on.
+Todd Howard (13:55):
+Oh, absolutely, yes.
+Lex Fridman (13:57):
+And so that creates some interesting dynamics then.
+Todd Howard (14:00):
+And the stuff that we’re looking at in the future, you know, our plan is to push that even more, to think about how these things exist in the world first.
+(14:14):
+And we do some of this, but even more so in the future, to say how do these things exist, take like a faction in the world. What is their role in the world as opposed to just their role is for the player to join it, go through a bunch of quests and become the head of the faction. You know, think a little bit deeper about the simulation what would the Mages Guild be doing in a fantasy world or the Fighters Guild be doing in a fantasy world versus just sign up, do quests, get gold.
+Lex Fridman (14:45):
+And so that when you show up to that Mages Guild, it’s a bustling guild full of stuff going on.
+Todd Howard (14:52):
+It’s not just that it’s bustling, it’s that they feel rooted in it. They don’t feel like a storefront for come here, do quests, get experience.
+Lex Fridman (15:01):
+Is that one of the essential components of randomly generated worlds? So when I think back to Daggerfall, this gigantic world, when I first played it, I thought like, I mean, you’re just struck by the immensity of it. Right. The immensity of the possibility. When you’re young and you look into your future, it’s wide open and you can do anything. That’s what Daggerfall felt like. The openness was gigantic.
+Todd Howard (15:31):
+Daggerfall is interesting coming off Arena, where Arena does the same thing, but Daggerfall in many ways is bigger despite focusing on an area because of how the density of, okay, this is how much physical game space we’ll do for these villages and towns. And it does feel endless, even though you’re looking at a map that has constraints. And Daggerfall actually was a touchstone for us going into Starfield for how we do the planets because there’s a different kind of gameplay experience when you just wander outside a city in Daggerfall.
+(16:16):
+Then follow a quest line and go to this place that’s completely handcrafted and everything around every corner we’ve placed, like Skyrim. Starfield’s a bit more like Daggerfall in that if you wander outside the city, we’re going to be generating things and you get used to that game flow, different than we’ve done before, and fun in a different kind of way.
+Lex Fridman (16:41):
+We’ll talk about Starfield. Just for people who don’t know, and how dare you for not knowing, but with Daggerfall we’re talking about the Elder Scrolls series that started… So we’re talking about the big titles within the series. It started with Arena in 94, Daggerfall in 96. I didn’t look up the years before this. This is depressing or awesome. So all of these games brought hundreds, probably for some of them thousands of hours of joy for me. So Arena, Daggerfall, Morrowind, Oblivion, and Skyrim. So I don’t remember Arena being that open world.
+Todd Howard (17:20):
+Well, it’s all the provinces. It follows kind of the same pattern. It just doesn’t have all the number of villages and places that Daggerfall has, while Daggerfall focuses on the Iliac Bay area. Arena does it all. It just changes the scale in terms of one block on the map equals this much space.
+Lex Fridman (17:39):
+There is something that… I’m speaking to anecdotal experience, but I just remember it feeling wide open, Daggerfall. It definitely was, yes. The way Arena didn’t. I don’t remember… Maybe because Arena, it was so cool to have just the role-playing game aspect. You’re focused on the items and the character development.
+Todd Howard (18:02):
+Daggerfall has a lot more depth, particularly in the character system. That’s where it introduces all of the skills and those kind of things. Arena, it’s actually a game I love, and it’s very, very elegant.
+(18:17):
+If you look at the first one, where it’s just an XP-based system, do this, get XP, level up. Very classic role-playing game. Daggerfall digs deep into who’s your character, how you’re going to develop it, what are your skills, there’s advantages, there’s disadvantages. The environment going full 3D from Arena, which is actually a 2.5D Doom-style engine, I agree with you that Daggerfall feels like there’s more possibilities when you’re playing it.
+Lex Fridman (18:47):
+Were you able to look up to the sky in Daggerfall? Yeah, it’s full 3D. So that’s what full 3D means. And then you can go outside the city.
+Todd Howard (18:56):
+You can walk outside the city. You can do that in Arena too, but it looks more fakey. It’s all going to be a flat plane. Here comes things, and then a dungeon entrance is 8-bit. Here comes a little flat coming at the camera.
+Lex Fridman (19:07):
+Before we go to the end and the middle, from Starfield to Fallout and the Elder Scrolls series, let’s go to the very beginning. What’s the origin story? You know what, let’s even go before that. When’s the first time you remember the thing that made you fall in love with video games?
+Todd Howard (19:29):
+I think it’s partly my age coming up with the arcades and playing Space Invaders at the pizza place, and then Pac-Man really. It’s interesting about video games what Pac-Man did for video games, where it popularized them in a way that was just insane at the time. It had a song, had a cartoon, had all of the things. Nintendo comes along. So it was always part of, you know, I think if you were a kid growing up then, it was such a newness to playing things like that.
+(20:02):
+I remember being in fifth grade when the TRS-80 was brought into the classroom and there was a Star Trek game. And I was enamored with it, and they were going to start teaching some rudimentary programming. Like, okay, would you like to know how this is made? And I was hooked. I was like, I need to figure out how to make this stuff. And so I was a self-taught programmer, and my whole goal was to write my own video games. And, you know, by sixth, seventh grade, I had written my own much better Star Trek clone. Yeah, of course. Apple II.
+(20:43):
+And I really enjoyed programming on the Apple II then. And that, I think, was the right level of, like, complexity, you know, at that age, where you could kind of, you were always learning, but you could still understand a lot of the problem set for, like, this is what I want to get on the screen. And I was also into art. So I did a lot of art, and I did a lot of programming, and I was always making games. That was my hobby from the time I was, you know, 10 or 12.
+Lex Fridman (21:11):
+What was, to you, involved in making games? Like, how did you think of it? Was it from a graphics perspective, like what shows up on screen? Was it how it makes you feel? Was it about the story? Was it the text-based stuff and the dialogue and the prompting? Like, what does it mean to create a video game at that young age to you?
+Todd Howard (21:34):
+Well, it was a way of experiencing things that I couldn’t myself. So, you know, if you’re playing Dungeons & Dragons at the time, too, where you really feel, even pen and paper, these are, like, they feel somewhat, in quotes, real to you as you’re playing them. You’re very invested in your character and what you’re doing. And then I loved the games, The Wizardry and Ultima, that were able to bring that to a computer so I could, you know, do it on my own time.
+(22:06):
+It was very, very real to me. I’d sit in my bedroom and then go to bed and think about it, and then, oh, no, I have to go to school. I want to come home and figure out how to do this problem in the game. So whatever I was creating was something that I was excited about at the time. I made Raiders of the Lost Ark games.
+Lex Fridman (22:24):
+Like, with graphics and everything?
+Todd Howard (22:25):
+Yeah, so it was usually, you know, made a Miami Vice game, made a Gru the Wanderer game, made a Traveler game. But every time I was doing it, I wanted to figure out a new method on the Apple II of pulling it off graphically, whether that was editing character sets to get graphics in different formats, or how can I enable the secret double high-res mode it had, or just things like that where it became kind of this limitless, what can I make this do? And I had some friends who were doing the same thing, and then you get into who can impress each other. And I was kind of middle of the pack, I would say.
+(23:06):
+But again, this was the time where they’re bringing computers into the school, and the Apples come into the school, and the teachers are learning it because they have to teach the students. But then I would say I was part of a group of students that were, like, way past that. And it was very much of a self-taught, you know, how do you make this thing dance?
+Lex Fridman (23:28):
+I’d like to ask a strange question. So at that time, a lot of people considered you one of, if not the greatest game designer-creator of all time. You were middle of the pack then. Did you have a sense that this would be your life, and you would also be creating, you know, the greatest games ever?
+Todd Howard (23:52):
+Not in the slightest. No, I don’t think anybody… But I was very much like that was my dream at that age. But you don’t think that that’s a job. You know, and as I got older, I was really going through college, and I… Even the computer classes then weren’t where I wanted them to be, and I was still kind of doing my own stuff.
+(24:20):
+And I ended up getting a business degree and then interviewing for some jobs, like finance jobs. Well, I guess I should do this to make money, and I can keep doing this on the side. And I remember I actually got to, like, the final level of, like, this corporate finance job at Circuit City. Nice. And they turned me down. And I was like, fuck them. I’m just going to go make video games. So thank you, Circuit City.
+Lex Fridman (24:46):
+Yeah, I remember Circuit City. I think they went bankrupt, actually.
+Todd Howard (24:50):
+Well, they were based in Richmond. I was going to school close to there, and so…
+Lex Fridman (24:54):
+So what’s the origin story of you joining Bethesda Softworks at the time?
+Todd Howard (25:01):
+So I had gotten Wayne Gretzky Hockey 3 for Christmas from my girlfriend at the time, who’s now my wife. I was in college, and I noticed that it was, you know, in Rockville, Maryland. And, oh, that’s on my way home over Christmas break, back to William & Mary, where I went to college. And I was at this point committed, like, this is what I want to do. So I’m just going to drive by and knock on the door, which is what I did. So I drove by and knocked on the door. It was Martin Luther King Day, 93.
+(25:42):
+And someone came out and met me and said, well, maybe… Well, I’m in college. I’m talking about when I’m out of school. Like, okay, well, contact us then. And I will say I would contact them every once in a while. I did work for a small software company right out of school, down in that area of Williamsburg, and still would contact Bethesda. Arena had just come out. So then we’re in 94. Arena had just come out, and I loved it. So I was into sports games. I liked the hockey stuff. They were doing a basketball. They did a basketball game.
+Lex Fridman (26:17):
+Yeah, I’m just looking at they did a lot of – they did, like, six sports games, six. Bethesda released ten games, six of them sports games, NCAA basketball, hockey league simulator.
+Todd Howard (26:32):
+So it was really, like, sports gridiron, which is, like, the first kind of physics-based football game at the time. And there’s a famous story with Electronic Arts trying to do Madden and then hiring Bethesda before my time to make Madden because they were struggling. When I started at Bethesda, I remember the owner had John Madden’s Oakland Raiders playbook in his office. Like, ooh, can I see that? And I love sports, right? So I still play Madden to this day. I love it.
+Lex Fridman (27:01):
+So there’s an alternate reality where –
+Todd Howard (27:03):
+I made sports games? Yeah. Yeah, absolutely. This blew my mind. I wanted to make, like, the ultimate college football game. Well, it’s always, like, you know, it’s like music. You probably listen to lots of type of music. Like, you don’t play every time.
+Lex Fridman (27:14):
+But I think of open worlds as fundamentally different.
+Todd Howard (27:18):
+We sure.
+Lex Fridman (27:19):
+You know, like, source of happiness, entertainment, storytelling, world, gaming than Madden. I mean, it’s just because I love both. I love both worlds.
+Todd Howard (27:31):
+But they’re two totally different experiences. Just like when you might watch a movie, you might be in the mood for Lord of the Rings one day, and then you want some other, I don’t know, competitive show or game show or something like that. Or watch football on TV, right? You watch football on TV, but then I want to watch, get really into Game of Thrones. So I think all those things have validity. And actually one of the first things I worked on when I started at Bethesda was NCA Basketball Road to the Final Four 2. So that was kind of an external project. It came in like, hey, you know sports. Get this game done. And then went on to, but they were doing everything I loved. It was like, this is where I have to work. They’re doing, like, the Terminator science fiction stuff. I love that. They’re doing these open world role playing games. Like, I love that. And they’re doing sports. Like, this, I have to work here. So I started there.
+Lex Fridman (28:22):
+And Arena, you loved.
+Todd Howard (28:24):
+I loved it, yeah. So when I came in, it had just come out, and they were doing the CD-ROM version. So CD-ROMs aren’t even out yet.
+Lex Fridman (28:33):
+Oh, it used to be floppy disks. That’s probably one of, what was Arena?
+Todd Howard (28:38):
+We would burn them in the basement. We had the disk replicators.
+Lex Fridman (28:42):
+Right, so Arena was not released on floppy.
+Todd Howard (28:47):
+It was, yes. I believe it’s six floppy disks.
+Lex Fridman (28:50):
+Six floppy disks.
+Todd Howard (28:51):
+Maybe it was eight. But in those days, the number of floppy disks was very, very important to what the money you were making. So, you know, if you wanted to do a big, huge game, like, well, that’s just too many disks. So the CD-ROM became this jumping off point for the whole industry where, oh, it’s unlimited data.
+Lex Fridman (29:16):
+By the way, I played Arena. So that was, of course, attained legally, as one does.
+Todd Howard (29:27):
+Alternate means?
+Lex Fridman (29:30):
+By alternate means. Right. On floppy disks. And that was such an incredible, as you probably have seen, interacted with a large number of people. It’s a whole world. It’s a world that you escape to in the way, like, your favorite book, like Lord of the Rings. It was just something. It was unlike anything else. It was incredible. It’s probably, I mean, of course, as people say, the first game you play is the one that really sentimentally means the most to you. I think the first role-playing game I played, and it just changed everything. Was Arena? It was Arena, yeah.
+(30:11):
+I think Daggerfall is what I really kind of really played, especially because, like you said, the character development was really rich. But just like that you can feel like you travel to this whole other world that’s less about entertainment, like a shooting game, and more about a world. It felt like it’s a world, like you’re literally there. You can travel there. You can live there. You actually feel like that person versus like a Pac-Man, like an arcade, fun, entertaining adventure game. So you joined, you made it. What did you work on first there?
+Todd Howard (30:57):
+I worked, well, everyone did a bunch of stuff. So I worked on the basketball game really just to get it out the door, and Terminator Future Shock. So we were doing Future Shock and Daggerfall at the same time. They were developing a new engine, so it was one of the first 3D engines, the X engine. There were a bunch of guys from Denmark, actually. There was like a big Danish demo scene in those days on the PC. And so a bunch of the top programmers there went, look, this is not big. This is not a big company. Maybe there’s 20 people in development.
+(31:32):
+And we were doing both Daggerfall and the new Terminator. And so Daggerfall was a bit more, again, behind the Terminator game. So I was one of the main people on the Terminator team. And I don’t know. Things kind of worked out. I very quickly, I don’t know why. Like I quickly became the producer, and I was making levels and doing all these things. And it was awesome. And like looking back now, I can understand it better. But at the time, I didn’t appreciate it, which is no one quite owned the Terminator license. It was in like this limbo legally.
+(32:07):
+So there was no one to tell us what to do. Like, no, you can’t do that. So we would pick apart the movies, and how does he mention the gun he wants and the wattage of the laser and all these things. And so Future Shock is a game that I still love today. It does a lot of things that if you go back and look at it, we’re frankly still doing. Like it’s a large open world post-apocalyptic landscape height map with instanced objects all over it. And that is still a lot of how we build our worlds.
+Lex Fridman (32:43):
+What’s an instanced object?
+Todd Howard (32:45):
+It’s some games, every wall or building is kind of unique in its data. Whereas we would just build these little husks of buildings and then place them all over the place. So the memory and the way you render it is much more optimal.
+Lex Fridman (33:03):
+So that allows you to build a bigger world.
+Todd Howard (33:05):
+It allows you to build a bigger world much faster, and not every single version of that building is in its own unique architecture that is going to take up memory and processing speed, et cetera, et cetera.
+Lex Fridman (33:18):
+So you’re there very much feeling the computational constraints of the system when you’re creating these open worlds.
+Todd Howard (33:23):
+And you know what, that’s the thing then. You see some of it now, but in those times I do feel like every year the technology moved. And maybe it’s because, same thing, we’re like that my age at that time, where every year somebody was coming up with some new method or some new game system. And it was every year that innovation, innovation, innovation. And then 3D acceleration comes along.
+(33:53):
+And then these things come along. And then HD comes along. And it is true that as time goes on there is visually a diminishing return in terms of what you’re able to do on the screen. And there’s a ton of work that goes into it now because just rendering this cup to the perfect shine and material and roughness and how does the global illumination off this wall, it’s a ton of work. But you can pretty much do what you want now if you want to put the time in. Whereas then, OK, you can’t do everything you want. So pick your battles really carefully. And technically you couldn’t do what you want, if that makes sense.
+Lex Fridman (34:33):
+How much trade-off is there now in how much effort you put into the realism of the graphics versus the story? And actually not even how much effort you put in, but is there a trade-off in the experience, the feel of the game in terms of realism and story?
+Todd Howard (34:56):
+Usually we will start with let the player have as much agency and do as many things as they can as possible. And we will sacrifice some graphic fidelity for that, some speed for that. We could make a game that… Traditionally, we’re OK with 30 frames a second as long as it looks really good and the simulation’s running and all of those things. So we’ll sacrifice some of that fidelity for the player experience and the kind of things that I do.
+(35:27):
+But from a manpower standpoint, the graphics programmers work on graphics, the artists work on art. And we have an awesome team of artists and designers and writers and programmers. It’s usually where we find, as time goes on, the amount of art time that it takes to create a cup compared to what it used to be. That has increased, so we do use… Like, most people use art outsourcing as well so that we’re not… We still relatively, compared to our industry and what we’re doing, have smaller teams.
+Lex Fridman (36:01):
+What about the experience of the beauty of the graphics? So, like, one of the most amazing things about Skyrim, and maybe you could say that about some of the other games, but for me, Skyrim is the outdoor. When you step outside, it’s the outdoor scenery. So what does it take to create the feeling, especially of that, being outdoors, of nature, and just, like, lost in the beauty? Whatever it is when you go hiking and you feel the awe of it, how do you create that awe? Is that graphics? What is that?
+Todd Howard (36:37):
+It’s a lot of graphics. It’s a lot of mood. We just talk about it in terms of tone, and those are… Again, going back to my previous comment, the graphics are very, very important to us because… And we always push them because when you’re doing the kind of things we do where you step into a virtual world, it does have to have that moment of, wow, this feels real. I’ve never experienced this. And it’s okay… I think it’s okay to let just, like, the time settle, meaning you step out.
+(37:15):
+How does the wind sound? How are the trees moving? How are the clouds moving? I enjoy strolling and watching the sunset. You know, how does it land over the water? Like, it doesn’t have to be like, hey, let’s go. Let’s finish a quest. Let’s go kill things. Let’s figure out the next step. Let’s level up. Like, I like the quiet moments a lot, and I think when you play our games, you can tell. We spend a lot of time on them. Then you watch, like, the weather roll in. I think that’s just part of being, being that character, being that person in that space.
+Lex Fridman (37:52):
+Yeah, the… I saw that there’s a mod that removes all enemies. I’ve been meaning to do that, to just do, like, a live stream where I, for hours, walk around Skyrim, just, and then answer questions and so on. That just feels… That’s a completely stress-free environment. It’s just, you are, just like you said, in this moment in time.
+(38:15):
+And it’s so incredible. It feels as incredible as going hiking or something like that, but in another, totally different place, like Iceland or something like that. This whole other surreal, ethereal place. Yeah, it’s incredible how you kind of create that. So graphics is a part of that, but also letting it, the temporal aspect of that, like the wind, the rustling sound and look and all of that.
+Todd Howard (38:45):
+The soundscape is really, really important. And the sky, we spend a lot of time on the sky because it’s taking up much more of the screen than a lot of people give credit.
+Lex Fridman (38:57):
+What about the rendering, the openness of it? Like, how do you, is that…
+Todd Howard (39:00):
+There’s a lot of level of detail, streaming work. And, you know, nowadays it’s getting more common. Like, frankly, the systems are built better for it. Hard drive speed is really prioritized. Like, they’re so blazing fast. You take Skyrim and Oblivion and the fallouts of that 360 era. It’s a… And there was a lot of time spent on how do we get all this data streaming in as you move, and then levels of detail so you can see all the way, but not, you know, crush the processor.
+Lex Fridman (39:37):
+You know what? Let’s even step back, because you mentioned tone. You mentioned tone a lot. What do you mean by tone?
+Todd Howard (39:43):
+It’s all of it together. If you look at… I think you can flip through. Let’s just take fantasy. You can sort of look at a couple images or things and know how does Lord of the Rings different from Game of Thrones that is different than, you know, a Thurian like Excalibur or your, you know, sci-fi channel, you know, series of the month kind of thing.
+(40:19):
+And so finding that, what’s going to make it kind of unique, and usually I lean on something that is grounded in reality for what it is, and then have lesser kind of fantastical things at least at the start, and then they kind of build. So even when we do Starfield, I mean, it’s a science fiction game. There are laser guns and spaceships that fly around and shoot each other and blah, blah, blah, blah, blah, but it’s grounded in, you can look at it and say, okay, this is kind of an extension of things as we view them today in space.
+(41:00):
+And we sort of take the same approach with Fallout where admittedly things can get, admittedly things can get even a little bit crazier the longer you’re developing Fallout content.
+Lex Fridman (41:12):
+So just to linger on this, the tone starts at, or defining the tone starts at creating a realistic experience. Like you feel like I could walk into this and this feels like life.
+Todd Howard (41:26):
+What’s their technology level? Like even for a fantasy world, like is magic, how prevalent is it? Or are they making weapons and things and armor? Is it for utility? Is it for decoration? How do they live their lives? Does this feel like a place that you believe that has some grounding in our reality, whether that’s historical or near future, or that it’s grounded in some semblance of the reality that you and I understand so that it can feel, it’s also making it feel a little bit welcoming. Like okay, I understand this.
+Lex Fridman (42:02):
+Is that art or science? So how do you know when it feels welcoming and everything fits and is grounded?
+Todd Howard (42:09):
+I don’t know. I guess it’s personal taste. Some people like things that are weirder, that have more fantastical from the get-go. Even a game like Morrowind, where we get into some more fantastical things, it intentionally starts a little more grounded. There’s a very classic medieval-looking town that you come into, but you look just beyond it and there are mushroom trees and giant insects and things like that.
+Lex Fridman (42:36):
+So in Skyrim, when you put a dragon in it, what are your thoughts about dragons and tone? How does that fit into tone?
+Todd Howard (42:45):
+That’s a great question.
+Lex Fridman (42:48):
+It’s a ridiculous question, but yeah, I just…
+Todd Howard (42:52):
+Love dragons, so I wanted to bring it up. No, no, no. These are the things that we debate with…
+Lex Fridman (42:57):
+Do we include a dragon? Why didn’t you include a dragon in Daggerfall? That’s what I want to know.
+Todd Howard (43:02):
+There’s dragonlings. They’re hard to do. Dragons are hard to do. So when you start Skyrim, say, hey, look, dragons are going to be a theme. Start visually. You can make the argument that dragons existed. Okay, what would they look like? How close to dinosaurs would they be? And ours are less… I believe they’re less fantastical-looking in general. They look like beasts that could exist in that world.
+(43:25):
+And then how we introduce them, it’s kind of a little bit of a slow roll in Skyrim, and that the people in the world are reacting to the dragons appearing. And that somewhat mirrors… You want something that mirrors the player experience as well. It says back to you, like, hey, no, these are… This is… Have you heard this? Someone saw a dragon.
+Lex Fridman (43:50):
+That’s what Daggerfall… Isn’t there mentions of dragons or something? Because I remember being sure that there’s dragons in Daggerfall as I’m playing it, and I’m searching.
+Todd Howard (44:01):
+Pretty sure… Well… Is there a dragon in Daggerfall? There’s dragon wings in Daggerfall to my memory. Look, someone will probably correct me. Like, actually, there is a dragon here. But I’m pretty sure they’re sort of… They’re not. And then a game I did, Redguard, which we bring back a dragon. It takes place beforehand, so we have a dragon there in that game, and that was unique to that at the time.
+Lex Fridman (44:25):
+Yeah, just a brief tangent on that. I thought Redguard was a really, really good game. I played it. Again, you don’t… You forget stuff. But I remember getting… I guess it was the first in the Elder Scrolls series to put it into that world, but it was like an adventure game. It reminded me of another game I really love, like Prince of Persia.
+Todd Howard (44:49):
+That was one of the inspirations. Prince of Persia is one of my favorite games.
+Lex Fridman (44:53):
+Like, I mean… Okay, I apologize if I’m forgetting, but you can, like, jump in buildings and stuff. Like, there’s a jumping… There’s a dynamic, like, airy nature. Like, it’s a, like, parkour type of situation. Yeah, it was an incredible game. Why do you think… Let me ask sort of a dark question. Why do you think that game was a flop? One of the few…
+Todd Howard (45:13):
+Not a dark question. It was. Well, a lot of reasons. Game that I love, and really got us going on a handcrafted world. So we’re coming off of Daggerfall. Morrowind is sort of in design. And then, you know, part of our development teams broke up to do different things. We did Battlespire, and Redguard was my game. And I wanted to do something a little more Ultima feeling, handcrafted world. I really like things that blend up genres. So I know it’s in the adventure game category.
+(45:48):
+But it really does a lot of things. You know, it’s a love letter to Prince of Persia. There’s a little Raiders of the Lost Ark in it. There’s a lot of Ultima in it. And really see what we could do with the engine. It is very much, I think, plays… Like, it would have had a much better home on, say, PlayStation or Xbox. This predates Xbox. Right? Where it’s much more, like, constantly… Tomb Raider had come out. So you see those influences of Tomb Raider on that game.
+(46:19):
+And 3D effects cards had just come out. And so, okay, we can do… And it was the last… I think it’s one of the last, like, DOS games in a Windows world. So I think it missed kind of a technology window, as well as ultimately not what people wanted from us. You know?
+(46:41):
+And I felt… I was really kind of… The company let me make that game. And it was a big flop. Battlespire hadn’t done well. The company was in really bad shape. And I felt really, like, personally responsible. Like, they let me do this creative thing. It didn’t do what we needed it to do. And now we’re in a very, very bad situation. The company almost went out of business.
+(47:06):
+And that’s when it got reformed with ZeniMax Media. And Robert Altman came in. And we were starting more when we had just sort of started. And it was sort of that whole experience that made you sort of realize… Someone says to you, okay, you’re going to get another shot. And that’s where you’re like, okay, we’re going to make Morrowind and make the biggest, best RPG we can make. We know what the audience wants from us. We know what we could do. Building a world… So there’s, like, callbacks to how we built the world in Redguard. Morrowind is a large-scale, handcrafted… But if you were to put it, you know, pixel per pixel with Daggerfall, you wouldn’t even see Morrowind, because Daggerfall is so big. But the impact of playing it, I think, is in many ways equal, but different.
+Lex Fridman (47:53):
+Just you personally, psychologically, did you have doubt about yourself from the performance of Redguard? Like, do I even… do I know what it is?
+Todd Howard (48:02):
+Of course, of course.
+Lex Fridman (48:04):
+Where do you get the… how do you overcome that?
+Todd Howard (48:09):
+I don’t know. I’ll say this, honestly, I enjoy it so much. You know, like, I’m so heads down. Like, that becomes, for better or worse, like my life. And it’s just something that I want to play so much, it becomes like there’s a little bit… you get a little obsessed with it.
+Lex Fridman (48:27):
+No, but I mean, you love Redguard, right? So, like, doesn’t that mean… isn’t there a kind of self-doubt about, like, do I know what it takes to create a great game?
+Todd Howard (48:37):
+Well, no, I think Redguard’s a great game.
+Lex Fridman (48:39):
+Right, so you were sure…
+Todd Howard (48:41):
+Okay, so we’re going to debate, like, do I like that game? It’s about finding an… okay, so, I love Redguard. Yeah. And the people who play it, it won a bunch of awards, and, you know, it, like, critically was a pretty good game.
+(48:56):
+Did not sell. And the reason for that, again, like, we probably made the wrong type of game, and we missed a technology window. We also thought it was very conservative. Like, we’re going to do this. So my main takeaway was, I’m not going to be conservative again. I’m going to swing for the fences. And we’ve had, you know, there’ll be some rough edges in swinging for the fences and shooting for the moon, but we’d rather do that and land where we land than be very, very conservative in what we’re putting out there.
+Lex Fridman (49:25):
+You mentioned, just referencing this game, on the Reddit AMA, that a long time ago during Redguard, the lead programmer made me, made all the buildings hop up and down after you played for 10 minutes just to mess with me. Just a curious tangent. What’s involved with programming an open-world game?
+(49:50):
+So we talked about, we will talk about design and so on, but specifically the programming. Because I think this question came from, what are some interesting sticky bugs that you’ve encountered throughout your life in creating these games? And this is one of them that you mentioned. So what are some of the challenges of programming these open-world games?
+Todd Howard (50:11):
+I mean, there are different flavors of them, right? Your GTAs will have different issues than, you know, the Ubisoft games versus our games. I can sort of, you know, speak to ours, which is you want to build systems, right? Because they’re going to play the game for a very long time as well, which we’ve learned. And you can’t go through and touch everything by hand, per se. So you have to rely on some systemic level of creation and a lot of systems that are robust enough so that when they touch another one, things aren’t breaking apart.
+Lex Fridman (50:51):
+So there’s like a, what are the major systems? Is there like the physics of the game, the engine of how like stuff, yeah, like the physics, the motion, and maybe how light is rendered and all that kind of stuff.
+Todd Howard (51:03):
+Right, so you have the rendering, right, of like, okay, this is how I’m going to render the data that I have. So a lot of people confuse engines with rendering. I mean, they’re combined, obviously, but there’s the data you’re going to give to a renderer, which is the thing, you know, that draws the pixels on the screen. Most of the engine is how are you going to bring in that data and give it to the renderer to draw it. So you have that whole system of walking through the world, feeding in the data and drawing it. You then obviously have the physics and the interactivity. What are the things that are there just to be drawn?
+(51:43):
+And what are the things there that are meant to be interacted with and touched? We put a big premium on the ones that can be interacted with and touched, whether it’s flowers, whether the trees move, whether you can sleep on the sofa, sit in this chair, pick up all this stuff, bake bread, blah, blah, blah. You then have the AI, which loops in the stuff we talked about earlier in terms of processing everybody, and combat systems, which is a lot of what people end up doing, combat systems on top of that AI. How do they react to those types of things? And then how do they look at the things that can be interacted with? One of my favorite things is when NPCs will go pick up weapons in the world, which you don’t see in other games. And the first time you see it in one of ours, it’s very unexpected. You can drop a crazy weapon, be in a fight, and an NPC runs over, picks it up, and uses it on you. It’s not something you would expect. But I love that stuff.
+Lex Fridman (52:41):
+And that’s integrated into a larger system, the ability to pick up a weapon, the NPC picking up a weapon. So it’s not like a little quirk that’s hard-coded in. It’s part of a bigger system.
+Todd Howard (52:51):
+They have their own AI for scanning the environment, and that’s one of the rules. Hey, is there a weapon that is better than the one I have? I’m going to go get it. Now, we do lock off if it’s in a chest, and that’s treasure we left for the player. But it’s in particular, because what you don’t want, we actually have this problem. It started in Oblivion, I believe, which is we set up a level. Hey, let the enemies go pick up the weapons if they’re better. So we make a level and go in, and all of the enemies are armed to the teeth, and there’s no treasure for the player because the enemies went and took all the good weapons. They don’t take those. They take the ones that are dropped by other NPCs or the player.
+Lex Fridman (53:30):
+That’s such a fascinating world of designing the experience for the NPC, because in part, that experience defines the experience of the player. So how they interact with their environment defines how the player experiences their environment. Is there room for further and further development of the AI that controls the NPC?
+Todd Howard (53:54):
+Sure. We’re always iterating on it. And again, as we look in the future, it’s more about us finding those more reactivity to the player and also understanding their roles in the world. So they’re not just there. They’re not just there for the player as a signpost.
+Lex Fridman (54:17):
+But they’re reacting to the player. But what about some of the richest experiences we have with people is like the chaos of it, the push and pull, the unpredictability. Is there something, I don’t know if you’ve been following, but the quick, amazing development of language models, the neural network, natural language processing systems, dialogue systems, do you think there’s some possibility of using these incredible neural nets that can have open-ended dialogue, basically chat bots?
+Todd Howard (54:54):
+Yep. I’ve seen some incredible demos. I do think it’s coming. I don’t know when. And there’s a little bit of a question like what’s ready for real deployment and release versus, hey, let’s use that to generate some things that is then static that we’re giving to the players versus it’s generated on the fly. But it’s definitely coming. It’s definitely coming. And I think you’ll see it in the types of games that we do. It has great application.
+Lex Fridman (55:28):
+I love the idea that you’ll be using it to design different NPCs and then testing if they’re good enough. If they’re a little too crazy, you don’t want the super…
+Todd Howard (55:40):
+Right, but if we go back to it being reactive, some of that bot stuff, it’s incredible. It’s then translating that into voice, and then is that being done by the client? Is it being done on a server? Is it baked into the game? There’s different flavors of it.
+Lex Fridman (55:58):
+So there’s still computational challenges, like how do you actually make that happen? Right. Well, what about in terms of creating the feeling of an NPC, what’s the role of voice actors?
+Todd Howard (56:11):
+Awesome, yeah. We work with a ton of voice actors, and they bring so much to it, and that’s the thing. We can write some stuff, and the best ones get in there and make it so much better, or even ad lib things. And so we do a lot of voice recording, and we used to do it kind of like at the end of the project. And now we do it throughout. We start really early, and we just start recording. So we’re recording for years and years, literally, probably three years, four years.
+Lex Fridman (56:46):
+So part of the actual experience of the recording will help define the characters and the tone of the game.
+Todd Howard (56:52):
+And we’ll go back sometimes and, hey, we really like this. We want more of this. Let’s write. Let’s do another session. Or, hey, we don’t think this character is actually working. We want you to do a different – you’re going to be someone else now. Sorry, that got cut.
+Lex Fridman (57:07):
+Do you ever try to sort of imagine that people fall in love with the characters, with the NPCs? I do. And do they get really attached to the – Oh, yeah. I mean, I’ve done it in games. These are like close friends, right? Like you can – like you miss them.
+Todd Howard (57:22):
+100%. Isn’t that part of the thing you miss? I actually, like whenever I’m playing a game and there is, you know, if there’s like a friendship option or make friends or a romance thing, I find those moments really – I enjoy them. I find them pretty impactful emotionally to what we’re doing. And so we’ve done a little bit of it. It’s one of the things that we actually have pushed in Starfield. So we have a number of companions, but for them we go, you know, I won’t say super complex romantic, but more complex relationships than we’ve had in terms of not just some, you know, state of they like you or they don’t like you, but they can be in love with you and dislike something you did and be pissed at you temporarily and then come back to loving you.
+Lex Fridman (58:10):
+So that relationship status, if it’s complicated, that they’re existing in that gray area, it’s complicated. We’re not dating. We’re just –
+Todd Howard (58:19):
+Well, it’s in a lot of games, you know, previous stuff. You just work your way up. They like you more and more and more and more, and now you’re in a relationship. And when you make them upset, you drift out of like it never happened. You know, you drift out of it, whereas we wanted one where, okay, we can be in a relationship and we’ve committed to each other in some way, but I just did something that really made you angry. And as opposed to just drifting out of that status, you’re in a temporary I don’t like what you did state.
+Lex Fridman (58:47):
+So some greater degree of complexity in the relationship with a companion. A little bit. A little bit.
+Todd Howard (58:53):
+I don’t want to oversell that part, but my point is I think those things where you meet a character in a game and you do spend time with them, a companion in a game, and it leads to romance. You know, myself and others, and I find a lot of players, those moments are really, really impactful, and special to them because they did put in the time. That’s another thing that I always committed with, which is I think people who don’t play video games, they sometimes think like, oh, that’s, I don’t know, that’s a waste of time, or that’s not real, or that’s not like, you’re not getting a lot out of that. Like, well, you haven’t really experienced it in the way that you can.
+(59:28):
+Because these moments that I spent in games, not the ones I made, other ones when I was growing up or even now, that is important time to me. Like, I love those moments. I felt really, like, proud of what I accomplished. And we want people to have that in our games. And the fact that they have had those experiences, and we hear from them and how important it is to them, it’s like, no, this is really, really special.
+Lex Fridman (59:58):
+Yeah, it’s fun. I mean, from a game design perspective, I wonder if you can honor the time you spent together with a game. Because, you know, sometimes there’s a heartbreak at the end of the game. Like when you’re, when you leave a game, there’s a, yeah, it’s a really complicated relationship, actually. Because when you leave a game, it’s almost like leaving a romantic partner. Because it’s like you spent so much meaningful time together.
+(01:00:29):
+And there’s a sense in which it was ephemeral. Like, this is not, this doesn’t. It didn’t happen. Yeah, it didn’t really happen. It was good. It was like you went to Vegas and you got drunk and stuff. And now life goes on. I wonder if there’s a way to sort of always carry that with you. I mean, I guess with words you can kind of share with others.
+Todd Howard (01:00:54):
+It’s weird. Now that we’re in the age where you have achievements and you can look at your library and see your hours in games, that’s like, it’s almost like a scrapbook now. Like I wish, one of my wishes was like, I wish I had that achievement list for everything. Like back to the late 70s.
+Lex Fridman (01:01:14):
+Like every game you play. Right. Yeah. I mean, that’s one of the cool things with Xbox, like we’re moving towards that direction. It would be cool to be from like childhood, the first time you play a video game, it will actually tell you what is the first game you played.
+Todd Howard (01:01:31):
+But you know what? Kids today, they will have that.
+Lex Fridman (01:01:33):
+They will have that. And see.
+Todd Howard (01:01:36):
+You could look back and see, oh my God, I put a thousand hours in Daggerfall. What is the first game?
+Lex Fridman (01:01:44):
+And my last save was 1997. Last save. Man, I don’t know, Golden Axe maybe? I’m trying to think what was the first game I ever played. No, it was probably Commodore 64 games. Yeah. Yeah, arcade games. Okay. You mentioned Starfield. And what’s the origin story of this game?
+Todd Howard (01:02:06):
+We had always wanted to do something where you explore space. You know, the explore space role-playing game. So take the kind of games that we make and give it a little bit of a different spin. And, you know, the other games that I love, there was a pen and paper RPG I love, Traveller. It was one of the first games I made for the Apple II. I never finished it, right?
+(01:02:32):
+I’m just doing it on my own. And I love this game. Starflight was one. Star Control II was a game that I loved. Sun Dog was a big one in the Apple II days that a lot of people don’t know that I loved. And so a lot of us in the studio felt it was time to do something new. You know, we’re going between Elder Scrolls and Fallout and going back and forth. And, I mean, we love that. But, hey, we’ve always wanted to do this explore the galaxy science fiction game. You know, now is the time to do that.
+Lex Fridman (01:03:05):
+And that’s a brave move. So Fallout is post-apocalyptic on a single planet. You know, Elder Scrolls series is on a single planet. So this is going out into the open world of many star systems, many planets. I saw that it’s thinking about a hundred star systems and a thousand planets available to explore. What is that world of stars and planets like?
+Todd Howard (01:03:36):
+Well, you mentioned Daggerfall. We go back to some of that. Well, the first when we did it was how are we going to render a planet, like pull it off for the player? Like, can we? Or do we have to sort of do it where you can’t land on all of them, where you’re landing in a very controlled small world space that we, you know, kind of craft and you would have a very limited set of those. You go back to tone. Like, well, that’s probably the wrong tone.
+(01:04:04):
+And how can we say yes? Like, I want to land on that ice ball. So we started the game right after Fallout 4, so 2016. And the first thing we did was can, you know, how can we have a system to generate these planets and make them look, you know, I’ll say reasonable as opposed to, you know, fractally goop.
+Lex Fridman (01:04:30):
+What’s the technical definition of goop? Fractally goop?
+Todd Howard (01:04:34):
+Fractally goop. You’ve probably seen a lot of, like, simulations, whether they’re space things or landscape things, where they’re using fractals and just the landscape does not look real. It just is, like, highs and lows and it’s muddy. And so we did find a way, we came up with a way, had prototyped of building tiles, like large tiles of landscape, the way we would usually build them. We kind of generate them offline, hand do some things, and end up with these very realistic looking tiles of landscape, and then built a system that wraps those around a planet and blends them all together. And we had pretty successful results with that. So we thought, you know, we could do this. And so there was a big design kind of problem to solve in terms of, well, what’s fun about landing on a planet where there’s potentially nothing? Because there’s a lot of planets and moons if you kind of, right?
+(01:05:31):
+In reality, well, there’s nothing on them except resources. And so we spent a lot of time figuring out, okay, let’s just lean in on that can A, be a lonely experience, as long as we tell the player here’s what’s there, here are the resources that are there, go find them.
+(01:05:50):
+But I equate it to that moment of we said about listening to the wind go and watching the sunset, and I do think there’s a certain beauty to landing on a strange planet, being somewhat the only person there, building an outpost. And we are modeling all of the systems, because that’s how we like to do things. So you can watch whatever that gas giant or moon, it will rotate and go and sunrise, sunset, and all of those things that you would expect, and it’s all really happening. And most people probably won’t notice or appreciate all of that, but I think it gives them the ability to say, I want to go do that and see that on that place, as long as we tell them, hey, the quest leads over here, here’s where the handcrafted content is that you would expect, and then here’s more of the open procedural planet experience. Long answer, I don’t know if I answered your question.
+Lex Fridman (01:06:48):
+There’s no…
+Todd Howard (01:06:49):
+The questions are stupid and the answers are brilliant.
+Lex Fridman (01:06:53):
+That’s how this works. So this is the world’s most immense simulator of the human condition of loneliness. Because I can’t imagine a more lonely experience.
+Todd Howard (01:07:01):
+Because I can’t imagine a more lonely experience. I mean, you put it that way.
+Lex Fridman (01:07:04):
+I don’t know if that was the goal. But just on a planet alone, that must be a deep embodiment of what loneliness is like. Both on, like when you hike alone, there’s a deep loneliness to that. It’s humbling that this thing will last much longer than you. It’s been here way before you.
+Todd Howard (01:07:32):
+Is it the line from the moon landing, beautiful desolation? Buzz Aldrin, is it?
+Lex Fridman (01:07:38):
+Beautiful desolation, is that what he said? I think so. Beautiful desolation. Something like that. But that’s just words, there’s a feeling to it. And you want that feeling to be real. There’s some resources here. I just feel like it will hit people at a certain moment, like it does for me with Skyrim. Like, holy shit, I’m here alone. And whatever cruel nature that’s out there doesn’t really care about me.
+Todd Howard (01:08:04):
+Exactly.
+Lex Fridman (01:08:05):
+That’s the experience. So you want to create the whole planet, and you want to have many of them.
+Todd Howard (01:08:11):
+We have, we do have many. But once you build that system, I think the numbers become, I mean, honestly, a little bit, we wrap it in so we can name them all and have a finite set, even though it’s a very, very large number. But a set that we can validate and know about, even though it’s a huge number. But once you’re building a system that can build a planet, I mean, a planet is sort of infinite space. We go back to the Daggerfall analogy, right? If you have systems to build that much space, doing 100 planets or 1,000 or 10,000 or a million planets is not, it’s just, you just press, you just change the number and press the button.
+(01:08:52):
+But you can’t name them all, you can’t control, like, when you’re getting in really big numbers, hey, what does this system way out here feel like if you take your ship and jump that far? We do level the systems. When you go to system, you’ll see, oh, this is like a level 40 system. And us being able to at least control that scale is how we kind of ended up with the 100-ish systems we have.
+Lex Fridman (01:09:16):
+What are the levelings? What do you mean by level?
+Todd Howard (01:09:20):
+It would be like when you look at a map in a game and it says, this is the area for low-level players, this is level one. Oh, got it, got it. Yeah, yeah. So we do that on a system basis, star system.
+Lex Fridman (01:09:31):
+I read that space travel is considered dangerous in this game. Can you explain?
+Todd Howard (01:09:36):
+That’s more of, that goes back to a tone thing, right? When you actually play the game, because it’s a game, we don’t really kill you when you fly out in space. But it has a tone of, there’s some effort involved.
+(01:09:51):
+And we’ve dialed it back as we’ve been making the game, whereas we used to run out of fuel. You’d jump and get stranded, which on paper was a great, like, it’s a great moment when you get stranded and you have to press this beacon and you don’t know who’s going to come. Turns out that’s not like, it just stops your game. We found, you’d be playing the game and I ran out of fuel. Okay, I guess I’ll just wander these planets trying to mine for fuel so I can get back to what I was doing. It just, you know, it’s a fun killer.
+Lex Fridman (01:10:19):
+That’s too realistic of a simulation of the human condition.
+Todd Howard (01:10:23):
+Yeah, no, the idea was, well, games do that. If you had like a hardcore, you’re right, a hardcore survival mode, that’s the kind of thing you would do. Maybe we’ll do it in the future. But it’s more of like a tone, how they build their ships. Do they have all the right things for safety? We do get into environmental things on the planets. You know, in your space suit, obviously a lot of different space suits and buffs for, you know, the gases or the toxicity or the temperature on various planets.
+Lex Fridman (01:10:54):
+Are there robots? Those companions, are they robots by chance?
+Todd Howard (01:10:60):
+One of the companions is a robot, Vosko, yeah.
+Lex Fridman (01:11:02):
+Okay, so they have a name and a personality and so on.
+Todd Howard (01:11:06):
+Vosko does, and then there’s a whole bunch of, I call them generic robots. We use them for utility. You know, okay, people, we actually dialed them back because if you think about, well, you know a lot about this more than me
+Lex Fridman (01:11:20):
+in terms of… I’m offended right now. Are you calling robots generic?
+Todd Howard (01:11:24):
+No, no, no, the ones we use, the ones we use. We made them more generic. We didn’t…
+Lex Fridman (01:11:28):
+Sorry, I’m very sensitive about this.
+Todd Howard (01:11:30):
+I understand. If you were to chart the future, you would say robots would have a much bigger role in our future than we are presenting. But that was a tone thing. So most of our robots are there as utility robots, and there are some combat ones as well as enemies.
+Lex Fridman (01:11:48):
+So it’s a deeply human world. Very much, yes. In terms of tone. Have you talked to Elon about this game? A little bit. How much of reality, like the work of SpaceX, is an inspiration for the decisions made in this game?
+Todd Howard (01:12:07):
+I wouldn’t say it’s for the decisions we made, but, you know, visiting SpaceX and walking in there, it was… It’s like the Avengers meet NASA. It’s like the most amazing. And here we’re building the next gen. I used to see the Dragon stuff before it was, you know, other people saw it. I was really in awe.
+(01:12:35):
+You know, this giant machine that looks for imperfections on the surface of these giant, you know, fuselage. Just, you know, whenever… And because we’re in D.C., go to the Air and Space Museum a lot. And so whenever I look at those kind of things, or, you know, you’ll visit the space shuttle, sort of overcome with how big it is, and I go stand back by the engines and think about that thing leaving orbit.
+(01:13:04):
+You know, and one of the things Elon really impresses, like, we’re reaching the edge of physics on a lot of this stuff, where how hard it is to leave orbit, the gravitational pull. And like, so the engineering that has gone into that, our space program, what he’s doing now, I just marvel at. I don’t understand, right? I’m not at that level. But I marvel at the kind of human ingenuity and scale.
+(01:13:34):
+I was on the Delaware coast last month, and I went outside. I was outside for some reason. It was dark. And I saw this crazy light in the sky. And I thought it was like a helicopter, and then it didn’t go away. And I’m like, is someone, what is that? And I called my, we had some friends. Hey, does everybody see this? What is that? And we just stood dumbfounded looking at this thing in the sky. And like, that is a UFO. Nobody takes their phone out. Everyone, I’m with like four people. I was too dumbstruck. You would think, why don’t you take a picture of this thing?
+(01:14:14):
+And the next day we found out, it was in the news, it was the SpaceX launch in Florida. And I’m seeing it from Delaware, Maryland area. It was one of the most, it was incredible. It’s just, even just that, I am in complete awe of.
+Lex Fridman (01:14:31):
+Is there some aspect of that that you can replicate, the majestic nature of that in a video game?
+Todd Howard (01:14:39):
+I wish I had the answer to that. I think some of it we’re doing when you’re standing on a planet, and you see the other moons go by, and then you realize, I could get in my ship, blast off, and land there, and build myself a home. I think that’s pretty cool. There’s a minor thing we do, which is we have other ships come and go from the starports when you’re there. So you’ll be in a city, and then you hear this, you hear the engine, you look up, and a ship has taken off or come out. That’s great. There’s nothing for you to do, but I think it’s awesome. Yeah.
+Lex Fridman (01:15:14):
+And then that’s all about creating the soundscape, the feel.
+Todd Howard (01:15:18):
+Seeing it and like, oh, that’s real, that’s a ship. Or you jump into a system, and you see these freighters, and sometimes they contact you. It’s not all just like jump in and combat.
+Lex Fridman (01:15:31):
+Do you ever think about the fact that science fiction seems to make a – it has a way of creating reality, not just kind of predicting it or imagining it? It’s almost like the thing you put out there with a video game like this, like Starfield, that you anticipate it kind of fuels people’s imagination of what is possible.
+Todd Howard (01:15:60):
+Maybe. I don’t know. I don’t know. I can’t say. You’re making me think now about other science fiction that – movie I love, Minority Report, it’s more of like a – not a space movie, but more like looking at the future. If you look at a lot of the things in that movie, it’s almost like, I think those are coming true.
+Lex Fridman (01:16:18):
+Yeah. I mean, is that the one that you do interface?
+Todd Howard (01:16:24):
+It’s the interfaces, and then the way he looks at his child is more like a holographic almost AR, VR kind of thing, or digital billboards, or trying to predict human behavior. There’s just a lot of future stuff in that movie. As it comes to sci-fi, to your other question, I don’t know. I don’t know.
+Lex Fridman (01:16:47):
+Well, I think it does, and it’s interesting. I mean, I suppose you’re trying to create the most realistic, sticking to the tone, the most immersive, realistic world, and almost by accident you create the thing that is possible, because you want it to be realistic in some deep sense, so accidentally it can become the possible, and then that places that idea in people’s heads. I mean, if humans are ever to become a multi-planetary species, we need to play games. We need to read sci-fi to help imagine that that’s possible, to look outside of Earth, to look outside, look up on the stars, then we can actually travel out there. I don’t know. There’s power to sci-fi to do that. I guess you shouldn’t feel the pressure of that.
+Todd Howard (01:17:37):
+I don’t know if I’d make the leap now, that’s all, that what we’re doing might. Now, maybe, you know, hopefully it might inspire some young people who are headed in that direction, like, oh, I thought about getting into space and space exploration, being an engineer, doing these things, and I played this game, and, you know, it really sparked that interest in me, so I’m going to go take that as a field, and maybe that’s the person who goes and does some of these things.
+Lex Fridman (01:18:09):
+Yeah, because in the next couple of decades, likely a human being will step foot on Mars, which are the first steps towards us becoming multi-planetary.
+Todd Howard (01:18:20):
+And then if you read some of the stuff they’re doing with the James Webb telescope, and them being able to look for signs of life on other planets, it’s quite fascinating, and, you know, recent stuff I read say they think in 20 years they will. So, it’s actually quite encouraging to think. It’s almost a dream of mine, like, in our lifetimes, that we discover life on another planet.
+Lex Fridman (01:18:47):
+Yeah, especially if it’s intelligent life. I’ve been talking to a lot of biologists and a lot of folks. I imagine there’s life everywhere out there.
+Todd Howard (01:18:56):
+The numbers would say so, yes.
+Lex Fridman (01:18:58):
+The challenging question is what it looks like and how much of it is intelligent. So, a lot of biologists tell me the big difficult leap is from the prokaryotes to the eukaryotes, so, like, the complex life. It could be that a lot of our universe is just filled with bacteria.
+Todd Howard (01:19:16):
+I believe, if I’m understanding it right, that there’s two ways they’re going to look at planets. They can read, hey, this planet has this kind of gas. They can now look at the ones that are created by potential life forms, and then the ones that are created the byproducts of industry. There’s only certain ones that are created if you have a society there, and that they can start looking in these types of star systems and these planets. But it takes a lot of time because you have to book time on that telescope. You have to look at that planet over a long period of time. But, in theory, given enough time, given the amount of space out there, we would find one.
+Lex Fridman (01:19:60):
+That would be a cool thing in this short life of ours to find out definitively that there is an industrial intelligent civilization out there. Before you contact them, so, like, die, end your life, not knowing the rest of the story, but just know that it’s out there. That’s cool. And then, if you have kids, be like, well, this one’s on you. F this, I’m out.
+Todd Howard (01:20:27):
+I’m fascinated by what it would do to the way, I think in a positive way, the way humanity thinks about itself here. Like, no, there is definitively other life out there.
+Lex Fridman (01:20:41):
+I mean, both things. If there isn’t life out there, that’s also a huge responsibility. Both are super exciting. If we’re alone, it’s super exciting because there’s a responsibility to preserve whatever special thing we have going on here. Whether you call it the flame of consciousness or, whether it’s consciousness or intelligence that’s a special thing, preserve it, have it expand. But if there’s others out there, I mean, that, like, that sparks that drive for exploration, of reaching out into the stars and meeting them.
+(01:21:17):
+Most of them probably want to kill us. But luckily, we have the military industrial complex on Earth that builds bigger and better weapons all the time. We have Space Force. Space Force. It will protect us and destroy all our enemies. This is 100% a video game we’re living in. Okay, back to dragons. Blink once if you know when Elder Scrolls VI is coming out, but are not going to tell me.
+Todd Howard (01:21:52):
+I have a vague idea.
+Lex Fridman (01:21:53):
+Okay, vague idea. So, like, if you have the quantum mechanical interpretation that allows for multiple universes, in the universe where you didn’t blink, what would that, Todd, tell me about the year it’s coming out? Would it be 2025? That is a trick question. Or 26?
+Todd Howard (01:22:13):
+I’ve been asked that question many ways, but never like that.
+Lex Fridman (01:22:16):
+Yeah, I thought I would try to sneak it. I mean, there is, of course, no answer, because…
+Todd Howard (01:22:23):
+I wish it was soon, you know? Like, we don’t, we want them out, too, you know? And I wish they didn’t take as long as they did, but they do. And, look, I mean, if I could go back in time, would never have been my plan to wait as long as it’s taken for it.
+Lex Fridman (01:22:44):
+So you love that world, the Elder Scrolls world?
+Todd Howard (01:22:47):
+Well, look, it’s part of why I’ve spent more time there than anything else in my life, probably, right? So I deeply love it. We all do. It’s a part of us. And, you know, when you aren’t doing it for a while, you really do miss it. And when I look at what we’re doing, have planned for that game, and I was in a meeting yesterday, I was like, I just want to play all this right now. But, you know, we’re going to make sure we do it right for everybody. And we do have to approach it. People are playing games for a long time. You know, Skyrim’s 11 years old, still probably our most played game.
+(01:23:31):
+And so we don’t see it slowing down. And people will probably be playing it 10 years from now also. So you have to think about, okay, people are going to play this Elder Scrolls game for a decade, two decades. And that does change the way you think about how you architect it from the get-go.
+Lex Fridman (01:23:57):
+What are some elements that changed the way, like how do you make a game that’s playable for 20 years?
+Todd Howard (01:24:05):
+Well, we’re trying to figure that out.
+Lex Fridman (01:24:07):
+There are some elements I should pause on that. You know, pardon me, I’m, of course, asking jokingly. I’m excited for it. But I think Skyrim is an amazing game still. You know, I really enjoy it still.
+Todd Howard (01:24:18):
+Yeah, and you know what? The content, even I think if you step away from it for a while, then play what I’ll put, say, the vanilla version without mods. If you go and haven’t played it in a while, there’s always a new way to play it. But then if you look at the mods and what creators are doing to it, we think that is just awesome. It’s something that we’ve always supported. We’re going to keep supporting. We’ve hired a large number of modders that are now professionals. We want to support the people who are doing it on their own so they can be professionals on their own.
+Lex Fridman (01:24:52):
+How do you create a world that’s moddable? Do you think of designing the game from the start as that enables mods?
+Todd Howard (01:25:01):
+Yeah, absolutely. So it starts with us, like everything we’re doing. Okay, a modder, a content creator is going to have to do it, use our tools. Now, we do clean them up for release, because if you’re like a developer in-house, you can deal with some kludginess when you’re putting stuff together. When you put it out for people, we do clean a lot of it up. And there’s still obviously a learning curve there. But look, we have people who have been doing it for 20 years with us.
+Lex Fridman (01:25:29):
+What’s involved with modding? I’m actually quite noobish at this. And I’m almost afraid to ask, because now that you explained to me, I fear I will spend a very large amount of time creating mods.
+Todd Howard (01:25:41):
+Well, we have an editor you can download on Steam, the creation kit for our games. And it loads up the world, and you can do something really, really small, like change the color of the weather. And it creates a little plug-in file, we call it, a modification to the game. And then you can run your game with that. It’s on console now, the mods, not the editing. And it’s just been incredible. Our community there has been amazing what they do with the games.
+Lex Fridman (01:26:09):
+So a lot of it is the visuals.
+Todd Howard (01:26:12):
+A lot of people do visual things, because it’s the easiest thing to do first, or they’re building new space. There’s some great things with, like, I love the Khajiit follower mod for Skyrim. It’s awesome. There have been quest lines. Those things just take a really, really long time. And so someone who’s going to do that, that’s almost like it takes them a long time. It’s more than a hobby. And we’re always looking at ways that we can make it, like, hey, they can turn a career into it, because it’s just awesome.
+Lex Fridman (01:26:47):
+What about, is there any possibility in doing a mod for some of the AI stuff?
+Todd Howard (01:26:55):
+There is. And I’ve seen some, but to really move it along, if they’re using the tools that we already put out there, so to really move the AI along, you’d have to get in the code, which some people have figured out ways to hack in and do things with script extenders. But for the most part, like, really pushing it, it does take us, which is why you see when we have a new game come along, the palette that they have is there’s so many more things they can do.
+Lex Fridman (01:27:23):
+Well, I’ve built bots that play the driving games, but they do that by just taking, reading the screen and doing basic, not basic, it’s actually pretty complicated, but computer vision and doing the control, but you’re basically simulating the human player. To do that for Skyrim or for some of the open world games, that’s literally, you have to create AGI to be able to play those open, well, maybe not. Maybe you can create a super dumb, like, just a two-handed sword and just keep swinging until…
+Todd Howard (01:27:55):
+Look, there’s some bot stuff out there that does it. We have some very, very dumb bots that we use to run through the world to test it that we’ll deploy on a whole bunch of servers just to, you know, we do it every day. We run through every space, we’re doing Starfield.
+Lex Fridman (01:28:09):
+And then just running, they’re all…
+Todd Howard (01:28:11):
+Well, it does it very quickly. It loads up every place in the game and runs around a little bit, and then loads the next place and runs around a little bit. We’re just testing, like, did it crash? What’s the memory growth? Get a report? Here are all the places where the frame rate wasn’t up to snuff. And then we do have one that will play on its own. It’s heavily scripted, but it lets us test… You know, every time we make a build, we build a bot that runs through the first one or two main quests. Like, it’ll just play it. That way we know, did we break anything? Because you don’t want to waste QA’s time. Like, you guys broke it again within five minutes, so…
+Lex Fridman (01:28:48):
+Yeah. Yeah, so that’s for broken stuff. I wonder if you can build a bot that estimates the quality of the experience.
+Todd Howard (01:28:58):
+Oh, my gosh. Okay, can you do that?
+Lex Fridman (01:28:60):
+No, I don’t know. But just, like, the number… Like, how boring or not boring. The boring meter.
+Todd Howard (01:29:05):
+How many times you die.
+Lex Fridman (01:29:07):
+How many times you die. Is death boring or exciting? That’s the question. I mean, I feel like there’s a balance to be struck there, because you always want to be in fear of death.
+Todd Howard (01:29:17):
+Yeah, we always have this chart at work we use, which is, like, if you think about any game that you’ve played that you’ve put down, it’s either about frustration, slash confusion, or boredom. You got to put the player right in the middle of that.
+Lex Fridman (01:29:33):
+But I’ve sometimes put down games from frustration only to return, again, stronger. Dark Souls, yeah. So, I mean, the challenge…
+(01:29:46):
+That’s part of it. Well, I don’t know. Actually, Skyrim, I’m one of those… I mean, I’m sure there’s all kinds of humans that you’ve interacted with about what they enjoy. But to me, I could enjoy Skyrim on any difficulty level. It doesn’t… All of it… So, it depends. The open-world nature of it is what’s really compelling. Not necessarily the challenge of the particular quest and so on. But I’m not sure if that’s the same experience for everybody.
+Todd Howard (01:30:14):
+Do you play the survival mode? There’s a survival mode in Skyrim. It was a creation club thing. It does, like, some hunger. It does hot and cold. It does some other systems that make it… You know, in our minds, more believable. It was actually a creation club thing made by an external creator who is now full-time with us.
+Lex Fridman (01:30:37):
+So, can we actually, thinking about Starfield, thinking about Elder Scrolls VI, go through the full life of a video game you’ve created? So, what’s it take to take a game from the idea to finally the final product? What are the different steps along the way?
+Todd Howard (01:30:58):
+Great question. Well, usually it starts with… I mean, honestly, lunchtime conversations with a number of us. Hey, we think we want to do this. This is what it’s going to be like. I mean, look, with an Elder Scrolls, you know you’re going to do it. It’s a matter of when. So, okay, what’s the tone we’re going for, right? Where is it set? So, we usually start with the world. And then we’re always overlapping. So, while we’re making one game, as we’re, you know, getting in the throes of it or wrapping it, you know, probably by the midpoint of one game, we’ve had enough conversations to understand what the next one’s going to be. What are the big ticket, like, where’s it set? What’s the tone? Is there a big ticket feature or two that make it really unique?
+(01:31:51):
+And then when we’re finishing one game, we start prototyping. Sorry, before that, we start concepting. So, we’ll do concept art. And for one reason or another, I usually have the beginning of the game worked out. Like, I like to think about, okay, how’s the game start? What’s the player do first? We do music early, you know. So, take Elder Scrolls VI. We figure out where it’s set. What’s the tone? What are the big features? We discuss the beginning of the game, which we’ve had for a very long time.
+Lex Fridman (01:32:23):
+Where’s it set again?
+Todd Howard (01:32:24):
+I’m just kidding. Yep. In Tamriel.
+Lex Fridman (01:32:29):
+Dammit. Well, at least we know we narrowed it down that. That would be epic if it was like a portal into another dimension. Anyway.
+Todd Howard (01:32:38):
+Then I like to do music. So, we’ve already done a take on the music for Elder Scrolls VI.
+Lex Fridman (01:32:45):
+So, you can sit there with the concept art and the music.
+Todd Howard (01:32:48):
+You can feel it. No, the music, we put in the teaser for it. This was 2018. We’ve taken that further, obviously. Again, we’re working on the world. You’re then doing concepting and design for the world. And then once we’re wrapping up one game, we can really start prototyping the new one. And you’re usually building kind of your initial spaces. And so, we do like to do like a first playable, a smaller section of the game that we can sort of prove out and show to people, hey, this is how it feels different. This is what it looks like. This is what’s unique about it. Then we turn that into a larger chunk when more of the team comes on when the other game is done.
+(01:33:29):
+And that’s still what we call a VS, vertical slice. So, you still don’t have the full team on it. And it’s a larger chunk of the game that you can play. And then once you feel good about that, you’re going to bring on the rest of the team. And we’re fortunate that the other games we’ve done are popular enough that we can be doing DLC and content and those kind of things while we’re getting the one going. And then we’re at full production where we’re sort of at maximum size. We just call that production. That’s like the full production period. And that, depending on the game, you know, can run a year, two years, maybe more.
+(01:34:08):
+And then you kind of have a finalizing final six months to a year on a game, which is, okay, we’ve built everything now. And usually it needs a lot of glue, where we have a lot of very different elements that maybe aren’t clicking together the way you want outside of the regular polish for levels and features. And we’re shaving and gluing and sticking things together so that it’s not the schizophrenic game experience that things flow from one into another.
+Lex Fridman (01:34:37):
+In terms of story, like on that level?
+Todd Howard (01:34:40):
+It’s really… No, usually the story, the designers have done a really good job. It’s more about game features, you know, and then how they interact with the story, or, hey, I went from this experience to this experience, or picking flowers in Alchemy feels like a different game than… And then how is another character referencing that? And how is that intersecting with the skill system and the interface? The skill system and the interface is the party host.
+(01:35:11):
+If you think about a game, most games, particularly what I like to do, is that’s your person that says, welcome, do this, go here, check this out. And the skill system and the way it reacts on the HUD, the interface of the game, is sort of leading you to the next thing. And once you get that flow down, and the rate at which the game is giving you activities, then you’re in what we describe as a game flow. And it’s not until really that last year. Before that, the game flow was just… It doesn’t even exist in the way that you see it in the final game. And that’s what we were working on a lot that last year.
+Lex Fridman (01:35:57):
+So at which point is the set of skills, the skill tree, the characteristics of the role-playing aspect of it, when is that set, the ideas?
+Todd Howard (01:36:05):
+We usually have it in the beginning, but we know it won’t be done until that last year. We’ll have one, but we know it’s going to get honed. Because it’s not until you really see, okay, how impactful is that one? How much are you doing it? How much are you really… And the main combat ones, they always win. You always know the players will drift toward the combat-type skills, because every character needs some amount of that. But okay, well, how important is cooking? How important is alchemy? How important is these other type of activities? And then how do you balance them, where when you load up the skill menu, it isn’t automatically, give me plus 10 damage?
+Lex Fridman (01:36:46):
+How do you get the… Combat system, that does seem to be an important part of a lot of games.
+Todd Howard (01:36:52):
+You start in the beginning, yeah, every time, yep. So usually when we’re making that first playable, it’s an area you can go through, some amount of dialogue, some amount of combat.
+Lex Fridman (01:37:02):
+How do you get the combat right? What’s the secret to a great combat system?
+Todd Howard (01:37:10):
+Well, first on a control side, helping the player when they don’t realize it. There’s a lot of tricks you can do with magnetism in terms of the controller and where the attacks go. So it has to feel, the minute to minute has to feel really good in your hand. So there’s a lot of animation time, right? And changing animation so they’re impactful and they happen at a rate that the player feels like they’re really doing it. And then ultimately, it’s the illusion that the enemies are smart, but they really are there for you to kill them, right? So they do a lot of things to just let themselves get killed. They’re not near as smart, near as smart as we can make them because it turns out that is not fun.
+Lex Fridman (01:37:56):
+Right, so there’s a balance between, but that is, I guess, a kind of AI and it’s a very intimate interaction with an AI because there’s a lot of stuff going on. It’s not just very kind of shallow, like a dialogue or something like that. There’s a time-critical nature of it. A lot of stuff is happening and if anything feels off, it’s going to feel wrong.
+Todd Howard (01:38:23):
+Yep, all the games do it. It’s not unique to what we do in terms of how they handle combat scenarios. And there’s some games that just do it extremely well in terms of even in multiplayer where you’re playing bots and most people don’t know it or how a multiple enemy scenario is really, they don’t all shoot you. They trade off. They’re going to wait. I was like, all right, I’ll just wait my turn because we don’t want to overwhelm them. But you feel like you’re overwhelmed when there’s six enemies, but a good game will, no, they’re going to take their time.
+Lex Fridman (01:39:01):
+Is there a science to it? Is it art? Is it like…
+Todd Howard (01:39:07):
+Yes, yes. I mean, it’s all of that.
+Lex Fridman (01:39:09):
+So it’s like an iterative process where you try different things.
+Todd Howard (01:39:12):
+Yeah, there’s a lot of animation. There’s a lot of timing, animation work, HUD work also. How does the reticule change? What are the little sound effects? What about like the game,
+Lex Fridman (01:39:26):
+if I like that it’s fun? Again, that goes back to the winning.
+Todd Howard (01:39:29):
+So winning is fun.
+Lex Fridman (01:39:31):
+Yes. Death is not. Yes, let the Wookiee win. I like how you have to dumb down the AI to make it fun for humans. Because if you didn’t, it would just be just slaughter nonstop for all humans. That’s good to know.
+(01:39:49):
+What about things like, you said cooking, like crafting, making potions and poisons and smithing, weapons and armor, cooking. How do you get that right? What’s interesting there is that it’s such an interesting like, a lot of games don’t have that kind of thing. So what role does that play?
+Todd Howard (01:40:14):
+I think we really cracked it in a way I like with Fallout 4 actually where when we’re doing Elder Scrolls we have like the flowers and things and you have alchemy and we took this to, okay, if it’s post-apocalyptic, what if everything in the world was an alchemical ingredient in some kind?
+(01:40:32):
+So breaking it down to their components. So when you walk around a world like that, again, we like the simulation, we like the forks and the spoons and the cups and all that. Okay, how can I use those to create? So I love how it starts working in Fallout 4 where, okay, all these things I find, they have some value in creating or crafting outside of the game. Creating or crafting outside of a cup is worth one gold piece or one cap.
+Lex Fridman (01:41:03):
+By the way, I have to be honest, I haven’t played Fallout 4. I played Fallout 3. I thought that was a legendary game. Can you make a case for Fallout 4 that I should or should I just wait until Fallout 5 and when does that come out?
+Todd Howard (01:41:15):
+I think you should play Fallout 4. Love to hear your thoughts.
+Lex Fridman (01:41:18):
+It’s a different game. It’s a different experience too.
+Todd Howard (01:41:20):
+We try to make them all different.
+Lex Fridman (01:41:22):
+They are fundamentally different.
+Todd Howard (01:41:23):
+They all have their own tone. Yeah, so Fallout 3 and Fallout 4 are intentionally a very different tone.
+Lex Fridman (01:41:28):
+Oh, really? Interesting. So what’s that world like? What’s the post-apocalyptic world of Fallout? If you can just briefly take a stroll into that world tone-wise.
+Todd Howard (01:41:40):
+Well, look, in entertainment, there’s a lot of post-apocalyptic stuff. And what makes Fallout tick is the world that was left behind, the world that blew itself up, this utopian world of nuclear energy and it all goes wrong. So I love the American dream of that, how they visioned the future in the 50s and that blowing itself up. I think that’s a super interesting place to explore, which is why we always wanted to play in that world. And it does an amazing job of sort of weaving the drama and darkness of a post-apocalyptic world with B-movie humor. It winks at the camera sometimes, often actually, and that when you’re in that world, it just has its own unique flow and vibe outside of anything else kind of in that genre.
+Lex Fridman (01:42:43):
+So Elder Scrolls has, or at least Skyrim, has some humor.
+Todd Howard (01:42:48):
+Has a little bit.
+Lex Fridman (01:42:48):
+But Fallout leans into it a little more.
+Todd Howard (01:42:51):
+A little bit more, a little bit more. Yeah, yeah, it does. It’s like ironic humor. It’s the duck and cover. It’s a get under your desk if the bomb comes and everything will be fine. It’s that type of humor.
+Lex Fridman (01:43:01):
+So the funny thing is, I do think Fallout 3 is one of the greatest games ever. You’ve said that, quote, when we started Fallout 3 in 2004, we obviously had big ideas of what we could do with it and had talked to a lot of people, from ex-developers to press folks to fans, what made it special. What are the key things you’d want out in a new one?
+(01:43:25):
+The opinions, and I’ll put this mildly, varied a lot. But they would all end the same, like a stern father pausing for effect, but do not screw it up. How do you not screw up a game? You have not screwed up many games yet.
+Todd Howard (01:43:43):
+I mean, back to the Fallout one. Yeah. Yeah, that was, look, I remember that. We were met with a lot of skepticism in terms of, oh, what are they going to do with this? It was a beloved kind of isometric, turn-based role-playing game, you know, awesome for when it came out. And actually it was announced, we had finished Morrowind but not announced Oblivion. But because we’d acquired the rights, we had to announce it.
+(01:44:11):
+Do you think Interplay was a public company? I don’t remember. I just remember we had to announce it, and we’re thinking there, well, we’re going to piss off all the Elder Scrolls fans because we’re announcing a Fallout game. We’re probably going to piss off the hardcore Fallout fans because we didn’t make the original, and clearly we’ll probably make a different kind of game. So I do remember, you know, there was a lot of concern with all of our fans and fans of Fallout at the time. And so I think it was pretty rewarding for us that that game found the audience and success that it did. It’s one of my favorite projects that I’ve ever, ever worked on. And because it was so fresh for us, and we had a very clear, like, even before we had the rights, like, this is the game we’re going to make. Like, this is the kind of thing we’re going to do. And we had done more when then we were working on Oblivion, and it was kind of a breath of fresh air to do it. And what’s kind of remarkable is Fallout 3 comes out just, you know, two and a half years after Oblivion, and we did all this DLC for Oblivion. So we were really, really kind of prolific in how our development, how it was going.
+(01:45:30):
+I just remember enjoying making that game so much, because it was, everything we were doing was new.
+Lex Fridman (01:45:36):
+Which, as to the world creation, was there some innovation, like, technically that was happening?
+Todd Howard (01:45:42):
+The world creation, like, it was, you know, obviously a different look, even though some of us, very few of us had worked on the Terminator things. The VAT system, the skill system, and we loved the original game so much, so you felt this responsibility to bring it back in a big way and reintroduce it in a way that, you know, as much as we could, scratch the same itch when you played the original game, that it had the same tone.
+Lex Fridman (01:46:10):
+Are there some favorite things to you about that world that just kind of connect you to the game?
+Todd Howard (01:46:14):
+Fallout 3 I love. Again, I usually start with the beginning. I love the beginning. I love the character generation. If you played it a lot, or you’re developing it, it starts to feel really long. But the first time you play it, or second, I just think it’s awesome. And this idea, it’s a hard thing to say, okay, we want you to feel like your character on the screen. Even when you play like a Skyrim, you don’t know what you were doing before that. But Fallout 3, you were born in the Vault, and you were raised in the Vault, and you lived in the Vault, but you experience a part of that. So it’s a very different, when you step out, I think it really…
+(01:46:60):
+I mean, the visuals are the visuals, but the emotional moment of stepping out of the Vault, you feel like you lived your whole life in the Vault.
+Lex Fridman (01:47:07):
+And you feel like you have a sense of your past.
+Todd Howard (01:47:12):
+Right. And I need to find my father.
+Lex Fridman (01:47:15):
+We should… Isn’t it possible to have that sense with Elder Scrolls? Like a life story? Like childhood trauma and stuff? Back to the human condition.
+Todd Howard (01:47:25):
+I mean, you’d have to like… You do some of that stuff, but they go through menus. You know, pick your background. We’re doing that in Starfield. Hey, pick your background. What were you doing before this moment?
+Lex Fridman (01:47:34):
+Can you pick your traumas and stuff?
+Todd Howard (01:47:37):
+That’s a mod. If you want to make a mod, you want to make a mod. Yeah, thank you.
+Lex Fridman (01:47:40):
+Go for that. And then also make a mod for like a therapist.
+Todd Howard (01:47:43):
+But a lot of it, you know, is in your head. So you’re going to do that. You’re going to pick this background, you’re going to do these things, and you’re sort of like, this is who I was. And we intentionally, with Elder Scrolls, kind of make it as much of a blank slate. Elder Scrolls is a little bit more of a blank slate game to who you are, which has a lot of positives. And Fallout, for us, has been more of a, this was your life before. Here’s who you were. Go be who you want to be, but this is the background. It’s a little more strict.
+Lex Fridman (01:48:10):
+Now, this might reveal something about me. And speaking of childhood trauma, but I feel like there’s a lot of, a lot of the meaningful experience of a role-playing game is not just the development of the character throughout the game, but the initial character creation, like you said. Is there something to that process that you found to be powerful, like the design of that process? Because you think so much about that beginning. How much should be controlled? How much should be defined? The interface itself? The visual appearance of the character, too? Because I feel like that, you’re loading in, you start to load in the world that you’re about to enter by creating that character, right?
+Todd Howard (01:49:00):
+Yeah, we think about it a lot. It’s a really, really good comment and question. And it’s more than, it has to set the whole stage. It has to, like, pique your interest for the world you’re going to enter. And we’ve done it so many different ways in terms of when you actually go to make your character, when you’re making the choice.
+(01:49:28):
+And one of the things over time that we’ve wanted to avoid is people starting over. So there’s a lot of intentionality around the types of choices you have that can be undone or not undone. Because what game players want to do is, I’ll play it, and then I’ll make a new character. But sometimes they do that because they realize they made the wrong type of character. And as a designer, you don’t want that to happen.
+(01:50:02):
+So some people, and we get this comment in Elder Scrolls, like, oh, you simplified it. No, no, no, no. We move those choices into the gameplay so that you don’t make this character in the beginning and then eight hours later realize you make a horrible mistake. And so, okay, I’m going to start out like that. To me, it’s a really, really bad experience. Also, like, life itself, but yes, go ahead. But like life is, okay, so you can then…
+Lex Fridman (01:50:32):
+Fix it in game.
+Todd Howard (01:50:33):
+Right. I wish I had learned archery. Well, I’m going to start tomorrow. So you can do that. Like the Skyrim character system, it was really designed around that. All you pick is, like, what’s your race? And that gives you some things, but there’s nothing you can’t get then on your own. Mostly, it sounds weird, but you mostly want that beginning character generation to be visual, which you then can also change in the game, and some starting skills that get you off to the type of play that you want, but if you discover you don’t like that type of play, as you play, you can move your character along. So we have moved away post-Oblivion to a classless, meaning you don’t have a strict character class, warrior, mage, thief, whatever, in our games.
+Lex Fridman (01:51:29):
+And that’s continuing for the… Are you, like, thinking of Elder Scrolls VI, you’re already thinking about that kind of stuff? So you think of early on, like you said, the first few experiences in the game, you’re already thinking through them.
+Todd Howard (01:51:44):
+Yeah, yeah. We know what the first few hours are like. We know what the character system is basically like.
+Lex Fridman (01:51:53):
+So tonally, what’s the difference to you between Oblivion, Skyrim, Morrowind, Oblivion, Skyrim, and Elder Scrolls VI? Like, to me, man, stuff blends together. Yeah. But Oblivion, that’s when you could make spells and stuff.
+Todd Howard (01:52:13):
+You could. You could do it in Morrowind as well. Oblivion has some more guardrails on it. Morrowind’s where you can really go. And Daggerfall. I don’t remember if you can make spells in Arena. I think you can. Someone will correct me. You definitely can in Daggerfall. It gets crazy. Morrowind, you can somewhat. And then we started putting guardrails on it because people started breaking the game in certain ways. Yeah.
+Lex Fridman (01:52:36):
+Why is it bad to break the game? Like, you always want it to be.
+Todd Howard (01:52:40):
+Well, there’s like one people love in Morrowind where you can make these recall stones. And you could teleport to different areas, which you really need in that game. It breaks so many quests. Yeah. And so any quest, we would do this exercise of designing a quest. And then someone would say, and then I recall away. Okay, the quest is broken. And then one day someone says, can we just get rid of that spell effect? Everyone’s like, yes, please. And so it allowed us to make better content.
+Lex Fridman (01:53:12):
+So a tangent upon a tangent upon a tangent. How do you create a compelling quest? Because there’s all kinds of personalities of humans that play these games, right? Because I like the grind.
+Todd Howard (01:53:24):
+Well, look, there’s multiple flavors of a compelling quest. You know, some of them have very good upfront storytelling. You just like the story and the NPC that’s giving you this task. And you’ll go through a more handcrafted experience that the designers have done a really, really good job on the space. It has some twist or surprise in the middle. And then the ending has some, you know, multiple options that the player feels like they got to do something. They made an interesting choice. But the best ones for me are actually where all of that was far more open-ended.
+(01:54:05):
+The how I am going to accomplish this task is completely up to me, and I’m going to find some ingenious solution. A silly, this sounds very basic. It’s going to sound quite cliche and silly. It’s like, go find me five daedric hearts or whatever. Like, find me X of something that’s hard to get. It’s a very simple set. You can give a simple story set up for that. And we’re not telling the player where to get those. And they think, now, where can I get those?
+(01:54:42):
+And I actually find those to be just as rewarding as the really handcrafted, well-done, little bit more linear with an interesting choice at the end. If those objects are in the world in some, you know, believable way, that there’s usually some challenge at getting them.
+Lex Fridman (01:55:03):
+How do you place objects in a world in an interesting way? Because it’s a big part.
+Todd Howard (01:55:07):
+We have a level design. You cannot, people, if they only knew how much we spend. We have a clutter group, a group of people who clutter. What’s clutter? Clutter is all the stuff around.
+Lex Fridman (01:55:21):
+It’s like interior decorators. Yeah.
+Todd Howard (01:55:23):
+For treasure and stuff and trash. They go through every space and they clutter it. Our level designers think about it a lot. These also become landmarks for the player when you’re walking through a space and, oh, this is the place with this. And there is a logic to making a good level. As they say, even if you walk by a little T intersection, that becomes a decision point in the player’s head. Like, oh, I didn’t go down that way.
+(01:55:53):
+But the more you do that, it looks easy on paper. But when you’re playing a game, you actually kind of want to limit those because he’s trying to keep track of all these decision points. Then they get lost. And, yes, we have maps. But any time the player is going to check a map in a place like that, I feel that it’s more of like a backstop for certain players. If they need to check the map, I feel like we’ve kind of failed.
+Lex Fridman (01:56:19):
+Got it. So there’s a momentum to it. It just pulls them in.
+Todd Howard (01:56:24):
+And, you know, look, you played a lot of games. You played a lot of levels where you’re just like, I’m a little confused or I don’t know. And you play other levels where, like, man, it was great. I went through it. It was well balanced. I knew where I was going. And you don’t want to ever be mazy. As long as you know where you’re going, as long as you know you made those choices, then it feels fine. But as far as the treasure and all of the loot, it is really an art. We will not do enough clutter, and then we will over clutter, and then there’s too much stuff everywhere, and then we declutter every single game. I wish we got better at it. It would save us a lot of time.
+Lex Fridman (01:57:03):
+But you’re constantly going by feel, like, this is not, this is too much, this is not.
+Todd Howard (01:57:06):
+Right, right. Because the other thing is, look, it creates – people want to pick everything up. They want to click everything. So if you have too many things of importance in a room, it’s like it actually makes you feel a little tight as a player. You’re like, well, I need – I’m basically an idiot if I don’t pick all this stuff up. You probably felt this way. Yeah, for sure. It’s like the moment where you decide that you’re just like, I’ve clicked so many things in this room, I actually am going to leave that ammo canister there, but you feel like a dope. Yeah.
+Lex Fridman (01:57:40):
+You’ve probably experienced this. Yes, but also you have a joy from if there’s not many items and you found the one and you got it. Right.
+Todd Howard (01:57:48):
+And you feel good. I got it. And then it’s finding like, oh, I stuck my head in this corner and I picked this lock and I opened this locker and, oh, there was this thing I’ve been waiting for.
+Lex Fridman (01:57:57):
+Yeah. What about like rare and rare items?
+Todd Howard (01:57:59):
+That’s an art, even more so of an art. I will say we have a ways to go there in terms of finding the right drop rate for special items, we call them, your epic rare legendary. You look at games, like so many games do it, and there are ones that you just play and love because they have it down. Destiny 2 is great at it.
+(01:58:28):
+Diablo, a series I love, sort of famously Diablo 3, which I think is great, and they did an update. It mostly just changed the loot drops and it’s like this whole new experience. And there’s a really real art to it. I think that we’re still learning. We’re still learning a lot and we’re trying to get better at it because it’s one of those things where it drives you through the game. It’s fun to get the treasure in.
+Lex Fridman (01:58:52):
+Diablo and Skyrim have this interesting quality of being extremely popular, and there’s a lore around rare items. It changes the dynamic of you could afford to have really rare items. Yes. And then somebody finds it and that becomes a thing. As you release a game, a lot of people play and they start sharing stories and so on. It’s so interesting because that’s part of the game experience is the stories of others, right?
+Todd Howard (01:59:25):
+For us, 100%. Because we’ve been classically, with most of our stuff, single player, that that water cooler shared experience, we would have a thing where we call them the did you know moments. We got to have a bunch. You meet someone, they do, what are you doing? And then they say, did you know? If you go here and do this, what did you know? That to us is where a lot of our community has been sharing their stories and here’s what you can do.
+Lex Fridman (01:59:56):
+Has there ever been a temptation to create not a single player game that’s gigantic?
+Todd Howard (02:00:04):
+We did Fallout 76. We have Elder Scrolls Online, not a game I created. Look, that started as more classic MMO. Know the folks, they’re part of our company who made that game. And it’s insanely, insanely popular.
+Lex Fridman (02:00:19):
+It is. Okay, so I should try it out.
+Todd Howard (02:00:21):
+They do some great storytelling quests. The actual mechanics aren’t the same as Skyrim, but the world is awesome. They’ve just done an incredible job. It’s about to be 10 years for that game as well. And it’s just a great community around that.
+Lex Fridman (02:00:39):
+Yeah, I haven’t played, because there’s a mobile Fallout game, right? I need to play that. I was thinking of playing Diablo mobile too.
+Todd Howard (02:00:49):
+I mean, you can debate the monetization, but I think they did a phenomenal job. It’s really fun.
+Lex Fridman (02:00:54):
+On Fallout? No, Diablo. Oh, Diablo? Yeah.
+Todd Howard (02:00:57):
+Fallout, I definitely recommend that one. Fallout Shelter, completely different game. Diablo Immortal, I was very, very impressed with it. I had a lot of fun. On the mobile?
+Lex Fridman (02:01:04):
+Yeah. On the mobile? Yeah. What’s the challenge of designing a game for mobile versus the PC and console?
+Todd Howard (02:01:11):
+Well, obviously the screen size.
+Lex Fridman (02:01:13):
+Right. Is that what you feel first? What’s the fundamental change in the philosophy of design? Does it constrain, does it change the tone of the game?
+Todd Howard (02:01:26):
+Well, we’ve done a few things, and we have a new mobile game that we’re working on that we haven’t announced yet that I’m in love with. There are a couple things that you approach on mobile. Now, I can give you sort of the classic mobile gaming thing and then what we do. A classic mobile gaming is really for short play sessions because for the amount of people you’re going to get, the number that have the amount of time to sit there for a long time and play it, like a console game or a PC game, is lower because people are playing mobile games on the move or whatever. And how it onboards you, because obviously most of them are free. So the tutorial, how the tutorial works, how it gets you into the game. Because you haven’t bought it, you haven’t done this investment of buying it and then saying, no, I’m going to learn it. People don’t care. So really understanding how they get into the game. Those two things are really the magic to mobile gaming. We have found, though, with our games, particularly Fallout Shelter, people will sit there for an hour or two. They will just sit there and play it. Large numbers of people will play it for hours a day.
+Lex Fridman (02:02:38):
+So there is a more, I don’t know, addicting element to mobile? Because I guess you can spend more time with it.
+Todd Howard (02:02:46):
+And if you look at kids these days, they can stare at their phone for hours. That’s all they do. That’s where they watch everything. So it’s also like a demographic thing. The younger audience, they would rather sit and stare at their phone than play it on a big screen.
+Lex Fridman (02:03:01):
+I would just love to sort of list out throughout human history the evolution of sentences that began with, if you look at kids these days. It’s true. It’s true. The kids, the kids of the kids these days will probably be doing virtual reality.
+Todd Howard (02:03:18):
+I love mobile games, though. I play a ton of them. My favorite game this year is Marvel Snap, this card game from the folks who did Hearthstone. You should really play it.
+Lex Fridman (02:03:32):
+Do you like card games? Do you like superheroes? No. It’s genius. You don’t like superheroes? No, I don’t like superheroes. I never understood. Listen. Who doesn’t like superheroes? Growing up in the Soviet Union. I don’t understand. All right. Well, I don’t understand. You’re wearing a costume. It’s silly to me. So you have to suspend. You have to be able to immerse yourself, and for some reason there’s something about costumes. It doesn’t get me. But then again, I’m into elves and dragons, so I don’t understand, and I’m fine. I think I get it. Yeah. But the rest, at least the American, the Western world disagrees with me.
+(02:04:14):
+Even Batman, you have little ears. But that’s fine. Well, back to Elder Scrolls Starfield. So one thing I didn’t ask you about, when you look at the timeline of five, six, seven, eight years, whatever it is, to create a game, what’s the role of the deadline internally, not publicly announced? Keeps you honest. Do you try to keep in your own brain a deadline, for the team a deadline?
+Todd Howard (02:04:43):
+Yeah, all the time.
+Lex Fridman (02:04:45):
+And when you set that deadline early in the development, do you try to set deadline like that’s really tough to reach?
+Todd Howard (02:04:54):
+No. We try to make it like, hey, this is our best guess. If you make it tough to reach, you’re going to miss it. It’s arbitrary. We really try to keep ourselves honest, because it will let you know where you’re at. We want to have first playable. We want to be done with prototyping or design by this date. We want to have first playable this date. We want to have this. But look, things happen. Pandemic happens. People go home. It throws everything off.
+(02:05:18):
+Or what you needed to do, because we’re not just making a game and then moving everybody on, what you needed to do. Skyrim was so popular, we kept people on that game for longer. So it delayed a little bit. We were doing a Fallout 4 at the time, because we can’t. Hey, we really shouldn’t move the people on to Fallout yet, because we’re doing these things in Skyrim, and we should. So it just keeps you honest for where you’re at.
+Lex Fridman (02:05:42):
+Does it get super stressful as you get closer? You try to avoid announcing anything? Like Temptation announced?
+Todd Howard (02:05:48):
+Well, I’ve done it all ways, right? I’ve announced Starfield. We were pretty loud with a release date that we then had to delay. Was that tough? It was. It was. But it was the right thing to do.
+Lex Fridman (02:06:05):
+How do you know it’s the right thing to do? When you sat down and looked at it, like, this is not ready?
+Todd Howard (02:06:10):
+It’s not an exact science, but you can look at what needs to be done and the amount of time you have. And we’ve done it in the past where we can get it done. We believe we can. And so you’re fighting that personal belief that you can get something done. But there’s a lot of things that go into release date with marketing and publishing. And we’ve reached a point on Starfield where it was pretty clear to us, even though you want to say you can get it done, that the risk involved with that to the fans, to the game, to the team, to the company, we’re part of Xbox now, to everybody, was we should really move it and give it the time it needs.
+Lex Fridman (02:06:57):
+So you mentioned part of Xbox. Microsoft bought Bethesda and ZeniMax for $7.5 billion. Well, what’s it like joining the Xbox team? You’ve, I think, written about it. What are the exciting aspects of that?
+Todd Howard (02:07:21):
+You know, when your company goes through a change like that, no matter what it is, even if it’s somebody that you’ve worked with for a long time, you never know what you’re in for. You hope. And I had worked with them for, since we started doing console stuff with Morrowind was, you know, they came to us, came to me and said, hey, you should make this game for the Xbox. And so when they were making that console, had a great experience with them. And then on the 360 with Oblivion. And so I guess the point is we felt that we had a very good relationship with everybody there and we understood what their culture was, but you never really know.
+(02:08:01):
+And I mean this honestly, it’s been awesome. That the culture inside of Microsoft and Xbox that people see from the outside is the culture inside, the way they talk about players, the way they’ll invest in the players, the risks they’ll take.
+(02:08:17):
+The thoughtfulness from Phil Spencer on down has been, you know, I feel really, really lucky. And then a game like Starfield where, look, we’ve had a lot of success with the games that you talked about, but we’ve never been kind of the platform seller. You know, the game for a platform for a period of time. And so, you know, there is a lot of pressure there. There’s a lot of responsibility there to make sure we deliver for everybody.
+Lex Fridman (02:08:46):
+Is there a chance that Starfield is exclusive to Xbox?
+Todd Howard (02:08:50):
+It is exclusive. It’s officially already. Xbox PC, yep, yes.
+Lex Fridman (02:08:55):
+So you’re, I get it. So extra pressure also creating a new world.
+Todd Howard (02:09:02):
+Yeah, it’s new, but keep in mind for us that exclusivity is not unique. Even though we’ve done PlayStation stuff, and I think the PlayStation 5 is just an insane machine. They’ve done a great job, and we’ve had great success on PlayStation. We were traditionally a PC developers in the beginning. We transitioned to Xbox, became our lead platform. Like Morrowind’s basically exclusive to Xbox. Oblivion was exclusive to Xbox for a long period of time. Skyrim DLC was exclusive. So we’ve done a lot of, like, our initial stuff is all Xbox.
+(02:09:33):
+So we get into development and saying we’re focused on Xbox, and it’s not abnormal for us in any way. It’s been kind of the norm. And from a development side, I, you know, I like the ability to focus. So our ability to focus and say, and have help from them, you know, the top engineers at Xbox to say, we are going to make this look incredible on the new systems is, like, from my standpoint, it’s just awesome.
+Lex Fridman (02:10:01):
+What’s the difference in creating the console versus the PC? I also have to admit, I’ve never, is this shameful? Actually, you should recommend to me. I’ve never played Skyrim or any of the games you’ve created on Xbox. Really? Yeah. And on console. I mean, I’ve played very little.
+Todd Howard (02:10:20):
+Yeah, sure. I mean, look, there’s the obvious interface part between mouse and keyboard and then a controller. But when you’re looking at hardware, PCs, it’s tough, right? Because you’re looking at, well, you know, what are their driver versions? What kind of monitor do they have? What is the actual refresh rate of X, Y, and Z?
+(02:10:40):
+We’re used to it. Yeah. But if, you know, anyone will tell you, give me the hardware that I know I’m writing it for. You know this. And the Series X is just a incredible machine. And now- And you know what it is. You know- You know what it is, and now that we’re part of Xbox, getting, you know, the people who built it to show you how to make it really, really dance is just awesome.
+Lex Fridman (02:11:07):
+Is there a case to be made? Do you get people that enjoy, people that do both PC and Xbox- Oh, sure. That enjoy Xbox more? Like, if they have a choice- Absolutely, yeah. That they enjoy it?
+Todd Howard (02:11:18):
+I think that depends on, and look, now that you can kind of cross, you can take your save and go between and all those things. You can? Yeah. If you, depends on if-
+Lex Fridman (02:11:30):
+For which games? So for Skyrim?
+Todd Howard (02:11:33):
+If you have the Game Pass PC version of it versus Steam. Got it. Not via Steam right now.
+Lex Fridman (02:11:40):
+Got it. Not via Steam. Got it. And so there’s the Game Pass. So I’m like learning about this. So there’s a Microsoft, so this is going to be on Game Pass. And then you can, yeah, if you can take it from PC through Game Pass-
+Todd Howard (02:11:52):
+But I think it depends on like, like for me, like what’s my physical mood? Do I want to lean back on a sofa? Exactly. Right? Like the actual physicality of it is what determines where I want to play. Do I want to be two feet from a thing right now? And sometimes I like that. I am more of a console player just because I sit at my PC at work all day. Like I play a lot of video games. So when I get home and I want to play something, I was like, I am a sofa screen controller person.
+Lex Fridman (02:12:23):
+Let me ask you a ridiculous question. So you’ve created some of the greatest games ever. I think there’s, there’s a, the question would be what’s the best game of all time? All right. All right. Just give me a second. Tetris. Tetris.
+Todd Howard (02:12:36):
+All right. Yeah, that’s interesting. Have you read the book on Tetris? No. You should read it.
+Lex Fridman (02:12:41):
+It’s from Russia. Yeah. I’m sure there’s an interesting story. The fact that there’s a book about Tetris is fascinating. Is there a book about Mario? I would love to find out more. But I think I would put, personally, I would put Skyrim. I’ll take that. Good answer. At number one for me.
+(02:13:01):
+Which is tough, however you put it, because you could also make the case out of the Elder Scrolls series. Like what do you actually value more? If you put Tetris and Super Mario up there, then like the credit goes to Morrowind maybe over Skyrim. I don’t know where the biggest leaps are. But overall I think it’s Skyrim. But for you, if you’re not allowed to pick any of the games you were involved with, what are some interesting candidates for you that are just games that inspired the world, impacted the world, shook the world in terms of what video games are able to do?
+Todd Howard (02:13:38):
+Well first, I’m just sort of like, hearing you say that you think Skyrim’s the best game of all time is quite, like, thank you. And it’s an incredible thing to hear. And when I think about, well there’s a couple answers. There’s ones that are like personal to me. Ultima VII.
+Lex Fridman (02:14:01):
+Can you talk about Ultima? You said that as an inspiration. I’ve never crossed that world.
+Todd Howard (02:14:08):
+Well, What kind of game is it? It’s a role-playing game. You know, circa 1992, 93, 94. Ultima Online, first, you know, really visual online world in that way. But for me, that was a virtual fantasy world where I had, you know, you could bake bread, you could pick all this stuff up. I mean, anyone who’s played Ultima’s and plays our stuff can see the kind of touchstones and callbacks to that or inspirations. And the other thing that I loved about Ultima was they were all different, right?
+(02:14:45):
+That they iterated and there weren’t necessarily what I’ll call a plus one sequel outside of Ultima VII part two, clearly a plus one sequel. But they each had their own tone. I love like the boxes. You know, it’s something that we get into as well. I love this idea that a game also is this tangible thing.
+Lex Fridman (02:15:07):
+Oh, when you buy it.
+Todd Howard (02:15:08):
+You buy, you know, the cardboard boxes and the way they were designed and Ultima VII is black and Ultima VIII is the fiery gate and the paintings on them. And I just, you know…
+Lex Fridman (02:15:18):
+Does that break your heart a little bit that that culture is a bit gone?
+Todd Howard (02:15:22):
+A little bit, a little bit. And that’s also why I like, you know, this goes to video gaming or any other digital things where digital ownership has great value to people. So I like looking at my collections of games, even digitally. I want to see nice, you know, in the same way you want to see nice album art. I want to see nice cover art for our games. And we spend a lot of time in them so that, you know, take a look at Elder Scrolls and Morrowind, Oblivion and Skyrim. We want those boxes to look good next to each other. Going back to the video games, you know, I always mention Tetris because I think it’s…
+(02:16:02):
+You know, obviously I love virtual worlds and those kind of things, but for the time and what an interactive, like, video game, sort of the simplest form… I sort of think you can put Tetris in front of just about anybody and they’ll enjoy it. And it’s got some moment of challenge and it’s just so elegant. It’s like, to me, like this very pure game that only works because it’s a video game.
+Lex Fridman (02:16:34):
+And I think mobile games figured out some of the magic of Tetris, the simple… Some of them have, yeah. But Tetris did it a long, long time ago. Right. You can really create that immersive experience without…
+Todd Howard (02:16:48):
+But for me, you know, the ultimate civilization… Yeah. As far as, you know, a grand strategy game. Pac-Man, I mentioned, in terms of bringing games into the mainstream in a way that captured people that nothing before it had. Super Mario, Donkey Kong, everything. Nintendo, probably the best game makers in the world still. They know who they are. They know what they want to do. Always in awe of what they create.
+Lex Fridman (02:17:19):
+I’ve got to ask you about a game I haven’t played but people put up there as one of the greats, Zelda Breath of the Wild. Have you gotten a chance to play it?
+Todd Howard (02:17:31):
+A lot of it, yes. Yes, it’s fantastic.
+Lex Fridman (02:17:33):
+It’s fantastic. What do you think about… I mean, it’s a very different experience. I’ve played other Zeldas than the open worlds you’ve created, but it is also an open world.
+Todd Howard (02:17:41):
+It is. It’s my favorite Zelda because I obviously like open world stuff. And the one thing that they do really, really well is they don’t constrain you. Some people, you know, even some of the things we do constrain you a little bit more. Zelda says, here’s the whole thing. And you are constrained by the actual player abilities you haven’t earned yet, not some arbitrary barriers. And so I think they just did a phenomenal job. It’s a magical game.
+Lex Fridman (02:18:13):
+It really feels open.
+Todd Howard (02:18:15):
+Because it truly is, yes.
+Lex Fridman (02:18:17):
+What about… I mean, I just like asking about some open worlds. A very different one is the world of either Grand Theft Auto or Red Dead Redemption.
+Todd Howard (02:18:28):
+Both love. I would put GTA 3, Grand Theft Auto 3 up there with the landmark kind of usher in the open world. When that comes out on the PlayStation 2, even though there was GTA 1 and 2, this was an all-new thing with the mobster storytelling. Is that the first 3D version, I guess? It was. Then Vice City is kind of a fast follow, which could be my favorite one. I loved all the Grand Theft Autos. I think they’re really phenomenally well-made games. Same with Red Dead. I think Red Dead Redemption 1 could be my favorite story. I highly recommend finishing that game.
+Lex Fridman (02:19:12):
+So you like both the story. You like the grittiness of that. Because they have a bit of the… I guess if you like the fallout, there’s the humor. I don’t know what it is. It’s the lighthearted humor of it, but also the brutality of human nature is in there too. But it’s like… And also some of the fun they create with the music when you drive and stuff like that. They create a world. There’s a tone. They do.
+Todd Howard (02:19:39):
+There’s a very strong tone. There is a very strong tone. You know, the satire on the world is just so well done. The satire is good. The gameplay is great. I think they’ve just done a phenomenal job.
+Lex Fridman (02:19:53):
+Is there any others that pop to mind? Portal. Portal. Yeah. That’s another weird creation.
+Todd Howard (02:20:03):
+I could just sit here and list games forever.
+Lex Fridman (02:20:05):
+Well, I’m enjoying this.
+Todd Howard (02:20:06):
+Hearthstone is a game I love. I love all types. I like sports. College football. College football was my favorite.
+Lex Fridman (02:20:14):
+I would say this is a great role. Oh, you would actually keep getting a role?
+Todd Howard (02:20:16):
+It’s a role-playing game because I have all these characters. I have like 60 characters, and they’re all leveling up, and then I have to play them. And then the college ones, I like college football. They graduate, so you lose your players, and then they stop making the series. I know the folks at EA, and they will say, I have bugged them. When is this coming? They’re doing it, so it’s finally coming back.
+Lex Fridman (02:20:34):
+Nice. What would you say is the greatest sports game of all time?
+Todd Howard (02:20:40):
+Hmm. Well, it’s NCAA football. You have to pick the year.
+Lex Fridman (02:20:46):
+NCAA versus Madden?
+Todd Howard (02:20:48):
+Oh, yeah. Yeah, but there’s more teams. You get the college, you know, fight songs. There’s more pageantry, and the players turn over. They’re only there for four seasons, so you have to – so, you know, it’s more dynamic.
+Lex Fridman (02:21:04):
+So you like variety versus –
+Todd Howard (02:21:06):
+So what was the last one? 2014 maybe it was.
+Lex Fridman (02:21:11):
+And you don’t like FIFA?
+Todd Howard (02:21:14):
+Look, FIFA’s incredible. Look, I’m a college football fan. They give you that fantasy. If you like European football slash soccer, FIFA’s incredible. Yeah, I love that game too.
+Lex Fridman (02:21:26):
+Have you been paying attention to the game design of that world, of those worlds?
+Todd Howard (02:21:31):
+Yeah, and the thing people, I think, with those kind of games, it is – or racing games. Forza, put up there. I love Forza. Play them all. When you have to recreate something that’s real in the real world, say it’s cars or it’s sports games, everybody knows how it should work.
+(02:21:48):
+That’s a really difficult task when people know how it should work. Then you’re going to balance it for single player, the multiplayer parts of it, very, very competitive. And, you know, in many respects, you’re forced to put out a new version every year. And I say forced in quotes because they’re, you know, you count them as big updates. But it’s a very – it’s a much more difficult development process than I think people understand and how hard those teams work. I know a lot of people who do it, and I think they just do. I’ve enjoyed them all.
+Lex Fridman (02:22:26):
+I buy Madden every year. Yeah, every single year. Yeah, they do refresh it. There’s a feeling of freshness. I don’t know what that is.
+Todd Howard (02:22:32):
+Yeah, look, there have been years where it feels like less was done and more was done, but I enjoy it every year.
+Lex Fridman (02:22:37):
+Yeah, yeah. What does a perfectly productive day in the life of Todd Howard look like? So maybe not perfectly, but just like a perfectly average productive day. Are you a morning person, evening person? Is it chaos? Is it pretty regular schedule?
+Todd Howard (02:22:58):
+I’m in a good flow right now. I’m still doing a lot of stuff. So there’s things I’m, like, executive producing, and then, you know, Starfield I’m directing, so I sort of view that as that’s an everyday thing. Fortunately, I get to do a lot of stuff from look at the TV show we’re making and this Indiana Jones game that’s being developed at Machine Games. We get to look at that. But, you know, the best really day or where I feel it’s fulfilling is get to play some of a game, the game, we’ll say Starfield, get to play some of Starfield, look at the problem set of what it is doing, and then get in a room with the other developers that I work closely with and we solve that problem together. So that’s the most rewarding thing when you can say, okay, what do we want this to do? What’s the real player experience we want?
+(02:23:57):
+What are all the pieces in front of us? You know the actual tangible pieces as opposed to, the beginning, the pie in the sky part is always fun, but it’s like anything is possible, that’s fun, but it’s not rewarding in the same way because you haven’t solved something, whereas these are the elements you have to play with. How do we make this all work together? And you come out of it at the end of the day like, now that feels great.
+Lex Fridman (02:24:25):
+So brainstorming about specific big picture, both big picture and very specific detail of a game that’s not working, something’s not working, you want to fix it, that kind of stuff.
+Todd Howard (02:24:37):
+Because you feel like, okay, you’ve made tangible progress in the actual build of the game, where something you played in the beginning of the day didn’t feel great, you’ve figured out a solution with a group of people, like it’s always with a group. And then the next day you’re like, yeah, that worked out.
+Lex Fridman (02:24:53):
+Who’s on the team? Is it designers, engineers? All of the above. Artists, voice?
+Todd Howard (02:24:60):
+So internal to the studio, it’s a lot of programming, a lot of art, you have design, which breaks into some quest design, writing, systems design, who are doing all the treasure and the loot and the skill systems. And then level design, just making the spaces like those that you’ll play through. Production is a big part of it, the producers who organize everything. I can’t remember if I mentioned art, a lot of artists. QA staff as well, they’re hugely valuable in saying, hey, we broke your game in these magical ways, what are you going to do about it?
+Lex Fridman (02:25:33):
+Is the loot design team still hiring and how do I apply? That seems like the most fun job. Always. I mean, all of this seems like a super fun job.
+Todd Howard (02:25:41):
+You know what, it’s the best. Then you have audio and it by far is the greatest job you could possibly have. If you’re into like technology, it’s great. If you’re into storytelling and creativity and art, it’s great. And it’s really the gaming, you know, the combination of that.
+Lex Fridman (02:26:00):
+And like I mentioned to you offline, I think of video games, I mean, to me it’s brought thousands of hours of happiness. And so when you’re designing the game, whatever you’re doing, you have a part to play in a thing that’s going to bring like millions, hundreds of millions of hours of happiness to people.
+Todd Howard (02:26:22):
+It’s crazy, right? It is. And I’m going to play you saying that back to our team because people forget. Your head’s down, you’re trying to solve these problems, and then you do forget how many people it touches.
+Lex Fridman (02:26:35):
+Like even tiny decisions. You make tiny little things you create. Yeah, it’s weird. I wish there was a way to like, I would notice things in a video game, and it’s like, huh, okay. Like it feels good, but you don’t get that signal. The creator doesn’t get that signal. I wish they did. I guess you could get that signal by, you know, why is Lex stuck in this room like digging through the loot.
+Todd Howard (02:27:02):
+We do now get a lot of good data on what the players are doing.
+Lex Fridman (02:27:07):
+Enjoying and not that.
+Todd Howard (02:27:08):
+Well, we know where they’ve been and where they’ve died and how long they play in certain sections, and we can sort of tell outside of people just telling us on forums or calling or other things, we can tell for some data where people are dropping off or having a, you know, we can tell if there’s a key frustration point.
+Lex Fridman (02:27:27):
+Do you ever think about making people feel like human feelings when they play? Like designing, like make them feel fear or excitement, anger, longing, loneliness?
+Todd Howard (02:27:43):
+All of the above. Yeah, of course. The big one I like to say is that video games give you is pride outside of other, you know, if you watch movies or things like that, like, yeah, but you never think like, look what I did. And that feeling of like accomplishment and pride in what you did or you overcame, you talked about going back to a game that like, those are real feelings of like accomplishment that I’ve felt in games that I’ve played. And when we get to see a player feel that, it’s really, really special. The other one is there is a, you know, there is an escape or to be someone else that’s more powerful in our games that you aren’t in real life that gives you a confidence or a perspective.
+(02:28:40):
+We’re doing one next week. We’ve done a number of Make-A-Wish visits, kids who could wish for anything. And they want to come and I want to see the next game and meet the creators and see how you do it. And they come with their family. And it is like the greatest thing that we do. And it reminds you of like how important it is. And the other really awesome thing is that you can see like the family change by the end of the day. Like they don’t, they didn’t even realize what it meant to their child or what went into it. And it’s just, that to me is like been involved with that foundation for a number of years and it’s been really good, you know, reminder of how lucky we are.
+Lex Fridman (02:29:32):
+And in general, for young people, that sense of accomplishment is hard to find.
+Todd Howard (02:29:37):
+Yeah, where they don’t, not everybody has it in the outlets that real life provides.
+Lex Fridman (02:29:45):
+Well, that’s the thing. I mean, the world is cruel to when you’re young. Nobody takes you seriously. You don’t get like, that’s why you, everybody always wants to grow up and get old as quickly as possible.
+Todd Howard (02:29:57):
+It’s hard. It’s the hardest. It’s hard.
+Lex Fridman (02:30:00):
+And then video games allow you, I mean, to build that sense of confidence, a sense of pride in something. That’s why when people talk down to video games, like it’s a culture and so on, it’s not, it misses out on that really deeply meaningful thing. Especially with like single player. There’s some darker aspects to multiplayer that people create communities and, you know, it can go off the rails a bit. But the actual experience of the game, especially one where you stick with for a while, that’s really beautiful. Do you have advice for those same young folks? Given that your life is an interesting one, given what kind of degree you got and being a legendary game designer, do you have advice for young folks in high school, maybe college? How to have a career or a life they can be proud of?
+Todd Howard (02:30:55):
+Well, you have to find something that you love so much that it’s never going to feel like a job. And don’t do it for money, don’t do it for, find something you love and the rest of it will come. It’s going to be a straight path. And do not ever underestimate yourself. It’s going to take hard work, but the worst thing that young people do is think they can’t accomplish something or they underestimate themselves. And maybe those first few times through where they do fail, if they love it enough, they’re going to be resilient and push past that. Anyone who’s had success or gotten somewhere, they’ve had those times, right? And they’ve stayed resilient because they love it so much that this is what they want to do. When you do it for other reasons, I just don’t think it’s going to work out the same.
+Lex Fridman (02:31:59):
+Did you have low points in your life, dark points where your mind went to a dark place, whether it’s struggling to get a job at Bethesda Softworks or maybe with a Red Guard flop or where you kind of started to doubt yourself or any of that?
+Todd Howard (02:32:23):
+Well, I think what’s weird looking back, I was always so in love with doing this that I didn’t view them as dark per se. Looking back, I was like, I just wanted to, okay, let me find a way to make this work.
+Lex Fridman (02:32:43):
+Even when it’s hard and it’s failing and all that kind of stuff, you’re just kind of like, it’s a problem before you to solve.
+Todd Howard (02:32:50):
+Yeah, when I started at Bethesda, I don’t know, my father had moved nearby to the office. I was moving and I slept on a sofa. I didn’t care. I don’t need a bedroom. I’ll sleep on the sofa and work there. That’s all I want to do. When the company almost went out of business, it was, well, I hope it doesn’t. I feel somewhat responsible. But hey, okay, that’s a learning lesson. Let’s go. I was pretty resilient to it all. Fallout 76, really bad launch. Okay, what did we do wrong? What can we learn? Let’s go at it. Now it’s a success.
+(02:33:32):
+But those kind of ups and downs for the length of developments that we have, people don’t see them, but we have them all the time. It’s that sort of belief that with the team having done it time and time again to know that now we’re going to make it as good as we possibly can. Whatever we’re experiencing now, when we solve it and we get it out and we see the millions of people who love it, it’s all worth it.
+Lex Fridman (02:34:01):
+You’re getting into new spaces. First of all, new worlds with Starfield, but also new, I saw the TV show you’re working on on Fallout with Amazon. What’s that like? Worlds that you created in the digital realm going on the screen?
+Todd Howard (02:34:21):
+Yeah, people asked. I can remember 10 years ago after Fallout 3 was a hit, the movie producers coming and, hey, we think this will make a great movie, and taking a lot of meetings. Most people would jump at that, like, sweet. I sort of paused and like, I don’t know. What is this going to do? I feel like they’re going to synthesize. I met great people, well-known creatives. It’s going to get synthesized into this two-hour, I don’t know. I’m not seeing the great thing here yet.
+(02:34:56):
+I think the advent of television in terms of what it’s become nowadays with big-budget TV series that kind of came up again and met with people, and Jonathan Nolan and Lisa Joy, who do Westworld. I always love the work he did writing Interstellar and The Dark Knight.
+Lex Fridman (02:35:17):
+Movies I just love. Jonathan Nolan is involved with this?
+Todd Howard (02:35:19):
+Yeah, he’s the EP.
+Lex Fridman (02:35:21):
+Epic. Westworld’s incredible. Yeah.
+Todd Howard (02:35:26):
+This is awesome. He’s the EP. He’s directed the first few episodes. Nice. When I connected with him, Jonah was like, hey, you’re the person I want to do this. I met with people. I kept saying, let me see if he wants to do it. To my joy, he was like, oh, yeah, Fallout 3 is one of my – yeah, sign me up. I was like, no. How do we get this done?
+(02:35:52):
+At that time, he was at HBO, and we were trying to figure out – put a little pause on it. Got to visit the sets, reading scripts and things like that.
+(02:36:08):
+It’s all new to me, but they’re doing such an incredible job. I think if you like this world, you are going to be just blown away. I’ve never made a TV show. No one ever does it wanting it to not be great, but they’ve just done their attention to detail and just obsessive with what’s on the screen and the storytelling and how it looks, the whole thing.
+Lex Fridman (02:36:35):
+I think obsession is really a prerequisite for greatness. That’s what HBO did with Chernobyl, like the attention to detail.
+Todd Howard (02:36:44):
+Great series. It’s just incredible. He’s doing The Last of Us now, that showrunner.
+Lex Fridman (02:36:50):
+If you really care and you really put a lot of effort into the details,
+Todd Howard (02:36:55):
+you could – I was stunned. I mean, I don’t want to spoil it, but when people see it, I think they’ll just be like, wow. The other thing, we’re approaching it. It’s very different where when people would say they want to make a movie, they wanted to tell the story of Fallout 3 or then tell the story of Fallout 4. For this, it was, hey, let’s do something that exists in the world of Fallout. It’s not retelling a game story. It’s basically an area of the map.
+(02:37:23):
+Let’s tell a story here that fits in the world that we have built, doesn’t break any of the rules, can reference things in the games, but isn’t a retelling of the games that exists in the same world but is its own unique thing. It adds to it. Also, people who haven’t played the games, who can’t experience how crazy cool Fallout is, can watch the series.
+Lex Fridman (02:37:53):
+Are there some similarities or interesting differences between the creation of a game and a TV show that you notice from the story perspective?
+Todd Howard (02:38:02):
+Well, for them, it’s much more character-driven. You can do all these things with the world and stuff that we already have. It’s the main characters, who they are, what their motivations are, that really is the engine.
+Lex Fridman (02:38:19):
+Finding the right actors to do those. Because there’s no interaction. You don’t get to enter that world. They have to do the work for you. The NPCs are on the show. I can’t wait to see how it turns out. You also mentioned Indiana Jones. That’s a weird, that’s a different one. How do you work with a famous protagonist? When the character is known, how do you work with that?
+Todd Howard (02:38:49):
+Well, it’s different. Indiana Jones is different where the name, it’s Indiana Jones. It’s him. You can talk about the world of Indiana Jones, but at the end of the day, it’s about this character. Raiders, still my favorite movie of all time. No debate, it’s the best movie ever.
+Lex Fridman (02:39:10):
+Best movie ever? Ever. On a tangent, what do you love about it?
+Todd Howard (02:39:16):
+Well, you know, I saw it, obviously, when I was younger, and I believed it. I believed this happened. When they found the Ark, I literally, I could not believe that they found it. I have found over my life, it’s still really watchable every time. I enjoy it every single time. Love the character, love the story. The opening is the greatest movie opening ever, and I just love everything. I love everything about it. What was the opening? What? It’s the temple, and then the ball rolls and tries to crush him.
+Lex Fridman (02:39:52):
+Oh, that’s the opening. That’s the opening of Raiders. Yeah, he steals the idol. I think you’re deeply offended.
+Todd Howard (02:39:59):
+What’s the opening of Raiders? So, I’ve always wanted to, it’s one of those things, like, what’s on your bucket list? Like, oh, I want to make an Indiana Jones game. And I had pitched Lucas, I met some people there, and pitched them, back in 2009, this Indiana Jones game concept. And they wanted to publish, kind of the deal fell apart. They wanted to publish it, and we were a publisher, and so we didn’t do it. And I didn’t really have the team to do it. I was going to figure that out after we agreed to a deal.
+(02:40:31):
+And, well, you know, we made Skyrim, so it worked out. And then, you know, fast forward 10 years plus, and, you know, Lucas, now part of Disney, and they’re doing a lot more of licensing and working with people. And so I knew some folks there and said, oh, I have this idea that I pitched a long time ago. And they loved it. And, again, the internal team that I had, not only didn’t have the time, they probably weren’t as good a fit as Machine Games, who’s done the Wolfenstein series, who is the perfect fit for this game, with storytelling and how they record it. And they are, it’s awesome. They’re just doing an incredible job with that game. People are going to be, if you like Indiana Jones, it is a definite love letter to Indiana Jones and everything with it.
+Lex Fridman (02:41:20):
+Can you say if it’s more on the action adventure side, like the actual experience of the game?
+Todd Howard (02:41:29):
+I could go back. I would just say it is a mashup. It is a unique, it isn’t one thing intentionally. So it does a lot of different things that, you know, we’ve, myself and Jörg and the folks at Machine Games, have wanted to do in a game. So it’s a unique thing.
+Lex Fridman (02:41:52):
+Before I forget, who do I, how many humans do I have to kill, I mean dragons do I have to kill to get myself somehow into Elder Scrolls VI? It’s a mod. If anyone wants to create mods of me, is that possible? Yeah, it’s possible. While maintaining realism somehow. You don’t want a person in a suit and tie. It doesn’t make sense.
+Todd Howard (02:42:17):
+You can put you in Fallout.
+Lex Fridman (02:42:18):
+You can wear that. Yeah, please put me, so Fallout, there’s also a culture of…
+Todd Howard (02:42:25):
+You do a mod where you replace the mysterious stranger.
+Lex Fridman (02:42:30):
+There you go. That’s a to-do task. Top mod, right there. And you will have my deep gratitude and more, dear stranger, for doing so. What’s the programming language for mods? Is it mostly…
+Todd Howard (02:42:44):
+They use our internal scripting language that’s built into the tool.
+Lex Fridman (02:42:49):
+Okay, I’m almost afraid to explore that world because you will never, never, never turn back. How long… You’ve created so many incredible games. Is there… What does the future hold? Is there… Going through this process, do you still have the energy, the passion, the drive?
+Todd Howard (02:43:10):
+I do. To keep creating? I cannot imagine doing anything else. I’d like to do it as long as possible. I will say, though, as I’ve done it, you know, soon it’ll be 30 years at Bethesda, I’ve learned that to appreciate the developments a little bit more, you know, that the time it takes, I should prioritize all of us enjoying the development process more than I did in the past. It was like, you know, just wanted to… The end. That’s all that mattered. And the more you do it, you realize, no, I’m spending the majority of my life in Tamriel and the Wasteland and Fallout, so, you know, the moments that we’re all doing this together, we need to enjoy it. Like, it’s a lot of work finishing Starfield, but, hey, we gotta enjoy this. This is, like, incredible. We don’t get that many shots.
+Lex Fridman (02:44:09):
+So… So the actual process of creating the struggles along the way of stuff not working, like you said, at this point, of Starfield probably creating some of the glue of how stuff feels, and going back again and again and again to try to make the beginning better, all that kind of stuff.
+Todd Howard (02:44:25):
+And I would say it for anybody’s vocation, whatever you’re doing. You know, whatever people do, you’re gonna have harder times, and sometimes people, you know, you have to, you know, maybe recalibrate yourself to, like, okay, how can we make this more enjoyable for all of us, no matter what you’re doing, and rewarding.
+Lex Fridman (02:44:45):
+So if life is a video game, which it most likely is, what do you think is the meaning of life? From having created so many games, or the character has to try to figure out… I mean, there’s bigger questions than just solving the quest. You’re asking the big questions of why am I here. I feel like that’s good practice for answering the same question for this video game we’re in. What do you think is the meaning of life, Todd Howard?
+Todd Howard (02:45:15):
+That’s a very… I can say what motivates me.
+Lex Fridman (02:45:27):
+That’s a good start.
+Todd Howard (02:45:30):
+Having a curiosity. You know, the ability to not assume a lot, and be curious about the world around you. It’s more, it’s, you know, not the same as just wanting to learn everything, but what makes other humans tick? How do they feel? How do they love? It might be cliche to say the meaning of life is to love, right?
+Lex Fridman (02:45:58):
+So that curiosity is just, is about noticing the world.
+Todd Howard (02:46:05):
+Noticing the world around you. You know, look, there’s so much anecdotes. Someone says everybody has two lives, and the second one starts when you realize there’s only one. And I think, I usually preach to my children and everything else, like, have a curiosity to the world around you, and you’ll have the most fulfilling days.
+Lex Fridman (02:46:28):
+Are you able to be inside the worlds that you’ve created and be able to notice them? Like, really, like, really enjoy them?
+Todd Howard (02:46:36):
+It takes time. So, like, Skyrim had its 10th anniversary, and so when I went back into it, I think I got to see it for what it is. My younger son got really into it, you know, a few years back on the Switch. That’s when we noticed people age up into it. Right, so one of the reasons it’s so popular is, you know, people come into, you know, they’re now becoming, you know, teenagers, and, oh, okay, I’ll finally play Skyrim.
+(02:47:04):
+And, you know, he got obsessed with it. And he wasn’t, usually I’d say, hey, check out my games, and he’d be like, ah, shut up, Dad, we’re playing this other stuff. And he got, like, obsessed with Skyrim. Like, we’re having, like, deep Elder Scrolls lore conversations at dinner. And, you know, I saw it through his eyes, and that was pretty special. And then the mods he was downloading and the YouTubers he was following, talking about stuff. So the people who, like, the Elder Scrolls people don’t realize how much of that I have watched with my son. And then I kind of, when the 10th anniversary came out, like, oh, I’m going to check out a build. I have to check the build out, but I hadn’t played it in so long.
+(02:47:42):
+And it was like, it does, it has this flow. We’re like, oh, my God, I just played for four hours. I need to, I need to turn it off.
+Lex Fridman (02:47:51):
+Yeah, I mean, there’s something about enjoying, enjoying video games with the people you love, too. Or the water cooler discussion. And with kids. So I actually, I would love to have kids, and hopefully soon in the future. So I guess the thing I need your advice on is, how do I time it in such a way when they’re old enough, right at the age they’re old enough, like, I want to know when to have them so that when they’re old enough, that’s exactly when Elder Scrolls VI comes out.
+Todd Howard (02:48:22):
+Can you give me a hint when I should have kids? All right, never mind. You are a genius at how to ask that question.
+Lex Fridman (02:48:29):
+The number of times. Yeah, you told the anecdote that your son asked you the same question. But of course, it’s all for good fun. Take as much time as is needed. Skyrim is still an incredible game. It has an impact on millions of people, as do all of your games. Thank you for everything you’ve done for the world. It’s a huge honor that you would talk with me.
+Todd Howard (02:48:52):
+This has been an honor, and it has to be said, I have a huge team of people I’ve worked with for some of them for 20 years, and it’s really all of us together.
+Lex Fridman (02:49:07):
+Keep doing a great job. Guys and gals, I can’t wait to see what you create next. It really, really does have an impact on silly kids like me, and millions of silly kids like me. I really appreciate everything. Thank you. Thanks, Todd. Thanks for listening to this conversation with Todd Howard. To support this podcast, please check out our sponsors in the description. Now, let me leave you with some words from Tolkien. So come snow after fire, and even dragons have their end. Thank you for listening, and I will see you next time.
+Todd Howard is a legendary video game designer at Bethesda Game Studios. He led the development of the Elder Scrolls series and the Fallout series, and an upcoming game Starfield. Please support this podcast by checking out our sponsors:
+– Shopify: https://shopify.com/lex to get free trial
+– Eight Sleep: https://www.eightsleep.com/lex to get special savings
+– InsideTracker: https://insidetracker.com/lex to get 20% off
+– LMNT: https://drinkLMNT.com/lex to get free sample pack
+EPISODE LINKS:
+Bethesda: https://bethesda.net
+Bethesda Game Studios: https://bethesdagamestudios.com
+Creation Club: https://creationclub.bethesda.net
+PODCAST INFO:
+Podcast website: https://lexfridman.com/podcast
+Apple Podcasts: https://apple.co/2lwqZIr
+Spotify: https://spoti.fi/2nEwCF8
+RSS: https://lexfridman.com/feed/podcast/
+YouTube Full Episodes: https://youtube.com/lexfridman
+YouTube Clips: https://youtube.com/lexclips
+SUPPORT & CONNECT:
+– Check out the sponsors above, it’s the best way to support this podcast
+– Support on Patreon: https://www.patreon.com/lexfridman
+– Twitter: https://twitter.com/lexfridman
+– Instagram: https://www.instagram.com/lexfridman
+– LinkedIn: https://www.linkedin.com/in/lexfridman
+– Facebook: https://www.facebook.com/lexfridman
+– Medium: https://medium.com/@lexfridman
+OUTLINE:
+Here’s the timestamps for the episode. On some podcast players you should be able to click the timestamp to jump to that time.
+(00:00) – Introduction
+(05:53) – Simulation
+(07:49) – NPCs
+(16:40) – Daggerfall and Arena
+(24:53) – Bethesda
+(33:18) – Video game graphics
+(39:37) – The essence of a video game
+(44:25) – Redguard
+(49:25) – Creating open worlds
+(57:04) – Superintelligent NPCs
+(1:01:58) – Starfield
+(1:21:40) – The Elder Scrolls 6
+(1:41:01) – Fallout
+(1:48:09) – Character creation
+(1:53:11) – Quests & items
+(2:06:57) – Xbox
+(2:12:22) – Greatest game of all time
+(2:22:38) – Day in the life
+(2:30:32) – Advice for young people
+(2:34:00) – Fallout TV show
+(2:38:32) – Indiana Jones game
+(2:44:44) – Meaning of life
+Podscript is a personal project to make podcast transcripts available to everyone for free. Please support this project by following us on Twitter.

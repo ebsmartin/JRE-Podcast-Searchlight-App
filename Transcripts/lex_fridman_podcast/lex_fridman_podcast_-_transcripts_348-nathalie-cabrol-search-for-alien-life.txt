@@ -1,0 +1,686 @@
+Disclaimer: The transcript that follows has been generated using artificial intelligence. We strive to be as accurate as possible, but minor errors and slightly off timestamps may be present.
+You can click the timestamp to jump to that time.
+Lex Fridman (00:00):
+The following is a conversation with Natalie Cabral, an astrobiologist and scientist at the SETI Institute, directing the Carl Sagan Center for the Study of Life in the Universe. She explores some of the harshest places on earth, including free diving and volcanic lakes, all in the pursuit of understanding living organisms beyond earth. For this, she holds the woman’s world record for diving at an altitude, both scuba and free diving. She’s amazing.
+(00:30):
+And now, a quick few-second mention of each sponsor. Check them out in the description. It’s the best way to support this podcast. We got True Classic Teas for t-shirts, Shopify for e-commerce, BetterHelp for mental health, and Athletic Greens for the best daily multivitamin. Choose wisely, my friends. And now, onto the full ad reads. Never any ads in the middle. I hate those. I try to make these interesting, but if you skip them, if you must, please still check out the sponsors. I enjoy their stuff. Maybe you will, too. This show is brought to you by True Classic Teas, high quality, soft, slim-fitted t-shirts for men. I happen to be wearing one now. In fact, I’m wearing one every single day, unless I’m wearing a suit or a dress shirt. That’s the go-to, comfortable, programming, coding outfit if I want to do work. For prolonged periods of time, that’s what I’m wearing. Is there anything better than a great black t-shirt?
+(01:25):
+I’m not sure if there is. And now I’m reading through the t-shirt Wikipedia, which, again, is amazing that there’s a Wikipedia article on all the basic objects and things and concepts in this world. Now, so yeah, there’s an interesting history based in undergarments in the 19th century, but now there’s a big picture of Marlon Brando wearing a t-shirt. In the movie A Streetcar Named Desire, I guess there is a phase shift at some point where people started wearing them. By the Great Depression, that t-shirt was often the default garment to be worn when doing farm or ranch chore. Of course, it’s the cowboy thing.
+(02:01):
+So first you start at the farm or the ranch, and then that takes over because that’s where all the cool people are, and they define the fashion of the rugged American individual. And then it looks like in the 1960s, printed t-shirts gained popularity for self-expression as well as for advertisement, protests, and souvenirs. Of course, in the 60s, that’s when people started getting creative. It’s not enough to have a plain t-shirt like I have on now. Anyway, go to trueclassic.com and enter code LEX to get 25% off.
+(02:32):
+This show is also brought to you by Shopify, a platform designed for anyone to sell anywhere, with a great-looking online store that brings your ideas to life and tools to manage day-to-day operation. And I will likely be using it, or I should really use it, when I finally get my lazy butt to start doing merch. It’s something that a bunch of people ask for, and I do myself enjoy wearing t-shirts for things that I’m a fan of. And then when people notice, it’s kind of like a nod of acceptance to each other. I was just wearing a Metallica t-shirt yesterday. Which one was it? I think it was Master of Puppets. And I used to have that t-shirt many years ago, and it got so worn out, because I would wear it everywhere, and it just got worn out.
+(03:16):
+And I just saw it, I was somewhere, I think I was in Boston, it was a souvenir shop, and I saw that same shirt, but it was all crisp and nice, and I had to have it. But obviously Metallica’s a giant band, but I think this applies to even small things like podcasts and so on. I’m just a huge fan of podcasts, a huge fan of a lot of things, like audiobooks. I wish there was more merch for individual audiobooks. Maybe that’s what I’ll do. I’ll do like merch for books I love. You know, like books on tape, but it’ll be books on shirt.
+(03:52):
+Anyway, lots of ideas. If you have ideas, and you want to launch a story, you can go to Shopify. Get a free trial and full access to Shopify’s entire suite of features when you sign up at Shopify.com slash Lex. That’s all lower case. This episode is also brought to you by BetterHelp, spelled H-E-L-P, help. They figure out what you need to match with a professional licensed therapist in under 48 hours. As I look at the internet today, social networks like Twitter and Facebook and Instagram and TikTok and YouTube, and I read some of the comments, there’s a distant thought in my mind. How much better would it be if everyone put a little time to BetterHelp?
+(04:31):
+Or not even BetterHelp, just talk therapy of any kind. Find a therapist of any kind. It just so happens that BetterHelp is the easiest way to do it because you can just do it online. And for things like that, for therapy, I wish all difficult things, I wish going to the gym could be done.
+(04:50):
+I mean, I guess it can be, but the actual working out, like I mean literally go to the gym because with BetterHelp you’re literally getting therapy remotely, right? To be able to just do some bench press and squat remotely somehow. Maybe like inside a virtual world, but where it actually affects your physical body. Like your muscles grow from you doing a workout remotely. Huh, a boy can dream. Anyway, check them out at betterhelp.com slash Lex and save on your first month.
+(05:21):
+This show is also brought to you by Athletic Greens and it’s AG1 drink, a drink that I just drank. What is it? 10 minutes ago? I drink it usually twice a day. Once to break a fast and second time after a hard workout or a long run. It’s an all-in-one daily drink to support better health and peak performance. It has almost become meme. How much I love Athletic Greens. It just makes me happy. I love the taste of it. I like the psychological feeling of knowing I got my stuff together because at least I’m taking care of that. When everything else is falling apart, when my life is a giant mess, at least I got some of the basic nutrients and vitamins into my body. And the rest, of course, you have to take care of sleep and exercise and all that. But at least this one thing, this is a place I go to for reassurance, for stability. It’ll give you a one-month supply of fish oil when you sign up at athleticgreens.com slash Lex.
+(06:24):
+This is a Lex Friedman podcast. To support it, please check out our sponsors in the description. And now, dear friends, here’s Natalie Cabral. You are the director of the Carl Sagan Center for Research at the SETI Institute. SETI, of course, stands for Search for Extraterrestrial Intelligence. One of the things you do as part of that is travel to some of Earth’s most extreme and dangerous environments in search of organisms that live in conditions analogous to those on Mars.
+(07:09):
+First, let me ask what the job posting for the work you do looks like. Is it like Shackleton’s ad in 1900 that said people wanted for hazardous journey to the South Pole? Small wages, bitter cold, long months of complete darkness, constant danger. And also, where do I apply?
+Nathalie Cabrol (07:26):
+That’s funny, because there was not really a job application. In fact, when you’re a scientist, you have questions in your mind and you have hypotheses and you start to list the kind of thing you need to answer. And then when you see the kind of thing you have to answer, then you kind of know the places where you need to go to do that. As far as science is concerned, started with analyzing data from the Mars missions. And I had written a PhD about water on Mars, first looking at channels and the history evolution of water.
+(08:05):
+But then during my postdoc, I started to look where that water was spawning. Interestingly enough, everybody was about channels and water and whether catastrophic or whatnot or seepage. But when you are talking about ponding water, like lakes or ocean, people started waving their arms a little bit. So it was a little bit of a battle, interestingly enough, yeah. But that got us on track with my husband. We were working together and we started developing the idea, the concept of lakes in impact craters.
+(08:41):
+So why in impact craters? Just because the Viking mission at the time, which is what we were working with, the resolution and the topography were so poor that there was really no way of telling where you had a real low in the topography. The only thing you knew was a hole in the ground was an impact crater. So when you saw valleys.
+Lex Fridman (09:04):
+What was the Viking mission?
+Nathalie Cabrol (09:05):
+The Viking mission landed on Mars in 1976 and there were two landers and two orbiters. So they were really our first feet on the ground on Mars, but they were a lander. They were not moving. They were not going.
+Lex Fridman (09:19):
+And that was the data you were looking at?
+Nathalie Cabrol (09:21):
+It was already in the 90s, but we didn’t have yet the Mars Global Surveyor and whatnot. We still worked for 20 years. We worked on that. I did my master and my PhD thesis on Viking missions.
+Lex Fridman (09:33):
+You mentioned that the places you go to are defined by the questions you want to ask. Let’s just step back. What questions have always tugged at your heart?
+Nathalie Cabrol (09:43):
+Well, that’s the thing. That’s why I was looking at those images and saw some lakes. And then came time where we started talking about sending landers and rovers on Mars and looking maybe at the possibility that Mars was habitable and lakes are particularly good places to look for those questions. So this is how it all ties up.
+Lex Fridman (10:08):
+So you were always curious about life out there?
+Nathalie Cabrol (10:10):
+I have been always curious about life in the universe and about questions on how we got to be here and the bigger question. Now with 25 years more in that business, it’s more about understanding the origin and nature of life rather than whether there is life or not on Mars. I mean, this was really for me a stepping stone to bigger questions, but they were definitely important because they helped me frame my way of thinking about those question. And so looking at Mars, at lakes, understanding what the conditions were 3.5 billion years ago or close to 4 billion years ago, then I knew the type of environment I needed to explore here on earth as analogous to be able to understand what type of life still survives in those environment and what kind of instrument and what kind of resolution do I need to actually detect it. So this is how the whole thing started. And it started with a small grant, literally 40K. It was a discretionary fund. And this is how I got started in my career.
+Lex Fridman (11:21):
+And so many of these questions you can answer by looking at life in extreme conditions here on earth. But let’s step back a little bit and look at Mars and lakes on Mars. Just going back to your PhD and before, and maybe today, what do we understand about life on Mars? What do we understand about lakes on Mars? Is there a water on Mars? What do we understand about the conditions from 4 billion years ago on Mars?
+Nathalie Cabrol (11:48):
+Well, we’ve gone a long way. Remember from the Viking where we had no resolution. Well, we had a little bit more resolution than with mariners.
+Lex Fridman (11:56):
+What did you think at that time? Sorry to interrupt.
+Nathalie Cabrol (11:57):
+Just take us back to that mindset. It was really the exploration, like your first look at a planet. You have to remember that the first mission that successfully snapped some pictures of Mars was Mariner 4. And then everybody at that time was still under the spell of H. Wells and the idea that Mars looked with telescope so similar to the earth. Polar caps, we could see them with a telescope and we knew it had season.
+(12:33):
+The actual tilt is pretty much the same as the one for earth. So when Mariner 4 left, everybody, not everybody, but a lot of people thought that we would see the crystal cities and domes and stuff, that another civilization might have evolved in parallel to us in the source system. And of course, when the first images came back and Mars looked with that kind of resolution, it had like the moon, it was a huge disappointment. Then Mariner 9 came and that changed everything.
+(13:04):
+There was a little bit of drama because Mars started one of the biggest dust storm it ever experienced. And so for three months, we had an orbiter circling around Mars and not seeing anything.
+(13:21):
+But then when the dust cleared, all of a sudden we started discovering volcanoes, valleys, ancient channels, dune fields, polar caps, and see what I’m talking to you, I don’t need to invent any words to describe Mars. And although the myth of extraterrestrial civilization on Mars was gone, all of a sudden, the imagination of the scientists started to pick up because right away we were seeing something that was familiar, that we could describe. So right away, Viking would put on the fast track and the idea was, so Mars looks so much like Earth could have been, although it’s arid and there is little atmosphere, et cetera.
+(14:09):
+Could there be life? And of course, behind this, at the time, there were people like Klein and Sagan, Carl Sagan, just thinking about how can we test the idea of biology of life on Mars? So this is what Viking did. But of course, at the time when the two landers arrived on Mars, we didn’t have the context of the geology of the environment. We didn’t have much data at all. So the data that Viking sent back was very confusing.
+(14:42):
+Some people still think today that we discovered life on Mars at the time, because some of the experiment turned out to show a strange signal. But most of the community think that it can be explained by chemical reaction that we see today. So it was so confusing that NASA decided to say, okay, if we want to be serious about looking for life on Mars, we have to understand the environment, because life and environment co-evolve.
+(15:12):
+So as cause or effect, a planet is going to give you the physicochemical environment for life to happen. These are the boundaries. But once life is here, it’s going to change everything. One of the biggest impact of life was to inject oxygen into the atmosphere of the Earth three, two billion years ago, and that changed everything, including our signature in space. So there is this co-evolution. So if you want to understand one, you have to remove the other from the equation. It’s kind of a two or none equation.
+Lex Fridman (15:46):
+So even though oxygen changes our signature today, what if all life on Earth died, and now we fast forward a billion years, what would be the traces left? So the question I’m trying to ask is, if life had existed on Mars, what would be the signs we would look for?
+Nathalie Cabrol (16:06):
+That’s a very good question. The thing is that if you draw the parallel with Earth, it took 82% of Earth history, geological history, to go from very simple life, microbial life, to complexity. And when I’m saying complexity, I’m not even talking about us. I’m talking about animals. So Mars is smaller, lost its magnetic field very fast, and lost its atmosphere very fast. Life also appeared on Earth very fast.
+(16:36):
+So the condition being quite similar at that time between the Earth and Mars, let’s assume for a moment that life appeared on Mars. It would have been simple life when conditions started to degrade, which was less than a billion years after the planet had formed. So everything at the surface would have disappeared, except maybe for morphological traces of the interaction between life and its environment. So on Earth, the best example are what we call stromatolites.
+(17:10):
+These are rock formation that are built by microbes. So we know that, we know how to recognize them. You could have chemical traces as well. There is some interesting question marks right now about carbon isotopes at Gale Crater, because we found an abundance of C-12, which normally is used by life on Earth, but it can be produced by other things. So it’s not that it’s a real biosignature in itself, but it’s intriguing. We have now the C-12 and we have methane, and we have methane, but going back, it’s a time on Mars, 3.5 billion years ago, where you have lots of destructions, where you have lots of impact cratering, et cetera. But we still have very old rocks that survived from that time. So these are good places. That’s why we’re sending the rovers in those places, ancient lakes and impact craters, and places where you have very old rocks.
+Lex Fridman (18:07):
+So when you say ancient lakes and impact craters, the simple question, so impact crater is a crater created by a giant rock hitting the planet?
+Nathalie Cabrol (18:16):
+And yes, a big rock that can be metal or rock, or it can be a comet as well, mostly ice.
+Lex Fridman (18:22):
+So is that good for life or bad for life? For creating life and destroying life?
+Nathalie Cabrol (18:26):
+Both, it’s actually both. Interestingly enough, the building blocks of life, the bricks, the stuff we are made of, carbon, hydrogen, oxygen, and nitrogen, and phosphorus, they were included on our planet. They were built in just because our planet is made of this kind of rocks, asteroids and comets coming together by what we call accretion. So they were built in. When an asteroid comes, there is a lot of destruction going on. But at the same time, those rocks, they bring with them those bricks of life, and they create lots of energy. And if the environment around is favorable, you might possibly have some seeding going on. That’s one of the aspect of what we call panspermia, which is the fact that comets and asteroids have the building blocks of life embedded in them, and that given favorable condition, they might be able to seed planets. This is a theory.
+Lex Fridman (19:32):
+What percent of you, when you’re looking up at the stars and wondering about this stuff, thinks that panspermia is what happened on Mars or on Earth, which is the building blocks of life came from elsewhere?
+Nathalie Cabrol (19:47):
+Well, but you know, that’s the thing. Panspermia is a vector, potential vector, which means that it actually distributes the stuff of life left and right, but it doesn’t explain the origin of life. It’s not the environment itself. It just promotes maybe, and we still have to prove this, but what we know is that the stuff we are made of is very abundant all over the place, including in interstellar medium. So it’s all over, it’s all over. The idea is that maybe it just waits to have the proper environment, and we know what it needs here on Earth. It needs water, it needs energy, shelter, and nutrients.
+Lex Fridman (20:28):
+So you’re fundamentally interested in the origin of life and the big leaps in evolutionary history that could be like an origin of something, origin of eukaryotes, origin of photosynthesis, origin of whatever. I just think if we’re a civilization here on Earth and we survive another few hundred years, I think it would be a good idea to take a big gun and just shoot life out there, like a life gun. Basically try to create panspermia. That’s a good backup solution. So one way is to actually copy our brains and actual humans, some complex information, and send it out there. Another way to preserve life is just to like send the basic building blocks, send a bunch of bacteria, a bunch of, whatever the rugged organisms are on Earth, just send a bunch of those.
+Nathalie Cabrol (21:22):
+Those are not the building blocks. They are actual organism.
+Lex Fridman (21:25):
+So what- Wait, isn’t that a nice shortcut? Or do we wanna, because you said building blocks are everywhere.
+Nathalie Cabrol (21:30):
+Yeah, the bricks of life, the carbon, hydrogen, et cetera, they were produced by the death of previous stars. So this is how they were produced. Stars like our sun started to form 10 billion years ago. That doesn’t mean that the sun is the only kind of star that produce life or enables life, but actually was produced 10 billion years ago. Now, what you’re talking about is a little different. Right now, there are many, many efforts to do the type of thing you are talking about, which is to put our DNA on whatever kind of substrate and preserve it in vaults, either in different place on Earth or on the moon. Some people are already thinking about putting DNA on the moon. As far as brains concerned, it’s drawing towards transhumanism, which is the enhancement of who we are through AI and machine learning. Of course, having backups is a good thing. For me, I would say that taking care of our planets and going back to a place where we are in equilibrium with our environment would be also maybe the best backup possible, and let evolution do its things. Right now, we are like teenagers with enough brain to create cool tools, but we don’t have enough brain to understand yet the consequences of what we are doing. And right now, we are paying for this. So the question is whether we are going to be able to move forward and learn from the mistakes we are making to become a mature civilization. You probably heard of the Drake equation. That would be the L at the very end, the duration.
+Lex Fridman (23:28):
+Which- The duration of intelligent civilization.
+Nathalie Cabrol (23:30):
+Exactly, or at least the length of time a civilization remains detectable. It can disappear from the radar screen literally for a number of reasons. The first one is destroy itself or being destroyed by external events, or it can become so in tune with the universe and so advanced that it disappears because it melts really in the background and it’s not visible anymore. There are some wild theories out there saying that civilization might be so advanced that you cannot distinguish them from physical processes. And that was an example. It doesn’t say that this is the case, but some people say, imagine that. In fact, all the dark matter that we see or we theorized about is in fact some sort of a biological process. So you can think about a number of things. Personally, I believe that what you talk about, about preserving our information is kind of what life does. We need to look at ourselves as not different of what the little self that started off was. And this is what tells you not about the origin of life, but in fact, the nature of life, which is a lot more interesting to me. Because- The nature of life is really what is going to give you some universal signature to look for it all over the place. And not only around ponds of water for life as we know it. But the nature of life is telling you that life wants to get the most information possible around its surroundings. And complexity is in fact the ability to gather and exchange and preserve the most information possible. And so what you’re saying is kind of preserving the kind of information we have. So in the things that we are doing, as life happened, and I say happened because we don’t know what life is, we have 123 definitions of life. And some people are saying, we don’t have any definition, we only have descriptions of life.
+(25:52):
+And that’s true. And that’s true. So think about it for two minutes. We are looking for something we don’t know it is. But we have a few clues about the nature of life. There are some really good theories. The first one was Schrodinger, right? In the 40s. Right now there is a guy named Jeremy England. It’s another biophysical theory of life. It says life is the inevitable result of thermophysics.
+(26:19):
+This is the best way to beat entropy, to fight entropy. But when you look at what we are doing, if you want to know what the nature of life is, look at our languages. And they can be very different languages, but they all have the same purpose, right? Exchange information, understand, store information, and also whether it is with somebody at the outside or thoughts in yourself. That’s the same thing the cell was doing.
+(26:49):
+But now when you’re looking at life and at the structure of our languages, life started with an atom. So it’s an atom. They got together to create inorganic molecules. Then you have complex inorganic molecules. Then you get to organic molecules, complex inorganic molecules, and then you have RNA, DNA, et cetera. Look at the structure of our language. We created alphabets, letters. That’s your atom. Then we put them together to create syllables, right? Those syllables get together to create words. Words tell you something, but they are nothing without a verb that gives the direction. That’s RNA and DNA. And then you can put all the complements you want. Our languages are built exactly as life is built. We are repeating patterns.
+(27:47):
+I call this the Mandelbrot universe and the fractal universe, because this is exactly what it is. I would say that as much as I do believe to sending probes to explore the universe, I say we should also look inward to find the answer to some of the profound question of who we are. What’s life? What’s the nature of life? Because we are expressing life.
+Lex Fridman (28:11):
+So searching not for life, but for the nature of life.
+Nathalie Cabrol (28:15):
+The nature of life, absolutely. I am more interested in that, because the day we understand the nature of life, then we have a universal biosignature. And it doesn’t matter whether this life respond to the same kind of biochemical processes as we do. Although it makes sense. I told you about the generational aspect of the bricks of life, the stuff we are made of. The sun is part of the youngest generation of stars.
+(28:45):
+And the first two generation of stars didn’t produce the kind of elements we are made of. They were stars that were either without metal, just made of helium and hydrogen, or poor in metals. So the stars died off, and stars like the sun were born from those. And this is why we have elements like carbon, hydrogen, oxygen, et cetera, now.
+(29:17):
+And that’s the life we are built on. So I think it’s not stupid to be looking for something that looks like us, because right now in the universe, this is the stuff that’s the most abundant. And we see with the exoplanet, with Kepler, with TESS, and now with James Webb, we see that there are many, many different type of planets that may be habitable in the habitable zone of their stars. There are countless stars like the sun, but more interestingly enough, there are other type of stars where you do have habitable zone as well, and where the duration of the stars is sometimes a thousand times more than our sun. So you can imagine all sorts of things, and you can imagine what type of life would be around those stars. The biochemistry might be quite similar, in fact, and especially for the simple life, because simple life starts really quickly on Earth.
+(30:15):
+So my take on this is that the universe is full of cyanobacteria, but as far as intelligent life, it takes more time. So that can take different aspect.
+Lex Fridman (30:29):
+So you think it’s possible that the universe is full of bacteria, and even those stars that last a thousand times longer than the sun, even on the planets that orbit those stars, maybe it’s bacteria for billions and billions and billions of years.
+Nathalie Cabrol (30:53):
+We actually don’t know what triggered the evolution to complexity on Earth. That’s still a big question mark.
+Lex Fridman (30:60):
+Is that the most impressive invention on Earth to you?
+Nathalie Cabrol (31:03):
+That Cambrian revolution is really what took us towards what we are. And in the meantime, there were the dinosaurs, et cetera. The dinosaur were wiped out, so the evolution could have taken a completely different turn. It’s always, I would say, mass extinction that are going to drive what’s the end game. But yeah, you take two planets and you change those asteroid impacts or those big geological events that wipe out like 90% of life at any time. The thing that seemed to be interesting, there are two things. The first one is where you are located on our galaxy matters a lot.
+(31:50):
+We actually are in the habitable zone of our galaxy. And if you are too close to the center, then it’s a lot denser. And remember, we have the Oort cloud around our solar system. And if you are in the region of the galaxy that’s too populated, then you’re going to run interaction, gravitational interaction with all these stars. And since it’s more dense, you will have more of the comets that are living in the Oort cloud being ejected from the Oort cloud and coming towards the inner solar system and collide with planets. So you will have more of these impacts if you are too close to the center of the galaxy. Not to mention the radiation. There is a place in our galaxy where it’s a really bad neighborhood. You don’t want to be there. You wouldn’t be able to have life. But what really matters is extinctions, but also the climate history of a planet has a role to play. And it seems that it’s a theory. It still has to be backed up by more observation, but there is a good correlation between not only the passage of the solar system towards the center of the galaxy. There is one place where we get hit by asteroid because of the interaction I was telling you about. But the other one is the climate. With the Milankovitch cycles, big jumps in life’s evolution seem to be associated with snowball earth episodes.
+(33:31):
+We don’t know why yet. Snowball episode, intuitively you would think that they are connected to a decrease in life because the whole earth is covered in ice. But for some reason, there were big jumps in evolution right after each of those episodes. And today there are other things like why all of a sudden you have mutation that seems to be responsible for a big jump in evolution. We are not clear yet. So all of those things, when you’re thinking about life elsewhere, are going to come into play.
+(34:08):
+And I cannot tell you that a planet that remains habitable for much longer than the earth will have an evolutionary path that’s the same or different, depends on extinction, depends on climate, depends on whatnot.
+Lex Fridman (34:25):
+It’s a little bit surreal that we’re two descendants of apes.
+Nathalie Cabrol (34:30):
+Well, I think that some people-
+Lex Fridman (34:32):
+Try to figure out what the heck is going on. And I mean, we’re very biased, even as, so you, we’re biased as humans. You’re less biased as a scientist. But we still love earth. We still don’t know anything but this earth. And so even though you try to get escape from thinking of what life is, in the search for the nature of life, we’re still kind of connected to the way we understand the nature of life here on earth.
+Nathalie Cabrol (35:00):
+So I think that it’s a little different than that. We are biased when it comes to the origin of life. Because, well, we are the only model we know. And as I said, it makes sense because it seems that a lot of stars like the sun appeared 10 billion years ago. And there are lots of world that really resemble the earth and lots of water out there and lots of condition that could be a repeat of what we know. And we know that this biochemistry works. So again, as I mentioned, what is going to change is really the evolution of a planet. Extinction, geology, et cetera.
+(35:46):
+But our model is probably very abundant. I’m not saying that the end game is going to resemble us because of all these extinction, et cetera. But this is a good bias. It’s one that has the number for it. You know, the principle of mediocrity. I think that in that case, it really applies where the earth is representative of an abundance of other worlds.
+(36:13):
+Now, of course, there can be other biochemistry. We have some examples in our own solar system. Titan might be a representative of that. We are not very clear of the kind of biochemistry that can come out of a world where you have hydrocarbon lakes and rains and things like that, but we’re going there. So we will learn something about this. So the bias is right there. The nature of life is different.
+(36:43):
+If really life is the best way the universe has to fight entropy, there is no bias there because physics is the same all across the universe. At least the universe we know. There might be other universes, but the one we know works with the same physics.
+Lex Fridman (37:01):
+So if life is the best way to fight entropy, you can imagine that life permeates the entire universe. And then the question might change to like flavors of ice cream. What are the flavors of complexity that this process, this nature of life leads to? And there we might have bias about what complexity looks like, what beautiful complexity looks like. We’ll look at humans that operate a certain physical scale and time scale, and we think this is intelligence.
+Nathalie Cabrol (37:36):
+We have another problem. We don’t know what life is. We don’t know what intelligence is, and we don’t know what consciousness is, but we are trying to tackle the big question.
+Lex Fridman (37:44):
+So. But do we know what complexity is also?
+Nathalie Cabrol (37:47):
+You don’t know. I think that we have to be honest, and as a scientist, and I’m gonna step back and talk about intelligence. For me, a bacteria that has survived, like cyanobacteria, that has survived just like us, four billion years in one incarnation or another, and actually they are very similar to the one that they were 3.5 billion years ago. It has some intelligence about its environment. So for complexity, it might be that we need to take the world literally, which is an assemblage or additional capacity to gather, collect, store information. Maybe this is something like that, or actually use that information to do something with it. But I do completely agree with you when you talk about flavor of ice cream. I think this is exactly it. And I have a basic education about what physics is doing right now, and I look at quantum physics, and what it says about the universe, and about the connection about an atom here, and an atom here, a photon here, and a photon there, and I am starting to put maybe wrongfully two and two together, but in my mind, and of course it’s nothing until I can prove it, but in my mind, the universe is connected everywhere in all different places. So this life connection is something that, as you said, permeate the universe, and the way to find life might be very different than to look for the origins of life. I think it’s a good thing to go out there and look for the origin of life somewhere else, because it’s the manifestation of the nature of life that all of a sudden becomes apparent, evident to our eye. But what I think would be our greatest achievement is that if we can find that process of life, because at that point, in my mind, the universe all of a sudden is going to illuminate itself with actually its living force, what I can only call a living force. To me, this is what we are looking at, a universe that becomes more and more complex with time, more and more able to gather information, and interestingly enough, why? To understand itself. So Sagan was right when he was saying, we are the universe trying to understand itself. And the more we go, the more the universe becomes alive, maybe intelligent, and maybe also conscious.
+Lex Fridman (40:35):
+Conscious, self-aware. Exactly. Through us. It does make me a little bit sad as a human, just watching all the breakthroughs on artificial intelligence side when applied to natural sciences, now more and more to physics, that the creatures that will solve the question of the origin of the nature of life or just the process, the nature of life, will be AI systems. It makes me a bit sad to…
+Nathalie Cabrol (41:04):
+I don’t think so. Because… You think humans will. At this point in time, remember who’s behind AI. You know, I’m not buying in the singularity thing yet. AI is not aware. AI is being built by humans. So AI is a tool, an extremely smart tool. As long as we build it, and as long as we use it as a tool, it remains a tool. And I think there is a lot of brouhaha, and of course, science fiction and movies, they don’t help.
+Lex Fridman (41:38):
+Yeah, I gotta push back a little bit. Yes, I agree with you for the most part in terms of brouhaha and sci-fi. But there is, like in the work of DeepMind, we can look at chess or we can look at protein folding. So chess is a simple one to first look at. AlphaZero, which is their game-playing engine, was able to discover, and now Stockfish, about chess humbles the best human players. Not just it’s better than them. It comes up with ideas that the humans don’t understand. And so the AI now is telling you, even though it’s programmed by humans, the AI is saying like, sacrificing a pawn here is a good idea. Sacrificing a queen or a bishop here is a good idea. And then you start to kind of intuit as a human why, but you don’t deeply understand.
+(42:34):
+And you can say that AI is not conscious, it doesn’t deeply understand the way humans do, but there’s still a wisdom and a depth of knowledge in that chess-playing program that humans don’t have. And the same with the alpha fold with protein folding. There’s a, and now they’re applying it to physics to simulating nuclear reactions and so on. So it feels like there might be a way to understand the nature of life, that we can kind of intuit poetically as humans, but the true understanding will come from a system that’s much more computationally sophisticated.
+Nathalie Cabrol (43:09):
+Again, you know, I would push back on my turn because I still think that humans give themselves the ability to do that by building that tool. So the idea that the tool, you know, we are getting into the Kardashev scale and the dark forest and all of these things. We can see the world this way. At this point in time, for me, I still see a great tool.
+(43:39):
+Now, whether the sci-fi scenario is going to, you know, happen, et cetera, I still think that we are far away from this. But if that tool is capable of giving me a new perspective, it’s just that we are starting to jump into a deeper cognition of what the universe is, whether it’s through our brain or through a different way of gathering information. Remember, this is what we do.
+Lex Fridman (44:09):
+Yeah, humans are able to actually build tools and then integrate them into their way of thinking. Maybe another generation has to be born that is raised with those tools, but we seem to take for granted all the cool technologies you integrate into your way of thinking. A lot of people that are growing up now, their mind is integrated with the internet. You basically reconfigure the way you memorize things. You no longer have to memorize a lot of facts because you can look them up really quickly. And so like, so you reallocate a lot of resources for thinking versus memory of just strict facts, that kind of stuff, and we integrate all of that.
+Nathalie Cabrol (44:53):
+Yeah, and you know, there I would completely agree with you. In fact, I wrote about this again in this new book that’s coming out.
+Lex Fridman (45:02):
+So, when is the book coming out?
+Nathalie Cabrol (45:03):
+In January, it will be in French actually to start with. You wrote it in French? Actually, I wrote it first in English and I translated into French. So the English version is already pretty much ready to go if we find a publisher in the US. But anyways, the point being here that I looked at this as our relationship with technology as a complete change.
+(45:30):
+To me, this is a singularity more than anything else, which is the co-evolution of human with technology, not anymore with their environment. Why we are messing up the environment right now, why we don’t respond to pandemic the way we should because we are disconnected to the environment we are taking our information from and we were adapting from. Right now, exactly as you said, we take the information from the web, from the phones, et cetera.
+(45:59):
+We have no filter over that information. Before you were out in the environment, the information you get is the one the planet is sending you. Now this information is coming from different way. You have no way of knowing if the information is correct or not.
+Lex Fridman (46:12):
+See, I gotta push back on that.
+Nathalie Cabrol (46:13):
+No, you look at this as an ecosystem and it explains a lot of our behavior.
+Lex Fridman (46:18):
+See, I like that you said teenagers. So the technology, I think, when we move past the teenager stage, enriches our ability to sense the earth, to understand what’s going on with the environment. It’s just that we’re very, so it’s not that technology disconnects us from the environment. It gives us more tools with which to understand what’s going on with the environment.
+Nathalie Cabrol (46:41):
+That’s true for the people who are building the tools and know how to use it. Take those tools now, put them in the general public with no filter, which is happening with social media, which is happening with a lot of things, and you see the disaster this is creating.
+Lex Fridman (46:56):
+It’s not the disaster. It is. You sound like a parent talking about a teenager. Yes, the teenager, it’s the growing pains of a civilization that is becoming deeply connected. We can communicate all across the world, even through the pandemic.
+Nathalie Cabrol (47:12):
+That’s the good thing about technology. This is also something I wrote. It’s not the tools we create that are bad. It’s the way we use them. Yes.
+Lex Fridman (47:21):
+But we’re learning. This is the cool thing about humans.
+Nathalie Cabrol (47:24):
+And hopefully we’ll do all the learning before it’s too late, because our response to what’s going on in the environment, our response to pandemics is deeply connected to this disconnect we have with nature. Anyways, we all agree that we are in growing pains, and hopefully we can move forward because there is a fantastic universe, something absolutely magical around us. And I’m talking as a scientist. I mean, there is magic, not in sense of trickery, but in sense of wonder around us. And there are so many signs where we are getting so close to revolutions in cosmology, in astrobiology, in astronomy, which I think to me, this is where the hope lies. And also an awakening of understanding that we need to be in equilibrium with a planet if we want to move forward. Because even though we have these big dreams of going on Mars and the moon, and listen, I am a planetary geologist, so I am all for exploration. Right now, the moon or Mars is not going to save your butt because for the logistics, we’ll still depend very much on the earth and for a long time. I think this time we are living in will be remembered as a pivot in our history for a number of reasons. A time where there is a growing consciousness, where we are creating tools that are going a little bit ahead of us, that we have some difficult time to catch up on with, where we have to deal with a population that’s way too big for the planet we have.
+(49:12):
+We need to really learn a sense of balance and maturity as a civilization. So how is this going to unfold? Right now, I have no clue.
+Lex Fridman (49:24):
+I draw a lot of optimism from the similar things that happened many decades ago when nuclear weapons were developed. Boy, it was that, at the time, even more terrifying. You just now created weapons that could destroy the entirety of life on earth. Or not entirety, but a lot of it. And we somehow found a balance.
+(49:48):
+And the threat constantly is out there. And that threat has been made more visceral in recent times because of the war in Ukraine. But we find a balance somehow. I have a threat of optimism for human civilization that we figure it out. We’re clever teenagers, I think.
+Nathalie Cabrol (50:09):
+We are clever teenagers. There is definitely a threat of optimism. But I think it’s thin. It’s thin because something that has changed as well is the mentality of humans. Although the threat was terrifying when nuclear weapons were created, there was a sense of limits you were willing to push in the threats. There was a sense of decency, of moral values. It was not perfect, but it was at least a time where people could come together from very different perspectives and agree that something was more important than destroying everything.
+Lex Fridman (51:02):
+But that’s so hilarious you say that. Yes, you’re talking about a small slither of humans, which is the scientists in the Manhattan Project, perhaps. No, absolutely not. That was also the time when over 100 million people were tortured or murdered.
+Nathalie Cabrol (51:17):
+No, I agree with that. In China and in Europe. Absolutely, absolutely. I’m not talking about scientists here. Actually, I’m talking about politicians. We’ve gone beyond that point now. This is what I’m worried about. I mean, torture, et cetera. Unfortunately, well, we are apes. Exactly what you said. So I think that there is a lot to be, not to blame grandpa for that, but because we can always get better.
+Lex Fridman (51:44):
+Grandpa was a wild man. But we have to improve a lot on that side
+Nathalie Cabrol (51:48):
+before we can claim that we are a mature civilization.
+Lex Fridman (51:53):
+When you, just because you mentioned the magic, when you look out there, perhaps it’s not a scientific question, but.
+Nathalie Cabrol (52:01):
+You don’t have to be scientific all the time.
+Lex Fridman (52:03):
+Yeah, well, you said magic. So there’s a magic to magic that is in part scientific and in part, I don’t know, whatever. Whatever fills us with awe as humans when we look up at the stars. Do you think the universe is full of life or not? You know, when you’re sitting, drinking some wine, looking up at the stars and wandering as a human, do you think we’re alone or do you think life is everywhere?
+Nathalie Cabrol (52:33):
+I am going to make such an unmagical response to that. My response is, that’s the scientific response, that if we are alone, then the universe is a statistical absurdity. And I have no doubt in my mind, and that is an unscientific response as well. But I have no doubt in my mind that the universe is teeming with life.
+Lex Fridman (53:02):
+What if it keeps dying?
+Nathalie Cabrol (53:06):
+This is what life does, unfortunately.
+Lex Fridman (53:10):
+So the, yes. So that extinction, as a process, as a part of the process of life, extinction seems to be a fundamental, both negative and positive component. So what if all the complex life out there just keeps dying and not making way for, like we’re actually a statistical anomaly in us being able to survive that L in the Drake equation, being able to survive long enough to form complex organisms of the kind like mammals are, things with brains.
+Nathalie Cabrol (53:46):
+So, L is not about that. L is about how long a civilization is capable of being detectable, which means that rich technologies and being detectable.
+Lex Fridman (53:58):
+Okay, so there’s a more nuanced things to L, because you can have intelligent civilizations that are not very detectable.
+Nathalie Cabrol (54:03):
+Yeah, we had civilization for thousands of years. We started to be detectable 150 years ago. So it’s about technology, technology that we can actually capture from space. You become visible to your neighbors. And this is all about the Fermi paradox, right? It takes time, obviously, if we’re taking, again, ourselves as a model, but this is the only one we have, to get to the point where we become detectable.
+(54:36):
+But look at the age of the universe. Even if life as we understand it, not saying even as we know it, but as we can understand it, started 10 billion years ago. And it takes 4 billion years to get to the point where it becomes detectable. That means that the first planet where those civilizations started off, starting to be detectable when we were still cyanobacteria in pond. So they were throwing messages that were passing above our heads at that point. And those civilization, when you look at them now, close to 10 billion years after the start, so their sun would be dead, okay? In the best case scenario, they move somewhere else. And what that means is that civilization are going to rise, die, or move, and transform themselves. We can see ourselves changing. We know that humans are still changing as a species. The human being in 1,000 or even 500 years from now might not be looking a lot like we are doing right now. Who knows where we will be. We might be migrating into our planetary system. We might be migrating somewhere else.
+Lex Fridman (55:51):
+Well, you said migrating, but it seems when you look at life, it doesn’t necessarily migrate, it expands. So it’s not or place A or place B. It’s place A and place B.
+Nathalie Cabrol (56:05):
+It seems to expand. It could be. We are talking about the human civilization here. So there are different factors. If you are a cyanobacteria or any type of even a mammal that doesn’t have the technology to escape the planet we were born on, then it’s plan A, it’s right there. Whatever happens to your planet, you are tied to it. You cannot escape it. For humans, it’s a little different. Yeah, it’s A and B, or whatever we can. So we have to expect that a number of the civilization, extraterrestrial civilization that might be technologically advanced, a number of them will have disappeared just because they run the course of their evolution or because their son run out of fuel and they didn’t have a way to escape or they were wiped out by any kind of event. And then there will be those that survive.
+Lex Fridman (57:06):
+Everything I’ve seen from life, it seems obvious that there’s life everywhere out there. In fact, maybe I don’t understand the jump from bacteria enough, but it seems obvious that there’s intelligent civilizations out there. Now, I don’t know how to define intelligence, but there’s beautiful complexity. Like when you look at a, I’ve looked at enough cellular automata, which is a very primitive mathematical construction that when you run, complexity emerges, I’ve looked at that enough to know that it just seems like there’s complexity everywhere out there. So that’s why I’m deeply puzzled by the Fermi paradox. It makes no sense to me. I mean, I have trivial answers to it. Why haven’t aliens at scale not shown up?
+(57:59):
+I think the two possible options for me is either we’re too dumb to see it, they’re already here, they’ve been talking to us through processes we just don’t understand. What we experience as life here on Earth is actually they’re everywhere. Aliens could be consciousness. That when we feel love for one another, that could be aliens. When we, I don’t know, or feel fear or whatever, that could be aliens.
+Nathalie Cabrol (58:26):
+I have to agree with you. None of this is scientifically provable. Right now, we talked a little bit already about that. But I would say that I do not adhere to the Fermi paradox because it’s very anthropomorphic. It’s, you know, it’s an interesting exercise, let’s put it that way. But it’s a typical example of seeing the universe through our own eyes. And this is where the limitation is. Understanding what’s going on with complexity, as you said, and looking at the biophysical model and theories for the nature of life, I would agree that probably this extraterrestrial message is all around us. We’re not yet capable of picking it up.
+Lex Fridman (59:17):
+But I think, unfortunately, even though that makes me sad, the way to pick it up is by studying life here on Earth, doing some of the science you’re doing, better understand the nature of life until you realize, holy crap, the thing I was looking for all along has been here all along.
+Nathalie Cabrol (59:35):
+Right under our nose. Well, you know, a good example of that, and it doesn’t need to be an extraterrestrial civilization, is look at something that I really, whether or not it’s real, I don’t care, because in terms of intellectual exercise, I think it’s fantastic. Look at the shadow biosphere. The idea that life didn’t appear only once on Earth, but there were many different pathways of it. And today, we know and we study the tree of life that led to us, from Luca to us. And the shadow biosphere is telling us that there is, or there are, other pathways that came up at the time where life originated, but they are so different that we cannot recognize them as being living. And we cannot pick them up in our test because our tests are being built to recognize life as we know it. And for me, again, I don’t know if this theory will be verified or it would be discredited, but what I like about it is that it forces me to think on how do I look for life when I don’t know?
+(01:01:03):
+So, that starts here on our planet, not even with little green men. It starts with very simple life that can be so different that it might be just right in front of our nose and we don’t see it.
+Lex Fridman (01:01:18):
+So, that probably starts with the scientific humility of…
+Nathalie Cabrol (01:01:22):
+Always.
+Lex Fridman (01:01:24):
+Realizing that we might be too biased in our understanding of what is the phenomena we’re trying to study.
+Nathalie Cabrol (01:01:30):
+Yeah, I don’t like the term bias because it involves some moral connotation, that you know. But I understand the bias in terms of scientific pathway, intellectual framework, definitely.
+Lex Fridman (01:01:41):
+What do you think about the UFO sightings? So, the widespread experiences that people have in seeing different phenomena that they sort of, that are mysterious, that people project ideas about whether it’s aliens or not, but they can’t explain it, and there’s pictures and data, and then the government is involved in releasing footage and all that kind of stuff. And that seems to captivate the public.
+Nathalie Cabrol (01:02:10):
+It always. It’s imagination. It always do. You know, there are a number of things that captivate people, especially children, actually. Dinosaurs and aliens. Still a child. Yeah, we are all still child at heart. And so, about UFOs. I am a scientist and I am a citizen. So, I’m gonna tell you a couple of things. First, I don’t mind talking about that at all because I think, as a scientist, this is extremely interesting because the thing I don’t know, I want to learn about it. This is more knowledge. So, we all know the statistics about UFOs.
+(01:02:45):
+95% of them are just natural phenomenon or things that are being misinterpreted. We know that. Then you have the 2% that might be secret programs by whatever government. It’s out there. Another percent, say, is about natural phenomenon that we don’t know about yet and we cannot explain. And then there is this tiny percentage that don’t fall into all these categories of thing. And I think that the report about the UAPs falls into the same kind of scheme, except that now they have at least some patterns of speed of other things that were in the report.
+(01:03:26):
+Today, we don’t know if these sightings are part of military program or actual UFOs. I always run into that question because, of course, as the director of the Carl Sagan Center at the SETI Institute, I received a number of emails about the subject. People are actually confused about what the SETI Institute is. We are not studying UFOs. We are studying, we are actually looking for messages. The way I put it, you know, usually, is that we are studying extraterrestrials in their natural habitat. And the UFO people are trying to understand whether they invaded our aerial space. So this is two very different things. And unfortunately, over the years, I actually respect very much people who are trying to go to the bottom of what UFO are following some very scientific ways of doing this.
+(01:04:25):
+There are very, very credible agencies doing this. Unfortunately, there is a folklore around UFOs. And this has been a huge disservice to the scientific community. And this is why you have been having that much pushback for a long time by the scientific community because no congressman in the world wants to tell their taxpayer that they are supporting something that looking for flying saucers. And you know, when you see what’s happening, it’s terrifying. And I am actually concerned, you know, about that relationship that people do between folklore and real search for extraterrestrial intelligence. In fact, it’s been so bad that until today, there is no government agency that is actually funding the SETI search.
+(01:05:23):
+It is a private funded endeavor. What NASA funds right now, which is a progress, is a search for techno signature, which means that when you are looking at the atmosphere of a planet, you look for some disequilibrium that could tell you that something is there. But it’s not going to fund an institute or whatnot that is looking for messages or other things like that.
+Lex Fridman (01:05:49):
+Is that just have to do with a taboo associated with the folklore?
+Nathalie Cabrol (01:05:52):
+Yes. And I think there was a pushback from the political arena decades ago about that. At the time where all the flying saucer were coming out and then the SETI Institute got it started.
+(01:06:06):
+But now there is more of a willingness to look at the UAP, UFO, phenomenon from a scientific standpoint. So much so that the government is actually seeking some help from a scientific institution. And there are programs to start looking into those phenomenon. And as a scientist, I am interested.
+(01:06:34):
+What I’m not interested in, again, Carl Sagan comes back here. I don’t want to believe, I want to know. And so to know, you have to have a real experiment, you have to have observation and you have things that are done the right way. I don’t want to have somebody that starts with what if as a question and then turns this what if into the only argument and the only conclusion there is.
+Lex Fridman (01:07:03):
+You understand what I’m saying? But still, I think it’s valuable to appreciate the mystery and not deny the mystery, so.
+Nathalie Cabrol (01:07:10):
+No, the mystery is there, but what I don’t want is people taking advantage of the public and making money out of folklore.
+Lex Fridman (01:07:17):
+Well, let me flip that. I understand, but so there’s a folklore in the stuff I do, AI and robotics, for example. There’s a clear fear terminator in movies and all those kind of stuff. You could say that I’m very concerned about this miscalibrated understanding of the public, of what robots’ role are in society. Or you could see it as a, let’s use a metaphor of a wave. You can say this giant wave that we’ll call folklore is a really bad idea, we need to avoid it, we need to hide, we need to build dams, or you can be a surfer and ride the wave as a scientist. To me, the fact that people are wondering about the mystery of UFOs, it means they’re wondering.
+Nathalie Cabrol (01:07:60):
+No, they are, but the thing, I will stop surfing that wave when it comes back to bite an entire scientific discipline. When it hurts the science, sure. For now, the past 60 years, we were not able to raise money from the government, no grants. It’s a discipline that has no postdoc or very little postdoc just because there is a fear of that folklore on the political arena. People don’t want to be associated with that because they confuse the two. So I stop there.
+(01:08:35):
+And as the director of the Carl Sagan Center, I am just very happy to see now that there is a course correction in the government seeking scientific investigators for this kind of issues, and hopefully that will right the ship there.
+Lex Fridman (01:08:52):
+I love it, I love to see it. But I want, and I love our little disagreements. I’m doing so obviously respectfully and with love, and it makes for a fun conversation. But I think, you know, just like with surfing a wave, there’s some level of, the more you resist it, the worse it is. So I-
+Nathalie Cabrol (01:09:13):
+We didn’t resist it. Yes, it happened. It didn’t come from us, and we paid the price.
+Lex Fridman (01:09:18):
+I just think that the role of a scientist, in part, in the 21st century, and we talked about social media, is to direct this sense of wonder that people have into a direction of the rigors of science. I think we do that pretty well. I would disagree. I don’t think so. I would say he does much better, but there’s other places in science where-
+Nathalie Cabrol (01:09:43):
+The search for life is a fairly easy place to, you know, draw the wonder of people. Yes, yes, 100%. Because it’s a profound question that pretty much everybody has.
+Lex Fridman (01:09:53):
+But I think, I just want to highlight the fact that I think a lot of scientists, my colleagues, friends, think that all you need to do is science. All you need to do is the scientific process, the peer review process, the data, and so on. But I think communication is actually a fundamental part of the process. Oh, yeah. Because it has to do with funding, but it also has to do with, like, we’re a bunch of humans trying to ask big questions, trying to figure this whole puzzle out, and curiosity-
+Nathalie Cabrol (01:10:21):
+I totally agree. We do have more public presentation at the Institute than peer-reviewed articles. And believe me, we have lots of peer-reviewed articles. So our scientists are out there, and they are sharing the wonder of discoveries. And it’s so easy these days. I mean, there is not one day. Tell me about writing a book right now about the search for life in the universe. I mean, it’s almost every single day I had to correct something in the chapters I was writing.
+Lex Fridman (01:10:49):
+So SETI, in terms of both signatures and signals, is a pretty active field?
+Nathalie Cabrol (01:10:54):
+So it’s getting better right now. It’s getting better. But remember that the SETI Institute is not only about the search for extraterrestrial intelligence. This is the historical root of the Institute. But it’s about 10% of what we do. In fact, we are searching for life in the universe from the origins of life to extraterrestrial intelligence. So 90% of everything else is exoplanet. For instance, we have a good chunk of the Kepler team that is actually with the SETI Institute, and they are working with TESS right now. Some already have some time on the GEMS web. We have astrobiologists, we have astronomers.
+Lex Fridman (01:11:35):
+And those are looking for data, for signals,
+Nathalie Cabrol (01:11:40):
+for planets outside of our solar system. Yeah, go to analog places to try and understand the type of life that survive in planetary-type environments. I mean, people are always surprised when I tell them, you know, whatever flies in the solar system has flown or will be flying, we are involved. So this is not something that pops in everybody’s mind when they are thinking about the SETI Institute, because we started off as the search for extraterrestrial intelligence. But the Institute has really bloomed into the search for life along the Drake equation, all the terms of the Drake equation.
+Lex Fridman (01:12:19):
+Just to clarify, because by the way, you’re saying a bunch of terms sometimes. It’s good to return to the basics. When you’re saying whatever’s flown, SETI is a part of the things that are flown. So we, because we’re using we elusive sometimes, we say we humans, and sometimes we SETI. So the SETI is really broadly involved. A lot of the fingertips reaching out there towards us.
+Nathalie Cabrol (01:12:43):
+Think about Mars, involved in landing sites selection in instruments that are actually on board some of the mission in science teams, for instance. Cassini, New Horizons, also missions that will be coming. It’s the search for life. We do this all across the Drake equation. So SETI is part of it, and it’s our route, and it’s expanding a little bit right now. We hope it will continue to expand. So this is a good time for the Institute. And it also, in my mind, was the very first astrobiology institute because we have this multidisciplinary approach where I can bring many of the scientists from different domains and disciplines to think about a question. And as you know, discoveries happen at the nexus of disciplines. And it’s really a privilege when you are in an institute like that.
+Lex Fridman (01:13:39):
+So you’ve dived in volcanic lakes at high altitudes to study the creatures within. Can you tell me the technical, the fun, the human story of that effort?
+Nathalie Cabrol (01:13:50):
+The image that is associated with a scientist is the person with the white coat in the lab. In fact, a number of us at the Institute are athletes doing what would be considered extreme stuff. And I mean, it’s fun. It’s a little dangerous too, but it’s to get data and more knowledge. So there are so many stories.
+Lex Fridman (01:14:15):
+I don’t even know where- What was the first time you did a dangerous thing with a volcano?
+Nathalie Cabrol (01:14:20):
+Oh, so the first one associated to the search for life understanding was in 2002, where I started climbing those high volcanoes in the Andes that are 20,000 footers. The view out there is just beautiful. You got-
+Lex Fridman (01:14:39):
+You’re so hilarious at spending almost no time on some epic things. I love this. Okay, how tall are these volcanoes? What are you doing with a volcano? What’s required to prepare for that? What does a mission like that look like? I mean, that is true that this is science embodied. It’s like athletics and it’s science, and you’re studying the extreme conditions of life on Earth, extreme beauty of life on Earth and those conditions. So what are we talking about with this volcano?
+Nathalie Cabrol (01:15:11):
+How big is it? So remember when we were talking about how do I understand how I search for life on Mars? This is how it started for me. And then I looked at environment, in my head started going through the environments on Earth. That would be good analysis. And then you only have a few. And the Andes in that case are some of the best in the world just because of the aridity of the place.
+(01:15:37):
+And the higher you go, the least atmosphere you have, the more UV radiation you have. And the Andes are volcanic, hydrothermal, plus you have the climate change that’s coming, you have evaporation. It’s a picture of Mars 3.5 billion years ago. And so now you are actually entering a time machine, basically. So remember I’m a diver.
+(01:16:04):
+And the first time I got in 2002 to the places we wanted to explore, all of a sudden I was standing at 14,000 foot looking at 20,000 feet and saying, okay, well, I need to get up there.
+Lex Fridman (01:16:23):
+Are you scared?
+Nathalie Cabrol (01:16:24):
+No, no, because we are prepared. And the only thing I didn’t know is if I was going to be able to make it to the top because now you’re dealing with high altitude. You can deal with high altitude sickness. You can deal with a number of things. And for God’s sake, these are volcanoes and they are dormant, they are not extinct. That can bite, to bite us a couple of times.
+Lex Fridman (01:16:44):
+What was your preparation for that kind of, I mean, this is.
+Nathalie Cabrol (01:16:47):
+There is a lot of hiking and trekking at high altitude around here, but not so high because we don’t have anything closer to those elevations around here in the US. But in volcanic environment, climbing volcanoes here, we have plenty of those. Diving as well. I am a free diver. So this is where it’s going to be hilarious because I started with a complete irrational fear of pressurized vessels that comes from an incident in my childhood. And so I became a free diver to avoid having to carry oxygen tanks on my back.
+Lex Fridman (01:17:24):
+Free diving is diving without.
+Nathalie Cabrol (01:17:26):
+Without anything, just your lungs, right?
+Lex Fridman (01:17:29):
+That was, that started from childhood.
+Nathalie Cabrol (01:17:31):
+Yeah, no, it was to the point where when I saw a pressurized vessel, like a methane tank or anything, I would be going around and put a lot of distance between me and that tank. So I was not going to carry any oxygen tank. And the first time I actually dived at the summit of that lake was free diving. People look at me like I’m nuts. Well, maybe I am a little bit.
+Lex Fridman (01:17:57):
+People that work with you as well? I mean, that kind of seems kind of nuts.
+Nathalie Cabrol (01:18:01):
+No, we knew with. It’s a risk. Actually, it’s a lot of, less of a risk than getting with conventional air. And I can explain that. But ultimately, what decided me to certify SCUBA and go over my fear was that as a scientist, I needed more time at the bottom of the lake to sample, you know, rationally, take my time to think. And I can stay quite long enough as a free diver underwater. But the last thing you want to do at 20,000 feet is to come up at the surface with empty lungs because there is not much you can breathe out there to replenish your oxygen.
+(01:18:47):
+So definitely your time in the water is cut short just for safety. And I realized that it was not a good trade-off for me at some point. So I certified SCUBA and after three years of exploring that lake free diving, we finally came up with a full SCUBA diving expedition, but we were diving with rebreathers, which means that we dived with pure oxygen.
+(01:19:16):
+So rebreathers give you a bag with stuff that looks like cat litters in it, which is basically to absorb the CO2 that you are expelling when you’re breathing. And they’re recycling oxygen this way. So basically you are rebreathing your own respiration. Wow.
+Lex Fridman (01:19:38):
+Yeah. How long can you do that? So what’s interesting about that technology?
+Nathalie Cabrol (01:19:42):
+So it’s very interesting because then that completely avoids the potential issues you may have with the binds. When you are diving, the risk of bubbles trapped in your lungs because of different pressures and different gases.
+Lex Fridman (01:20:01):
+Oh, so there’s a complexity to the flow of oxygen underwater.
+Nathalie Cabrol (01:20:05):
+When you are breathing regular air, when you are SCUBA diving here, you know that you have to do some different, when you’re coming back, when you are diving deep and you have conventional air, then you need to stop so that you can equalize the gases in your lungs. If you come back too fast, then you can have air bubbles stuck and then you can raise the binds, which means you can risk to be paralyzed. You can raise a number of nasty issues. And we wanted absolutely to avoid that. So diving with pure oxygen avoids this completely.
+(01:20:43):
+And it has another benefit at high altitude is that, well, the greater risk when you are at high altitude is altitude sickness. What is altitude sickness? It’s just you not having enough oxygen in your blood. So this was a good benefit. It was a good trade-off. We were lucky enough to be also trained by the military. So we came up with not the civilian rebreather, which is the big thing on the back that you carry on your back. We actually were given Navy SEALs commando rebreathers.
+Lex Fridman (01:21:21):
+You worked with Navy SEALs for this?
+Nathalie Cabrol (01:21:23):
+The director of military operations, yes. We were trained like astronauts for three months. I spent more time, I had a joke that if somebody wanted to reach me, they better put a phone line at the bottom of the swimming pool because this is where I was. So we trained and we trained, and our manual about the safety was about that thick.
+(01:21:46):
+So it was a real operation. That was three years into it because when you are free diving in the years prior, there is no risk. You don’t have any other gas in your lung than what you are breathing. The only risk is come short of air and then you’re in trouble, which happened to me one time, seriously.
+Lex Fridman (01:22:06):
+So- Tell me about that time. I gotta ask you about free diving before we return to the rebreather.
+Nathalie Cabrol (01:22:11):
+Well, all these legs I had altitude, they are cold. They are the minimum temperature that you can have on bodies of water, clear bodies of water, which is four degrees C. It’s very, very cold. And so you cannot- Nice bath. Yeah, so you cannot just dive with a wetsuit. So the idea was to take a drysuit and I learned how to free dive with a drysuit, which is really the worst thing you can do.
+Lex Fridman (01:22:46):
+What’s a wetsuit? What’s a drysuit?
+Nathalie Cabrol (01:22:48):
+So a drysuit, a wetsuit is usually what you use in the ocean when it’s not too cold. You can use also drysuit, but the wetsuit basically is going to keep you warm because water is getting into the suit and at the contact of your skin is getting to body temperature. And so for a while you can dive like that and in the ocean here, that’s fine. That’s fine. The drysuit is the opposite. It’s completely closed, which means that you don’t have any contact with the water outside and you keep your warmth through your body temperature and even clothing that you can put into it. So this drysuit, they are used by diver, go really deep in very cold water and need to stay a long time underwater. So what’s the bad part? The bad part is that when you have those drysuit, you have a lot of air that can be trapped in it.
+(01:23:50):
+Usually we do what we call burping the suit. It’s not very pleasant expression, but you get in the water and as soon as you get in the water, you can see the air pockets all over the place, right? So you burp the suit, you open the valve and the air comes out. Once you have done that, then you look with your lead belt and you know when you’re ready to go down. And so what happened that day is that I actually did burp the suit but didn’t realize I burped it completely. And so I went down and immediately I felt the air pocket going to my legs. So basically air was trapped in the suit and went on my legs as I was diving like that. And so I didn’t pay too much attention to that.
+(01:24:39):
+Yeah, I was diving down. And so I didn’t pay too much attention about that as I was busy, just an awkward position, but then I wanted to turn and go up. Well, no can do. I was just like a buoy. And I was like that. So the first time I say, okay, I try a second time and a third time. And by the fourth time, I kind of realized I was in trouble. And the fifth time I say, okay, now you better give it your best try. Otherwise it’s gonna be big trouble.
+Lex Fridman (01:25:17):
+So this is free diving. I was free diving. And then you can’t. And I cannot turn around. What were you feeling? I mean, is there a panic?
+Nathalie Cabrol (01:25:25):
+No, there is no panic because you can’t. You cannot afford to be panicking. In fact, you are always thinking because there is training, and this is the best part about training. Your training allows you that space to keep you cool and compose which you need to be in that kind of situation. And so finally, after the fifth time, I was able to rectify the position and get myself up. But when I got up, my lungs were empty. I had been in the water for quite some time. And I knew what was going to happen.
+(01:25:58):
+So I decided to just be the plank, not move and don’t do anything, just open my mouth and try to suck oxygen. But obviously oxygen at 6,000 meters, 20,000 feet, there is not that much. It’s about a little, it’s a 48% of what you breathe at sea level. So although it was noon at that time, the sky stayed pretty dark and starry for about a minute or two. So just stars everywhere? Oh my God, yes. Oh my God. The funny thing was-
+Lex Fridman (01:26:34):
+And that’s the first time you experienced that kind of, I mean, can you possibly train for that? Because can you also pass out?
+Nathalie Cabrol (01:26:43):
+Oh, you could. I mean, the fact that I was already seeing dark was a real sign that my brain was starved of oxygen. And I had one of my friends or colleagues on the shore just telling me, because I’d been under for a little while, and say, is everything okay? And I remember trying to say something, and I was just like- That’s, I think, the best lie I ever, ever.
+Lex Fridman (01:27:11):
+I get the thumb down. You were lying to the friend and maybe to yourself?
+Nathalie Cabrol (01:27:14):
+No, because I knew I was going to be okay, but it took me to be still for a few minutes.
+Lex Fridman (01:27:21):
+Well, can you talk about freediving? I mean, what’s the technical skill involved here? It just seems, it seems exceptionally difficult. Like for most people that swim, you go underwater. It’s hard. So what’s the skill there?
+Nathalie Cabrol (01:27:38):
+You know, I think you probably can get good or better at freediving by training. So you have different techniques. You can train in swimming pool, and you can say, you know, frankly, for me, I go at the bottom of the swimming pool and I sit there, and then you have relaxation techniques. Some people meditate. I can’t. I am not a good person that can meditate, or if I do, I don’t know about it. But my way of doing things and taking my mind off the situation I’m in is by singing in my head.
+(01:28:13):
+I love music or hearing music, and in fact, knowing the kind of song I’m singing, I know about the length of time that I’m staying underwater as well. So this is how, you know, so this is my own way, people have different ways. What kind of music are we talking about? All sorts of music. Can be classical, can be pop music, you know, just songs. When you really know that you are relaxed, and something I experienced actually at 20,000 feet, which was the greatest experience of my life in those terms, is when you forget that you have water around you. At that point, you cannot tell whether you are the water or water is you. There is actually no separation anymore.
+(01:28:57):
+And I felt that when I was training in the swimming pool. I never could have imagined that I would feel that way once on top of that volcano. And it happened, and it was absolutely amazing. It was, you know, we were talking about how life consciousness permeates the universe. At that point in time, on that volcano, that day, it took me by surprise. I was not expecting it. Everything around me, the lake, was arctic blue with all the ray of the suns you can, you could tell them apart, every single one of them. I was surrounded by golden darts.
+(01:29:40):
+And it was the most incredible experience. And I don’t know if it’s that kind of environment that led me to just, you know, go into whatever state of meditation or whatnot. But all of a sudden, there was no separation anymore between me, the water, the volcano. And if I came with questions, they didn’t matter anymore because for that fraction of a second, it seemed that I had all the answers in the universe.
+Lex Fridman (01:30:09):
+Was it the connectedness with everything?
+Nathalie Cabrol (01:30:11):
+You can call it that way. I still don’t know what it means, you know, literally. But it is that moment where you feel that it doesn’t matter. It really doesn’t matter anymore. It was absolute peace, absolute understanding, and it was incredible. It was an absolute awareness.
+Lex Fridman (01:30:34):
+Could you describe it as beautiful?
+Nathalie Cabrol (01:30:37):
+That would go beyond that. I think that there is clearly, in my mind today, no words that can express how perfect this was.
+Lex Fridman (01:30:47):
+Does that start to speak to why you love diving? Or is there something special about that place, diving at such elevations and volcanoes?
+Nathalie Cabrol (01:30:56):
+You know, I started diving pretty much, this is the first thing I did when I was near water. In fact, there is a very fun little incident with my parents, me being on the shore of a lake on vacation, I was three years old, maybe. And I had these little lifesavers, you know, on my arms, and my parents were not watching. And in my little brain, I still can remember today, saying, well, nothing bad can happen to me. I cannot drown if I go underwater. See, that’s the logic of a three-year-old.
+Lex Fridman (01:31:29):
+Yes, it kind of works.
+Nathalie Cabrol (01:31:32):
+I mean, that’s pretty brilliant. So I removed the lifesavers that I had, and I just went in the water. My mom said before she could do anything, I was under. And it was like a natural thing. And for me, I felt immediately at home. And you know, as little as I was, completely. And it goes beyond that. You know, this sense of connectedness, or oneness, or whatever.
+(01:31:60):
+I always felt good underwater. So it doesn’t matter, really, if it’s 20,000 feet. The thing that matters at that point is that you need to get there. So you need to get with all the gears, with your hiking, trekking equipment, high mountaineering gears. And when you get on top of that, you have to remove all that, and don a suit.
+Lex Fridman (01:32:24):
+Is there something you can speak to, the challenging aspects of that process? Or is it just like this rigorous process that’s well-designed, that you have to go through, and you don’t think?
+Nathalie Cabrol (01:32:34):
+Where humans, this is where most of the risk is. Because you can be well-prepared, but for one reason or another, you get sick, you know? And you can get sick not only because of high-altitude sickness. It can be a number of things. Or you can be tired, or you can catch a cold. And then, of course, you have the mountain itself. We had a magnitude 7.8 earthquake hitting one day when we were 50 meters away from the summit.
+Lex Fridman (01:33:05):
+So you can’t obviously plan for that.
+Nathalie Cabrol (01:33:06):
+No, you can’t. And that’s the axe of gods. You know, working with NASA, although I am the director of the SETI Institute, my grants are coming from NASA, so I’m a NASA contractor. And every time we go to those environments, we have to go through the rigorous process of training with NASA and checking all the boxes for safety. So they are training and training and training us, and I have to thank them, because a lot of those trainings are the things that are in your brain. When these kind of things happen, you know how to react and you are not freaking out.
+(01:33:40):
+But in all of the things they are training us for, you have the green risk, the yellow risk, and the red risk. So the green risks are basically the don’t be stupid and don’t do the kind of thing you wouldn’t be doing at home, like jumping on rocks that are not stable, you can tweak your ankle, you know.
+(01:33:59):
+And then you have other risks like altitude sickness, how you prepare for that, how you recognize that. These are the yellow risks. And then the red risks. The red risks are what they call the axe of gods, the kind of thing that they can happen. You know there is nothing you can do about it, and then you accept that when you do that. So those are volcanic eruptions, when you’re in this kind of environment, earthquakes, and avalanches, for instance.
+Lex Fridman (01:34:27):
+So you’re on this giant mountain, and it’s shaking.
+Nathalie Cabrol (01:34:31):
+No, it’s not shaking. That’s the interesting part of it. There was a whole background of things that happened that day when we started off. But we got to 50 meters from the summit, and I have part of my logistics team that is at the foot of the mountain. And being so close to the summit, we have to go under an overhang of lava. So it’s just like we are just under this big vault of lava, and it’s actually beautiful. If you want something beautiful, it’s the Altiplano seen from 20,000 feet. It’s just absolutely stunning.
+Lex Fridman (01:35:06):
+What’s the colors?
+Nathalie Cabrol (01:35:07):
+What are we looking at? The colors are that of early Earth, which means primordial Earth. It’s ochres, yellows, oranges, browns, with a dark blue sky. And so you are just, you know, it’s a time machine. You’re just out there, and you’re climbing 42-degree slopes. So all of a sudden, I’m right next behind the guide, and the guide has been with us, his family. You know, we’ve been together for 10 years, and he’s starting to do that.
+(01:35:40):
+I don’t discuss. When Macario do that, you know, I listen, and I ask the team to do the same thing, where maybe half a dozen. And then I want to talk to him and say, what’s going on? He’s on the radio.
+(01:35:52):
+And then he gives me the radio. I’m talking to my logistic chief officer, who was at the bottom, and he said, we’re having a tremendous earthquake. He was saying that the, actually the ground was waving, it was so bad. And he was freaking out, because he said, everything is avalanching, and I’m very puzzled, because we are in a very dangerous part of the volcano. Nothing’s happening. I turn around, and then this is when I realized, there is dust absolutely everywhere.
+(01:36:22):
+Everything that I saw two minutes before, it’s gone, just disappear into a wall of dust. But nothing’s happening where we are. And our friends down, they were freaking out, because they were seeing everything avalanching, and especially the other side of the mountain we were on, was avalanching.
+Lex Fridman (01:36:39):
+So they have no visuals.
+Nathalie Cabrol (01:36:41):
+They have no visual, they thought that we are caught in the avalanching. So I said, no. But some, so at that point,
+Lex Fridman (01:36:49):
+I said- So they thought you were screwed.
+Nathalie Cabrol (01:36:51):
+Yeah, and I said, okay, so if this is what’s happening, then I’m taking everybody to the summit, because we have a very large crater that will take care of avalanching, we’ll be safe. And I’m waiting for the aftershock, because this is what you do, you know, when you have earthquakes. So here we go, taking everybody in the crater, and now you have half a dozen scientists in the crater, with the crater lake, and this is why we came for.
+(01:37:23):
+So we just had a 7.8 earthquake, and what do you think they do? Well, of course they do the science they came to do. So the only thing is that I couldn’t, because my radio was only working when I was on the rim of the crater. But I had a little assistant with me, a young Bolivian teenager. He had been shadowing me for three weeks, so he knew exactly what to do. And he said, Natalie, no problem, give me your bags, I’ll do the sampling for you. So I was monitoring the situation. And- Were you scared? No, I wasn’t at that point.
+(01:38:02):
+And there was another moment, my friend downstairs, I could, you know- At the foot. At the foot, yeah. We’ve known each other, as I said, we’re family, this team is family, we’ve known each other, I am the grandmother’s kid, so we are close. And I could feel for the first time in my life that he actually was scared. And he was calling me every 30 seconds, telling me stuff. I say, you have to stop this now. Just call me to give me information that is useful for me to make decisions.
+(01:38:35):
+And so I say, okay, what’s going on? All right, he tells me, you know, there is still avalanching, et cetera. And then a few minutes later, he calls me, say, I think that Lascar is erupting. So now I have to tell you, we are on a volcano. The next volcano, we share a slope with it, is a little lower, but that’s the most temperamental volcano of the entire chain. And this one has a history of eruption. And then my friend is telling me that the volcano seems to be starting to erupt. If that volcano goes up, we have nowhere to go. That got my attention.
+(01:39:14):
+So if you say scared, I would say that I got the realization that what that meant. I went cold for like a fraction of a second, but that meant that just my adrenaline started to kick in. And it was a very, very strange experience because now you have tunnel vision. It’s about survival. And I say, okay, now you are going to tell me what I need to know, you know. Tell me, what do you see? Say, I see smoke. Say, what kind of smoke? You say, it’s white.
+(01:39:44):
+I say, no big deal. That’s water vapor. Okay, where is it going? It’s going to Argentina. That was the opposite direction of where we are. I said, okay, I’m staying where I am because right now there is no danger.
+(01:39:57):
+And there was still the issue of the aftershock. I didn’t want to have the team caught in the gully, in the central gully of the volcano with an avalanche coming at us. So we stayed there. And he called me after that and say, well, you know, it’s still going to Argentina. Fine, okay. And then a little later, he calls me and say, Natalie, things are changing here. I say, okay, what’s going on? I say, well, the cloud is a little yellow. And I was thinking myself.
+Lex Fridman (01:40:33):
+What does it mean when it’s yellow?
+Nathalie Cabrol (01:40:35):
+Sulfur. And then when you have sulfur mixed with the water vapor or the water in your lungs, this turns into sulfuric acid. Then you’re really screwed. And I say, okay, where.
+Lex Fridman (01:40:50):
+Thank you for the information.
+Nathalie Cabrol (01:40:51):
+Where is the cloud going? He said, the wing is shifting. It’s coming your direction. So yeah, that was a day like that, you know. And I am talking to him on the radio and I’m turning around. And as I turned around, I see the cloud starting to pop on the opposite side of the rim, you know. So at that time we had no choice anymore because now you have to figure out what’s going to kill you first. And so there was the risk or the potential of an avalanche. But at least you can see the rocks. The gas is going to kill you before you can see it. So I called everybody back. We gather our stuff.
+(01:41:33):
+I didn’t give too much detail, but I say it’s time to go downhill and fast. So, which we did. We stopped only when we were at mid-camp, and then at that point we saw the cloud just completely covering the summit where we were. So we did well to bail out. But that was 500 meter, 500 meter higher than we were. So we are safe. I was just making sure that you would not go down the slope where we were safe. So we stayed and, you know, just rested for a little while. And after that we descended. And it was all on adrenaline. I can tell you what, I had two of my crew with headaches. Part of one of them was because of the altitude. We climbed very fast. The other one was because of the cloud. She was the closest to the cloud when it happened. So we descended fast.
+Lex Fridman (01:42:23):
+Wow, that was close.
+Nathalie Cabrol (01:42:24):
+That was close. And it’s interesting how the human body and mind works, because I know that from the moment my friend told me that the volcano seemed to be erupting, I was going on adrenaline. But when we got close to them and I saw him, we were getting close to the cars, I saw him come in towards me. And the slope, all of a sudden, all the adrenaline went away. I was a mess. I had to find the first rock and sit down. It was gone. I mean. Fascinating.
+Lex Fridman (01:42:57):
+So you just basically, physically and mentally collapsed
+Nathalie Cabrol (01:42:60):
+once you saw. Absolutely. There was nothing left of me. I got in the car and I felt in the cars we were heading back towards our camp, I could have passed out. I really fought back. And I’m not the kind of passing out really, you know, easy. But there was nothing left. I had no energy, no nothing. It’s fabulous how you react and how this is embedded in your brain from eons of evolution, of reaction to a dangerous situation, basically.
+Lex Fridman (01:43:35):
+The drive to survive.
+Nathalie Cabrol (01:43:36):
+Yeah, something like that.
+Lex Fridman (01:43:38):
+You just told us one heck of a story. And as you said, such story comes along with many of the diving expeditions that you do. But on the science side, what is that world that simulates, that travels back in time into the Martian landscape? What does the science reveal?
+Nathalie Cabrol (01:43:58):
+So the science reveals that life is resilient. When I started that project, I told my husband, I said, this is going to be very fast. We are going in such nasty environment that we’re not going to find anything. And we’ll be back home fairly soon. So 20 years later, we are still studying those environments.
+Lex Fridman (01:44:19):
+So that was a gut feeling like nothing, not much can possibly survive.
+Nathalie Cabrol (01:44:22):
+Well, the UV environment is so nasty. But there you find the same microorganism that made the very first fossils on earth, 3.5 billion years ago. And they keep surviving. They developed an adaptation Swiss army knife, if you prefer. And so you learn about that. You learn about what they are, how they adapt through times and through environmental changes, which is really important. What are their signatures? We learn to recognize them. We learn what kind of instrument we need, what kind of signature, whether it’s chemical or morphological or whatnot.
+(01:45:07):
+So basically we learn how to explore, but I would say that to me, and this is a realization interestingly enough that came three years into the project. I really woke up literally one morning saying, you know, we’ve been coming here for three years now, trying to understand how to search for life on Mars.
+(01:45:30):
+But what this place is showing us is what’s happening right here, right now on our own planet. And by exploring those extreme environments, we are also reaching to places not too many people go. And so we are learning more about our own biospheres and the diversity of our own life here on earth. So these are the two main thing, you know, that I would say.
+Lex Fridman (01:45:54):
+What kind of life survives up there?
+Nathalie Cabrol (01:45:58):
+On top of those volcanoes, it’s about bacteria.
+Lex Fridman (01:46:01):
+You know, mostly. Is there something specific about that bacteria that’s able to be so rugged?
+Nathalie Cabrol (01:46:07):
+Yes, they have adapted to very high UV radiation. And it’s not only because they are at high altitude, it’s because early earth didn’t have an ozone layer. So when those, the ancestors of those bacteria originated, they have to survive a world where you had lots of short UV coming down at the surface. And also lots of hydrothermal environment, you know, volcanoes and hot water, lots of salt. And you see all this toolbox still embedded in those microorganism today, four billion years later, it’s just amazing. And depending on the environment, they are going to switch some of these defenses adaptation on or off.
+(01:46:56):
+The UV situation there is so nasty that here you have bacterias like that, cyanobacteria. You find them everywhere. It’s really something you find all over the place. But if you find them here in California, they will turn their protection against UV during the day in summer, and they will switch it off at the end of the day. There in the Andes, it’s so nasty that that thing stays on all the time. But if you take samples and bring them back here and start to culture them, like we did on top of a building, leaving them, you will see the second generation of this organism, they are starting to switch on and off again. So they’re extremely adaptable, extremely rugged, and that’s why they are still here. And probably that’s why we’re here, because life finds ways.
+Lex Fridman (01:47:58):
+So is there some degree to which the harshness of the conditions enables the flourishing of life versus shuts it down?
+Nathalie Cabrol (01:48:08):
+Well, it will shut down those that cannot survive. Obviously, this is a statement that’s kept in obvious right there, but it’s also the survival of the fittest. And this is what evolution is, right? So they are here because they were the most adaptable. And so evolution is going to show the path of the fittest.
+(01:48:36):
+The one that cannot resist, they might have a good time for a little while, but then, you know, we’ve seen this at much different scale and with complex life, not so long ago, a hundred thousand years ago, Neanderthal was side-by-side by Homo sapiens, but Neanderthal was completely adapted to a cold earth, to a glacial earth of the end of the Pleistocene. And when conditions changed, it couldn’t last.
+Lex Fridman (01:49:08):
+You think, I mean, there’s still some mysteries around that, right? Like exactly what were the harshness of the conditions? I’m still really suspicious. What did Homo sapiens do?
+Nathalie Cabrol (01:49:18):
+No, no, no, no.
+Lex Fridman (01:49:19):
+I really want to know. No, no. Some shady stuff that happened.
+Nathalie Cabrol (01:49:23):
+Shady stuff happened, they met, they bred together, they fought against each other. What humans do, you had to expect that. But the thing is that Neanderthal was completely adapted for a very long time to live at the edge of those glaciers. They were probably in a weakened situation when Homo sapiens came and started to spread. So basically this is what life does. It adapts and if it cannot adapt anymore, it disappears and something else takes over.
+Lex Fridman (01:49:59):
+You hold the women’s world record for diving at altitudes, both scuba and free diving. So I have to ask, can you describe the details of those records?
+Nathalie Cabrol (01:50:09):
+I never looked. For those, I’m not after records at all. In fact, I didn’t know I had broken those records when that happened. We did that as part of our expedition, our scientific expedition.
+Lex Fridman (01:50:21):
+So it’s basically sport in the name of science versus?
+Nathalie Cabrol (01:50:24):
+No, it’s science in the name of science and it’s just a very physical thing that you have to do. So we train ourselves like athletes.
+Lex Fridman (01:50:33):
+Yeah, to get the job done.
+Nathalie Cabrol (01:50:35):
+To get the job done.
+Lex Fridman (01:50:36):
+You’re holding your breath underwater for a very long time with free diving. What are we talking about? Do you think in terms of time, is there layers where you know through training you’re in a good place? I’m sure you take time off and you get rusty, right?
+Nathalie Cabrol (01:50:51):
+And I have not been diving in a while, so probably I need to go back to the drawing board and the bottom of the swimming pool. But having training from the past, I think it will pick up much more faster then. Basically, I would never at those altitude, I would never go over three minutes. That would be suicidal.
+Lex Fridman (01:51:13):
+Yeah. So the altitude is much tougher than the pool back at ground level?
+Nathalie Cabrol (01:51:18):
+It is, but it’s not.
+Lex Fridman (01:51:19):
+Oh, it’s because when you come up and you have to get up.
+Nathalie Cabrol (01:51:22):
+Not the going in the water. When I’m underwater, I’m fine. And if I wanted, I could stay longer, but it wouldn’t be very wise.
+Lex Fridman (01:51:30):
+You’ve written about the history of life on Mars. Like you said, you’ve kind of exploring that by looking at the lakes here. Do you think there’s been life on Mars? Do you think there is life on Mars?
+Nathalie Cabrol (01:51:44):
+Right, so when you’re looking at the environment of Mars early on, it’s fairly similar to that of early Earth. Never was exactly the same because Mars was always farther from the sun than the Earth, right? So it was always a little cooler, but you have to imagine maybe the Arctic during the summer. That would be early Mars with a lot going on for it in terms of environment. Very favorable to even life as we know it.
+(01:52:13):
+So we don’t know how fast life happened on Earth. There are signs right now showing that it might have actually originated only 200 million years after the crust cooled down. Yeah, this still has to be verified, but that’s the closest. And these are indirect evidence like carbon left by the activity of life, not life itself. And there is a twist in the story for Mars is that it seems that Mars came together as a planet faster than the Earth and had water earlier than the Earth. So it may be that Mars was habitable and might have seen the beginning of life earlier than the Earth. So all of this is speculation. Obviously, we haven’t found any evidence or solid evidence yet.
+(01:53:10):
+I would say unambiguous evidence, but unambiguous evidence of life is going to be something interesting to prove because we don’t know what life is, remember? So I always joke that the only way we would know that there is life on Mars if there was a rabbit jumping in front of the rover, but we might be gathering, we have what we call a ladder of life detection, which is that you have a series of rungs that you need to go through that actually are not proving you that you discovered life, but are making the possibility that what you discovered was made only by the environment more and more improbable. So we are trying to prove the contrary, right? So this is what we have right now.
+(01:54:01):
+And as far as I’m concerned, considering all the unknowns we have, I think there was as much chance that life originated on Mars than it did on Earth. And if it was at the surface, then it got in trouble after 100 million years because of the disappearance of the magnetosphere, the loss of the magnetosphere and the atmosphere. But as we know, life doesn’t only stay in one place. As soon as it’s out there, it’s going to adapt, it’s going to give itself more chance to survive. And that to me means that if life appeared, I would say it’s still there and probably on the ground where it can be in an environment that’s more stable.
+(01:54:51):
+So I don’t know how stability is good or not. It might not be so good, but they might be in a different type of metabolism through dormancy, waiting for different climate cycles. And there is the fact that Mars changes a lot faster than the Earth. And climate changes are a lot stronger in magnitude. So there might be a place on Mars, we know that there is a place on Mars deeper in the subsurface where temperature and pressure are good for liquid water to stay there. So these would be good places for a stable habitat over time, no matter what happens at the surface. But if life is also caught between that deep zone and the surface, there is an active layer. There is a lot of ice in the subsurface of Mars. And when the climate changes, when the obliquity goes beyond 30 degrees, then at that point you will have some activation of that zone.
+(01:55:52):
+You have thawing of the ice. So all this region is reactivated. And maybe that’s a way where you have pathways for life to move from the deep zone to closer to the surface. This is why I am one of those scientists who thinks that life might not be so far from the surface than we think.
+Lex Fridman (01:56:15):
+So we don’t have to dig very far to find it.
+Nathalie Cabrol (01:56:18):
+We probably won’t. And the reason I’m- That would be so amazing. I’m thinking of that just because of this experience as well of extreme environments. You have to sit and look and listen, basically. The story of my life. If I want to understand where microbes are located on Mars, I have to become the microbe, right? This is the thought experiment. And if I want to understand where E.T. is, then I have to become E.T. So it’s a big stretch. But in extreme environment, you sit in the desert for a while and you just try to understand where the wind’s coming from, where the humidity, when it’s showing up, and then you start to understand the patterns of those things.
+Lex Fridman (01:57:01):
+What are the useful signals that you need for survival?
+Nathalie Cabrol (01:57:03):
+You need to know where water is, where the source of energy is going to be drawn from. You need to find shelters, and shelters don’t mean that, for instance, you can have a water column of a lake or a river or whatnot, or the ocean. It can be also a very thin layer of dust, or it can be a translucent rock. And you see what we call endoliths.
+(01:57:27):
+These are the same things that we see in the ocean. These are the same cyanobacteria, but a different version of them. They live inside the rocks, inside those crystals, because they have the best of life. They are into translucent crystals so that they receive the light from the sun, they can do the photosynthesis, but there is enough of that crystal so that the nasty UV is being stopped. And they are in their little house.
+(01:57:57):
+And when you are looking at temperature within those rocks, they tend to make it toastier than the outside temperature. So there is a lot of thing going on.
+(01:58:10):
+So what I’m saying for Mars is that, yeah, right now you don’t have an atmosphere very much, 160 times thinner than the Earth. Six millibars is really not much, but it’s there. But you still have a lot of UV, the short UV, like the nasty one, UVA, UVB, UVC, that can really mess up your DNA and destroy it beyond repair. But as soon as you have a little alcove into a rock or a cliff, you know, I’d be looking at those places, but you have to understand Mars, or any other planet for that matter, at the level that matters for the microbe.
+(01:58:52):
+And- Yes. So then- Be one with the microbe. Be one with the microbes, which means that we have lots of orbital data, which is good to understand habitability at the planet level or at the regional level.
+(01:59:06):
+But we have very little data right now that is very useful to understand habitability. At the scale that matters for the microbes at this point in time. So we need to do a better job with that. My idea is to, you know, have arrays of environmental stations that could have a lot of benefits. One would be to give us that vision for the microbes. That would be good for us through biology.
+Lex Fridman (01:59:34):
+And second- A collection of stations on Mars. On Mars, yeah. That collect, that give us a good map.
+Nathalie Cabrol (01:59:40):
+Yeah. High resolution. We can do that regionally. And on top of that, so that’s good for us through biology, for the search for life on Mars. That’s good about how to learn where microbes could be that can be a problem for contamination both ways. So that’s good for planetary protection. And since those station would have communication capabilities on them, that’s excellent for human exploration because not only you have weather stations all over the place that can tell your astronauts, you know, learn the pattern when it’s a good time to go out or not go out. And also how to communicate when they go and do sorties. So there are a number of things we can do that can tell you lots of information.
+Lex Fridman (02:00:26):
+Let’s rewind the clock a little bit. You grew up in Paris. I was just there. Helen McDonald in her New York Times amazing profile piece of you writes that your teenage years were troubled. So how did the challenging early years make the human being the scientist that you are today?
+Nathalie Cabrol (02:00:46):
+Everything. I think that this is what’s taking me on top of those big mountains. And the irony is for me to be looking for the origin and nature of life because I was so close to losing it. But to me, that was a great lesson learned and that helped me see through the beauty of life.
+(02:01:12):
+Going on the other side of that, it became really what made me and helped me go through absolutely everything and anything in life. Climb mountains and tell me there is something I want to know. And I am going to give it my best and I won’t give up and I won’t give in. And this is a message that I carried all my life and I’m so very grateful that I did because all these things that I would have missed if I hadn’t done that. This is something that I wrote in my first book and part of it is the reason why I wrote it just because I felt that there were messages in my path.
+(02:01:57):
+Oftentimes, teenagers are troubled. It can be one way or another. Or if it’s not a troubled teenage, you have times in your life where you doubt, where you just wave in your arm and say, what’s the purpose? What’s the reason why I carry on? And when I see all the things that I’m doing, the dream that I was able to fulfill, what a waste it would have been, you know?
+Lex Fridman (02:02:23):
+So there’s, there was a point in your life where you thought about suicide.
+Nathalie Cabrol (02:02:28):
+Oh yeah, yeah. And I did more than thinking about it, but I was a lucky one. For some reason, I’m still here. I still don’t know why, but I’m still here. And the lesson for me was that never ever again, because you have to give tomorrow a chance. You never can think about tomorrow in the terms of the present. You never know what can happen. You know what is going to happen if you go through what you want to do.
+(02:02:56):
+Tomorrow’s never happening, you know? And I had, I had a, the other lesson came a few years later where I actually, somebody was drowning, and I went after that person. I almost died that day too, not that I wanted to, but it’s just because the condition were very, very difficult. That person died from there, although we took him out of the water. But I had a lot of difficulty coming out. I came out, but then I thought a lot about that guy. He was in his 30s.
+(02:03:29):
+And it was like a sort of a echo from a few years before telling me that person would never have a tomorrow. That person would never be able to fulfill his dream or even have dreams of any kind. And I was here and I was going to give myself the best chance to fulfill all the dreams I wanted to and go after all the questions I wanted to. And this is what kept me going now, you know?
+Lex Fridman (02:03:55):
+Yeah. So the advice there is even if you don’t see a why, an answer to the why question, why live today.
+Nathalie Cabrol (02:04:05):
+Give tomorrow a chance, always.
+Lex Fridman (02:04:09):
+Do you think about your death today? Do you think about your mortality?
+Nathalie Cabrol (02:04:17):
+Not really.
+Lex Fridman (02:04:18):
+You’ve been so close with it so many times.
+Nathalie Cabrol (02:04:19):
+Yeah, well, you know, that’s part of life. And you know what? If something happens to me while I’m doing the stuff I love, what a way of going. This will happen wherever it catches me. I don’t know, I don’t care. It will be what it will be. And I had the best of all masters for that. I had my husband. My husband and I were 44 years apart in age. And it was just a pure love story. And he never looked at his age, never thought about himself or defined himself by his age. In fact, he reinvented a life for himself at an age where everybody retires. We met when he was 66. And that was a blessing and a curse, but a blessing, most of it, because we took every single day as if it was the last. So we enjoyed life.
+(02:05:15):
+And right now, it’s not so much. You know, I have to really think of him. He just passed away this August, last August. And for me, it’s more like I have to draw from his example, on him always telling me, look forward, trust life, be happy, live. You know, today, every single day, I have to remind several times a day of this. It’s not easy, but he had the recipe. He never thought about death, because when you start thinking too much about death, that prevents you from living.
+Lex Fridman (02:06:01):
+Do you miss him?
+Nathalie Cabrol (02:06:03):
+Oh gosh, we were so close. I think we were, it’s more like one spirit in two bodies. We were that close. So missing him doesn’t even cut it. I mean, it’s the toughest mountain I ever climbed.
+Lex Fridman (02:06:21):
+What’s the role of love in the human condition?
+Nathalie Cabrol (02:06:25):
+I think, I hope, that this is the force that drives the universe. Although, you know, we might be experiencing the other side of it, maybe just to learn how important love is. That might be it, you know. For me, my experience with my husband, where I never had to wake up every single morning, ever wondering if I was loved. I had to look in his eyes and him looking back at me to know it, you know. So when you get to that point where you don’t question it anymore, I would hope for humanity to reach that point where you can feel the same love for the person that is unknown in the street, that you feel for the people you love. I think that at that point, we are going to be reaching the maturity of that civilization we are hoping for.
+(02:07:22):
+And seeing the universe through love, that doesn’t run spacecrafts, of course, but putting love into our intent of going into and settling into another planet instead of, oh my God, we need to escape because we are freaking messing up with our own planet. So I think that this is the answer to so many things.
+Lex Fridman (02:07:49):
+Is there a part of you that maybe just a little bit wants to step foot on Mars, like you personally?
+Nathalie Cabrol (02:07:58):
+Oh yeah, of course, I’m curious, I’m a scientist and I’ve been working on Mars. I was actually privileged to be working on Gusev Crater and deciding for the landing site of the Spirit rover, which means that I worked on that landing site for 15 years and I got to see it from the ground. That’s the closest to being there and exploring. Of course, that’s not physically be present there. If you were giving me the opportunity, of course I would go, but I know one thing, I would want to come back.
+Lex Fridman (02:08:31):
+So given the option of dying on Mars or dying on Earth, dying on Earth, you’d visit Mars, but you would like to spend your last days here.
+Nathalie Cabrol (02:08:41):
+Yeah, because of a number of things. I think that first, we’re not ready to set on Mars, regardless of what being said, it will happen. It will happen and because we are explorers, humans, they’re explorers, so this will happen. And it’s a good thing, depending on how we go about this, it can be a very good thing. You know, with time, as much as I’ve been exploring, continue to explore the big questions of origin and nature of life or exploring of a planet, the love, you were talking about love, the love for my own planet has grown deeper and my concern about it has grown deeper. So the data that I’m collecting to learn about other planets, I’m also using it to understand better our home planet and trying to make it a little better for the next generation. So if you were talking about love, this is love that would drive me back here.
+Lex Fridman (02:09:43):
+Yeah, this planet, it’s just, sometimes I just pause and I’m in awe at the incredible thing we have here and I have deep gratitude for all the life forms here, the beautiful complexity. Of course, there’s darkness behind it, all the death, all the extinction that led up to us, two descendants of apes sitting here today. I feel that’s a responsibility. We’re the fittest that survived.
+Nathalie Cabrol (02:10:13):
+Exactly right. As the dominant species, at least, technologically, et cetera, maybe not the wisest one, but the dominant species, we have a responsibility towards the entire biosphere because the decisions we are making now not only affect us, they are affecting the entire biosphere. And right now, the choices we are making are leading to the disappearance of 150 species every single day.
+(02:10:45):
+All the big mammals on this earth today are on the brink of extinction. We are within the sixth greatest mass extinction. It’s unfolding before our eyes. And I would strongly suggest that we use our smart to help a little bit this situation, and we can do this. I think we can do this. We just need to redirect our energy.
+Lex Fridman (02:11:21):
+In the name of love. This was an incredible conversation. I’m really honored that you sit with me. I’ve been a fan of your work for a long time now, so this is really awesome. Thank you so much for talking.
+Nathalie Cabrol (02:11:32):
+You’re very welcome, thanks.
+Lex Fridman (02:11:35):
+Thanks for listening to this conversation with Natalie Cabral. To support this podcast, please check out our sponsors in the description. And now, let me leave you with some words from Stanislav Lem and Solaris. How do you expect to communicate with the ocean when we can’t even understand one another? Thank you for listening, and hope to see you next time.
+Nathalie Cabrol is an astrobiologist at the SETI Institute, directing the Carl Sagan Center for the Study of Life in the Universe. Please support this podcast by checking out our sponsors:
+– True Classic Tees: https://trueclassictees.com/lex and use code LEX to get 25% off
+– Shopify: https://shopify.com/lex to get free trial
+– BetterHelp: https://betterhelp.com/lex to get 10% off
+– Athletic Greens: https://athleticgreens.com/lex to get 1 month of fish oil
+EPISODE LINKS:
+Nathalie’s Twitter: https://twitter.com/shasta721
+SETI’s Website: https://seti.org
+In Her Orbit (article): https://nytimes.com/interactive/2018/03/22/magazine/voyages-nathalie-cabrol-searching-mars-life-on-earth.html
+PODCAST INFO:
+Podcast website: https://lexfridman.com/podcast
+Apple Podcasts: https://apple.co/2lwqZIr
+Spotify: https://spoti.fi/2nEwCF8
+RSS: https://lexfridman.com/feed/podcast/
+YouTube Full Episodes: https://youtube.com/lexfridman
+YouTube Clips: https://youtube.com/lexclips
+SUPPORT & CONNECT:
+– Check out the sponsors above, it’s the best way to support this podcast
+– Support on Patreon: https://www.patreon.com/lexfridman
+– Twitter: https://twitter.com/lexfridman
+– Instagram: https://www.instagram.com/lexfridman
+– LinkedIn: https://www.linkedin.com/in/lexfridman
+– Facebook: https://www.facebook.com/lexfridman
+– Medium: https://medium.com/@lexfridman
+OUTLINE:
+Here’s the timestamps for the episode. On some podcast players you should be able to click the timestamp to jump to that time.
+(00:00) – Introduction
+(06:47) – Working in extreme environments
+(11:26) – Water and life on Mars
+(19:31) – Origin of life
+(37:00) – Complexity
+(40:37) – AI
+(49:23) – Extinction
+(57:06) – Fermi Paradox
+(1:10:48) – SETI research
+(1:13:39) – Diving in volcanic lakes
+(1:32:57) – Surviving an earthquake on a volcano
+(1:43:37) – Resilience of life
+(1:51:31) – Life below the surface of Mars
+(2:00:26) – Depression
+(2:04:08) – Mortality
+Podscript is a personal project to make podcast transcripts available to everyone for free. Please support this project by following us on Twitter.
