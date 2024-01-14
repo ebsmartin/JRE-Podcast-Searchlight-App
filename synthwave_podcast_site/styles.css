@@ -1,0 +1,83 @@
+
+/* Retro synth wave theme styling */
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background: #000;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(180deg, #2b5876 0%, #4e4376 100%);
+    background-size: cover;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+#title {
+    font-size: 2.5rem;
+    color: #ff7597;
+    text-shadow: 0px 0px 10px #ff7597;
+}
+
+#settings-btn {
+    background: #ff7597;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+    box-shadow: 0px 0px 10px #ff7597;
+}
+
+#search-container {
+    position: relative;
+    margin: 20px 0;
+}
+
+#search-input {
+    width: 80%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px #ff7597;
+}
+
+#search-btn {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 50px;
+    height: 100%;
+    background: #ff7597;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    box-shadow: 0px 0px 10px #ff7597;
+}
+
+.description {
+    color: #ffffffb3;
+    font-size: 0.9rem;
+}
+
+footer {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+}
+
+footer a {
+    color: #ff7597;
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
